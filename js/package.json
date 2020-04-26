@@ -1,0 +1,14 @@
+{
+  "name": "graphvis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "graph.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moritz Leidinger",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^5.15.0"
+  }
+}

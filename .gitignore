@@ -2,3 +2,6 @@
 .vscode
 lib
 node_modules
+.idea
+.ipynb_checkpoints
+archive

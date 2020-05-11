@@ -1,0 +1,132 @@
+,id,action_description,action_type,chapter,page,actioner_id,actionee_id
+6,6,offer assistance,9,2,,7,9
+11,11,fostering,3,3,,9,22
+12,12,inheritance,5,16,,9,13
+13,13,inheritance,5,16,,9,14
+14,14,placed in command,7,11,453,9,18
+15,15,request assistance,8,2,,9,7
+16,16,request assistance,8,5,,9,26
+17,17,request assistance,8,5,442,9,26
+18,18,request assistance,8,11,452,9,29
+19,19,offer assistance,9,2,,9,15
+20,20,provide information,10,5,442,9,22
+21,21,accusation,14,5,,9,24
+22,22,summons,15,14,457,9,37
+23,23,summons,15,14,457,9,38
+24,24,summons,15,14,457,9,41
+25,25,summons,15,14,457,9,42
+26,26,intervention,19,6,443,9,23
+27,27,challenge,20,15,460,9,18
+28,28,hostility_non-lethal,21,14,459,9,19
+29,29,hostility_lethal,22,5,,9,24
+30,30,hostility_lethal,22,5,442,9,24
+31,31,hostility_lethal,22,14,459,9,19
+32,32,conversation_neutral,23,13,456,9,18
+33,33,death_neutral,24,5,,9,24
+34,34,death_neutral,24,16,462,9,9
+35,35,offer assistance,9,1,,10,7
+36,36,death_neutral,24,1,,10,7
+37,37,provide information,10,1,,11,7
+48,48,placed in command,7,6,444,18,23
+49,49,request assistance,8,8,,18,29
+50,50,request assistance,8,16,461,18,31
+51,51,provide information,10,10,452,18,31
+52,52,provide information,10,10,452,18,31
+53,53,invitation,12,14,456,18,19
+54,54,giftgiving,13,12,455,18,31
+55,55,giftgiving,13,12,455,18,29
+56,56,giftgiving,13,12,455,18,23
+57,57,giftgiving,13,14,460,18,19
+58,58,giftgiving,13,16,,18,29
+59,59,giftgiving,13,16,,18,31
+60,60,accusation,14,7,,18,9
+61,61,accusation,14,10,450,18,9
+62,62,summons,15,7,,18,9
+63,63,insult,17,11,453,18,9
+64,64,hostility_non-lethal,21,10,450,18,9
+65,65,hostility_non-lethal,21,11,453,18,9
+66,66,hostility_non-lethal,21,14,459,18,9
+67,67,conversation_neutral,23,13,456,18,9
+68,68,offer assistance,9,14,456,19,35
+69,69,giftgiving,13,3,,19,21
+72,72,request assistance,8,6,444,23,18
+73,73,offer assistance,9,4,440,23,24
+74,74,provide information,10,4,,23,24
+75,75,challenge,20,6,443,23,9
+76,76,hostility_non-lethal,21,9,,23,31
+77,77,request assistance,8,4,440,24,9
+78,78,request assistance,8,5,,24,25
+79,79,request assistance,8,5,,24,22
+80,80,request assistance,8,5,441,24,25
+81,81,offer assistance,9,4,,24,9
+82,82,provide information,10,4,,24,9
+83,83,discover information,11,5,,26,9
+86,86,provide information,10,8,,29,15
+87,87,provide information,10,9,,29,18
+88,88,provide information,10,11,454,29,18
+89,89,provide information,10,12,454,29,18
+90,90,giftgiving,13,16,,29,18
+91,91,summons,15,12,454,29,22
+92,92,threat,18,11,452,29,9
+93,93,intervention,19,9,,29,31
+94,94,hostility_non-lethal,21,11,452,29,9
+99,99,request assistance,8,10,452,31,18
+100,100,offer assistance,9,9,,31,29
+101,101,provide information,10,10,451,31,18
+102,102,provide information,10,11,453,31,18
+103,103,provide information,10,12,454,31,18
+104,104,provide information,10,16,,31,18
+105,105,giftgiving,13,16,,31,18
+106,106,summons,15,12,454,31,22
+107,107,insult,17,11,453,31,9
+108,108,hostility_non-lethal,21,11,453,31,9
+109,109,hostility_lethal,22,12,455,31,21
+114,114,request assistance,8,14,459,35,18
+115,115,provide information,10,14,458,35,19
+116,116,insult,17,14,457,36,9
+0,117,origin,-1,0,,-1,7
+1,118,origin,-1,0,,-1,9
+2,119,origin,-1,0,,-1,10
+3,120,origin,-1,0,,-1,11
+4,121,origin,-1,0,,-1,18
+5,122,origin,-1,0,,-1,19
+6,123,origin,-1,0,,-1,23
+7,124,origin,-1,0,,-1,24
+8,125,origin,-1,0,,-1,26
+9,126,origin,-1,0,,-1,29
+10,127,origin,-1,0,,-1,31
+11,128,origin,-1,0,,-1,35
+12,129,origin,-1,0,,-1,36
+13,130,origin,-1,0,,-1,22
+14,131,origin,-1,0,,-1,13
+15,132,origin,-1,0,,-1,14
+16,133,origin,-1,0,,-1,15
+17,134,origin,-1,0,,-1,37
+18,135,origin,-1,0,,-1,38
+19,136,origin,-1,0,,-1,41
+20,137,origin,-1,0,,-1,42
+21,138,origin,-1,0,,-1,21
+22,139,origin,-1,0,,-1,25
+0,140,last_seen,25,17,,7,-2
+1,141,last_seen,25,17,,9,-2
+2,142,last_seen,25,17,,10,-2
+3,143,last_seen,25,17,,11,-2
+4,144,last_seen,25,17,,18,-2
+5,145,last_seen,25,17,,19,-2
+6,146,last_seen,25,17,,23,-2
+7,147,last_seen,25,17,,24,-2
+8,148,last_seen,25,17,,26,-2
+9,149,last_seen,25,17,,29,-2
+10,150,last_seen,25,17,,31,-2
+11,151,last_seen,25,17,,35,-2
+12,152,last_seen,25,17,,36,-2
+13,153,last_seen,25,17,,22,-2
+14,154,last_seen,25,17,,13,-2
+15,155,last_seen,25,17,,14,-2
+16,156,last_seen,25,17,,15,-2
+17,157,last_seen,25,17,,37,-2
+18,158,last_seen,25,17,,38,-2
+19,159,last_seen,25,17,,41,-2
+20,160,last_seen,25,17,,42,-2
+21,161,last_seen,25,17,,21,-2
+22,162,last_seen,25,17,,25,-2

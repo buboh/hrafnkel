@@ -1,3 +1,4 @@
+import math
 import numpy as np
 from sklearn.preprocessing import minmax_scale
 import matplotlib.pyplot as plt
@@ -31,6 +32,28 @@ def tf_spiral(x, y, turns=1, x_scale=(0, 1), y_scale=(0.2, 1)):
 
     nx = r * np.cos(MULTIPI * x / l) * y
     ny = r * np.sin(MULTIPI * x / l) * y
+
+    # x = t .. time
+    # t = x
+    # b = r
+    # a = y
+    # nx = (a + b * t) * np.cos(t)
+    # ny = (a + b * t) * np.sin(t)
+
+    # nx = (a + b * t) * np.cos(t)
+    # ny = (a + b * t) * np.sin(t)
+    return nx, ny
+
+
+def tf_spiral_single(x, y, turns=1, xmax=1):
+
+    MULTIPI = 2 * turns * np.pi
+
+    l = xmax  # x.max()
+    r = l / MULTIPI
+
+    nx = r * math.cos(MULTIPI * x / l) * y
+    ny = r * math.sin(MULTIPI * x / l) * y
 
     # x = t .. time
     # t = x

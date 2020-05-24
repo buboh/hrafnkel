@@ -1,0 +1,44 @@
+Number of Records	chapter	gender description	gender	id	is_one_time	label	never	page	weight_in	weight_out
+1	1	male	1	1	1	King Harald Fair-Hair		438	1	0
+1	1	male	1	2		Halfdan the Black		438	1	1
+1	1	male	1	3		Gudrod the Hunting King		438	1	1
+1	1	male	1	4		Halfdan the Mild and Meal-stingy		438	1	1
+1	1	male	1	5		Eystein Fart		438	1	1
+1	1	male	1	6		Olaf Wood-carver		438	1	1
+1	1	male	1	7		Hallfred		438	1	6
+1	1	female	0	8		Wife of Hallfred		438	1	1
+1	1	male	1	9		Hrafnkel		438	26	23
+1	1	female	0	10		Arnthrud		438	2	0
+1	1	male	1	11	1	man		438	1	0
+1	2	female	0	12		Oddbjorg Skjoldalfsdottir		439	1	2
+1	2	male	1	13		Thorir		439	2	1
+1	2	male	1	14		Asbjorn		439	2	1
+1	2	other	2	15		Frey		439	0	2
+1	3	male	1	16		Bjarni		439	0	3
+1		female	0	17		Bjarni's wife			1	2
+1	3	male	1	18		Sam		439	21	16
+1		male	1	19		Eyvind			4	5
+1	3	female	0	20	1	Sam's wife		439	1	0
+1		male	1	21		king of Greeks			0	5
+1		other	2	22		Freyfaxi			0	3
+1	4	male	1	23		Thorbjorn		440	5	4
+1	4	male	1	24		Einar		440	7	6
+1		male	1	25		shepherds			0	2
+1		male	1	26		mealtime servant			1	2
+1		female	0	27		milking women	1		0	0
+1		male	1	28		new shepherd	1		0	0
+1	8	male	1	29		Thorkel		446	10	4
+1		male	1	30		Thjostar			0	3
+1	8	male	1	31		Thorgeir		447	12	7
+1	8	male	1	32		Thormod		447	2	0
+1	8	male	1	33		Thordis		447	1	1
+1	8	male	1	34	1	Thorolf Skallagrimson		447	0	1
+1	14	male	1	35		Eyvind's servant boy		456	2	1
+1	14	female	0	36	1	Servant woman		457	1	0
+1	14	male	1	37	1	Sighvat		457	0	1
+1	14	male	1	38	1	Snorri		457	0	1
+1		male	1	39		Hallstein	1		0	0
+1		male	1	40		Hrolf	1		0	0
+1	14	male	1	41	1	Thord		457	0	1
+1	14	male	1	42	1	Halli		457	0	1
+1		female	0	43		Housekeeper	1		0	0

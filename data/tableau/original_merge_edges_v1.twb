@@ -11,11 +11,11 @@
     <preference name='ui.shelf.height' value='26' />
   </preferences>
   <datasources>
-    <datasource caption='hrafnkel_nodes (hrafnkel_saga_network)' inline='true' name='federated.01cxsgu0w5uetd10eg67b11owd2a' version='18.1'>
+    <datasource caption='hrafnkel_edges (hrafnkel_saga_network)' inline='true' name='federated.01cxsgu0w5uetd10eg67b11owd2a' version='18.1'>
       <connection class='federated'>
         <named-connections>
           <named-connection caption='hrafnkel_saga_network' name='excel-direct.0sdkt950p1osmf1dkupke1rf4eqp'>
-            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='/Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/data/hrafnkel_saga_network.xlsx' interpretationMode='0' password='' server='' validate='no' />
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='/Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/data/original/hrafnkel_saga_network.xlsx' interpretationMode='0' password='' server='' validate='no' />
           </named-connection>
         </named-connections>
         <relation join='inner' type='join'>
@@ -161,7 +161,7 @@
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
             <attributes>
-              <attribute datatype='integer' name='context'>3</attribute>
+              <attribute datatype='integer' name='context'>0</attribute>
               <attribute datatype='string' name='gridOrigin'>&quot;A1:G118:no:A1:G118:0&quot;</attribute>
               <attribute datatype='boolean' name='header'>true</attribute>
               <attribute datatype='integer' name='outcome'>6</attribute>
@@ -217,7 +217,8 @@
       </column>
       <column datatype='integer' hidden='true' name='[action (action!codes)]' role='measure' type='quantitative' />
       <column datatype='integer' hidden='true' name='[id]' role='measure' type='quantitative' />
-      <layout dim-ordering='alphabetic' dim-percentage='0.455919' measure-ordering='alphabetic' measure-percentage='0.544081' show-structure='true' />
+      <column datatype='integer' hidden='true' name='[page1]' role='measure' type='quantitative' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.434457' measure-ordering='alphabetic' measure-percentage='0.565543' show-structure='true' />
       <semantic-values>
         <semantic-value key='[Country].[Name]' value='&quot;Austria&quot;' />
       </semantic-values>
@@ -249,7 +250,7 @@
       <table>
         <view>
           <datasources>
-            <datasource caption='hrafnkel_nodes (hrafnkel_saga_network)' name='federated.01cxsgu0w5uetd10eg67b11owd2a' />
+            <datasource caption='hrafnkel_edges (hrafnkel_saga_network)' name='federated.01cxsgu0w5uetd10eg67b11owd2a' />
           </datasources>
           <aggregation value='true' />
         </view>

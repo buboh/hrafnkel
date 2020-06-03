@@ -1,0 +1,2598 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" height="100%" width="100%" viewBox="-500 -500 1000 1000" xml:space="preserve"  >
+<g stroke="#999" stroke-opacity="0.4"  >
+<line x1="231.10744671092777" y1="8.664638345959382" x2="248.36060980831178" y2="18.649195584318665" stroke="rgb(238, 67, 149)" stroke-width="2"  >
+<title  >
+7 - Hallfred, source: 87, target: 0</title>
+</line>
+<line x1="248.36060980831178" y1="18.649195584318665" x2="246.2669587867162" y2="37.19368239688698" stroke="rgb(238, 67, 149)" stroke-width="2"  >
+<title  >
+7 - Hallfred, source: 0, target: 1</title>
+</line>
+<line x1="246.2669587867162" y1="37.19368239688698" x2="242.7906041165549" y2="55.52933956942912" stroke="rgb(238, 67, 149)" stroke-width="2"  >
+<title  >
+7 - Hallfred, source: 1, target: 2</title>
+</line>
+<line x1="242.7906041165549" y1="55.52933956942912" x2="237.95106432483553" y2="73.55321873974407" stroke="rgb(238, 67, 149)" stroke-width="2"  >
+<title  >
+7 - Hallfred, source: 2, target: 3</title>
+</line>
+<line x1="237.95106432483553" y1="73.55321873974407" x2="231.77551175071534" y2="91.1641220710904" stroke="rgb(238, 67, 149)" stroke-width="2"  >
+<title  >
+7 - Hallfred, source: 3, target: 4</title>
+</line>
+<line x1="231.77551175071534" y1="91.1641220710904" x2="244.49708377376078" y2="106.91110951483924" stroke="rgb(238, 67, 149)" stroke-width="2"  >
+<title  >
+7 - Hallfred, source: 4, target: 110</title>
+</line>
+<line x1="223.35830390348414" y1="59.973293725369096" x2="237.95106432483553" y2="73.55321873974407" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 88, target: 3</title>
+</line>
+<line x1="237.95106432483553" y1="73.55321873974407" x2="231.77551175071534" y2="91.1641220710904" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 3, target: 4</title>
+</line>
+<line x1="231.77551175071534" y1="91.1641220710904" x2="224.29861998223157" y2="108.26317044297728" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 4, target: 5</title>
+</line>
+<line x1="224.29861998223157" y1="108.26317044297728" x2="220.3026539504674" y2="150.58402961120396" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 5, target: 7</title>
+</line>
+<line x1="220.3026539504674" y1="150.58402961120396" x2="223.45992771187787" y2="241.62402976488028" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 7, target: 10</title>
+</line>
+<line x1="223.45992771187787" y1="241.62402976488028" x2="204.74018570756772" y2="257.67803051336784" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 10, target: 11</title>
+</line>
+<line x1="204.74018570756772" y1="257.67803051336784" x2="184.870898497597" y2="272.28525839918075" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 11, target: 12</title>
+</line>
+<line x1="184.870898497597" y1="272.28525839918075" x2="96.21291630247565" y2="314.737328242759" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 12, target: 16</title>
+</line>
+<line x1="96.21291630247565" y1="314.737328242759" x2="72.3757925743578" y2="321.05802544407914" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 16, target: 17</title>
+</line>
+<line x1="72.3757925743578" y1="321.05802544407914" x2="48.13230384724281" y2="325.5760930706893" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 17, target: 18</title>
+</line>
+<line x1="48.13230384724281" y1="325.5760930706893" x2="15.32015280687725" y2="212.92940350589683" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 18, target: 19</title>
+</line>
+<line x1="15.32015280687725" y1="212.92940350589683" x2="-2.749959772241783" y2="293.5218850243497" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 19, target: 20</title>
+</line>
+<line x1="-2.749959772241783" y1="293.5218850243497" x2="-27.717130835117768" y2="327.94553162238145" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 20, target: 21</title>
+</line>
+<line x1="-27.717130835117768" y1="327.94553162238145" x2="-52.195351354369706" y2="324.94946737887005" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 21, target: 22</title>
+</line>
+<line x1="-52.195351354369706" y1="324.94946737887005" x2="-76.3805130600828" y2="320.12892446246707" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 22, target: 23</title>
+</line>
+<line x1="-76.3805130600828" y1="320.12892446246707" x2="-110.962427313537" y2="347.40404623269546" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 23, target: 24</title>
+</line>
+<line x1="-110.962427313537" y1="347.40404623269546" x2="-123.3309026618926" y2="305.13275717533213" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 24, target: 25</title>
+</line>
+<line x1="-123.3309026618926" y1="305.13275717533213" x2="-188.25761709983425" y2="269.9547752063475" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 25, target: 28</title>
+</line>
+<line x1="-188.25761709983425" y1="269.9547752063475" x2="-207.9428938678011" y2="255.10049773119192" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 28, target: 29</title>
+</line>
+<line x1="-207.9428938678011" y1="255.10049773119192" x2="-321.7219834207148" y2="69.3648069027709" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 29, target: 40</title>
+</line>
+<line x1="-321.7219834207148" y1="69.3648069027709" x2="-326.01272935794043" y2="45.08005489574886" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 40, target: 41</title>
+</line>
+<line x1="-326.01272935794043" y1="45.08005489574886" x2="-327.671473844929" y2="-30.78824907508471" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 41, target: 44</title>
+</line>
+<line x1="-327.671473844929" y1="-30.78824907508471" x2="-324.4462185991966" y2="-55.237326958314874" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 44, target: 45</title>
+</line>
+<line x1="-324.4462185991966" y1="-55.237326958314874" x2="-319.39931024810807" y2="-79.37626638895439" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 45, target: 46</title>
+</line>
+<line x1="-319.39931024810807" y1="-79.37626638895439" x2="-312.5590854334337" y2="-103.06953558560794" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 46, target: 47</title>
+</line>
+<line x1="-312.5590854334337" y1="-103.06953558560794" x2="-262.8877402357191" y2="-109.13219896288047" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 47, target: 48</title>
+</line>
+<line x1="-262.8877402357191" y1="-109.13219896288047" x2="-293.66216159990665" y2="-148.590194485665" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 48, target: 49</title>
+</line>
+<line x1="-293.66216159990665" y1="-148.590194485665" x2="-253.14120437826978" y2="-210.32365938889635" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 49, target: 52</title>
+</line>
+<line x1="-253.14120437826978" y1="-210.32365938889635" x2="-236.6818584948966" y2="-228.6880165470399" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 52, target: 53</title>
+</line>
+<line x1="-236.6818584948966" y1="-228.6880165470399" x2="-90.29909741900896" y2="-316.4847295812703" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 53, target: 61</title>
+</line>
+<line x1="-90.29909741900896" y1="-316.4847295812703" x2="-66.34773312387776" y2="-322.35770405271865" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 61, target: 62</title>
+</line>
+<line x1="-66.34773312387776" y1="-322.35770405271865" x2="33.856665048981874" y2="-327.3686565396548" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 62, target: 66</title>
+</line>
+<line x1="33.856665048981874" y1="-327.3686565396548" x2="58.27445441535593" y2="-323.91449337041104" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 66, target: 67</title>
+</line>
+<line x1="58.27445441535593" y1="-323.91449337041104" x2="82.36505291075301" y2="-318.64166254874186" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 67, target: 68</title>
+</line>
+<line x1="82.36505291075301" y1="-318.64166254874186" x2="105.99320017138022" y2="-311.57976919281384" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 68, target: 69</title>
+</line>
+<line x1="105.99320017138022" y1="-311.57976919281384" x2="129.02623233689994" y2="-302.7684633870604" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 69, target: 70</title>
+</line>
+<line x1="129.02623233689994" y1="-302.7684633870604" x2="151.33482691204273" y2="-292.2572175606952" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 70, target: 71</title>
+</line>
+<line x1="151.33482691204273" y1="-292.2572175606952" x2="212.68596492913707" y2="-251.159692974369" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 71, target: 74</title>
+</line>
+<line x1="212.68596492913707" y1="-251.159692974369" x2="230.89531795122096" y2="-234.52902421879895" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 74, target: 75</title>
+</line>
+<line x1="230.89531795122096" y1="-234.52902421879895" x2="247.8082737621617" y2="-216.58155625037645" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 75, target: 76</title>
+</line>
+<line x1="247.8082737621617" y1="-216.58155625037645" x2="322.9651315432736" y2="-63.324836044425695" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 76, target: 83</title>
+</line>
+<line x1="322.9651315432736" y1="-63.324836044425695" x2="326.8001242981146" y2="-38.9639552863191" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 83, target: 84</title>
+</line>
+<line x1="326.8001242981146" y1="-38.9639552863191" x2="328.88367416555104" y2="-12.330446876942537" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 84, target: 85</title>
+</line>
+<line x1="328.88367416555104" y1="-12.330446876942537" x2="328.88367416555104" y2="-12.330446876942537" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 85, target: 85</title>
+</line>
+<line x1="328.88367416555104" y1="-12.330446876942537" x2="346.90472429263457" y2="-8.4967152042814e-14" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 85, target: 111</title>
+</line>
+<line x1="266.66243851260896" y1="9.997659629953132" x2="248.36060980831178" y2="18.649195584318665" stroke="rgb(255, 89, 107)" stroke-width="2"  >
+<title  >
+10 - Arnthrud, source: 89, target: 0</title>
+</line>
+<line x1="248.36060980831178" y1="18.649195584318665" x2="246.2669587867162" y2="37.19368239688698" stroke="rgb(255, 89, 107)" stroke-width="2"  >
+<title  >
+10 - Arnthrud, source: 0, target: 1</title>
+</line>
+<line x1="246.2669587867162" y1="37.19368239688698" x2="262.1791932662564" y2="49.70794634484841" stroke="rgb(255, 89, 107)" stroke-width="2"  >
+<title  >
+10 - Arnthrud, source: 1, target: 112</title>
+</line>
+<line x1="227.22196749742218" y1="43.08022016553529" x2="242.7906041165549" y2="55.52933956942912" stroke="rgb(255, 99, 92)" stroke-width="2"  >
+<title  >
+11 - man, source: 90, target: 2</title>
+</line>
+<line x1="242.7906041165549" y1="55.52933956942912" x2="257.72111988863554" y2="69.1999542985028" stroke="rgb(255, 99, 92)" stroke-width="2"  >
+<title  >
+11 - man, source: 2, target: 113</title>
+</line>
+<line x1="303.04881334946225" y1="-71.30580825184903" x2="322.9651315432736" y2="-63.324836044425695" stroke="rgb(255, 125, 66)" stroke-width="2"  >
+<title  >
+13 - Thorir, source: 91, target: 83</title>
+</line>
+<line x1="322.9651315432736" y1="-63.324836044425695" x2="342.6844423100285" y2="-53.94683248545342" stroke="rgb(255, 125, 66)" stroke-width="2"  >
+<title  >
+13 - Thorir, source: 83, target: 114</title>
+</line>
+<line x1="307.53732002182045" y1="-48.41382402540692" x2="326.8001242981146" y2="-38.9639552863191" stroke="rgb(255, 140, 56)" stroke-width="2"  >
+<title  >
+14 - Asbjorn, source: 92, target: 84</title>
+</line>
+<line x1="326.8001242981146" y1="-38.9639552863191" x2="345.7618667610855" y2="-28.135728717027014" stroke="rgb(255, 140, 56)" stroke-width="2"  >
+<title  >
+14 - Asbjorn, source: 84, target: 115</title>
+</line>
+<line x1="211.89747260392602" y1="92.65629491286066" x2="224.29861998223157" y2="108.26317044297728" stroke="rgb(248, 155, 49)" stroke-width="2"  >
+<title  >
+15 - Frey, source: 93, target: 5</title>
+</line>
+<line x1="224.29861998223157" y1="108.26317044297728" x2="-184.42683926983142" y2="167.38436592835794" stroke="rgb(248, 155, 49)" stroke-width="2"  >
+<title  >
+15 - Frey, source: 5, target: 31</title>
+</line>
+<line x1="-184.42683926983142" y1="167.38436592835794" x2="-176.95646009628024" y2="148.9031198904313" stroke="rgb(248, 155, 49)" stroke-width="2"  >
+<title  >
+15 - Frey, source: 31, target: 116</title>
+</line>
+<line x1="-156.51565907699955" y1="348.9948296885583" x2="-161.59819826717415" y2="326.93769120577684" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 94, target: 26</title>
+</line>
+<line x1="-161.59819826717415" y1="326.93769120577684" x2="-185.62510542066696" y2="313.9196582753732" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 26, target: 27</title>
+</line>
+<line x1="-185.62510542066696" y1="313.9196582753732" x2="-188.25761709983425" y2="269.9547752063475" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 27, target: 28</title>
+</line>
+<line x1="-188.25761709983425" y1="269.9547752063475" x2="-207.9428938678011" y2="255.10049773119192" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 28, target: 29</title>
+</line>
+<line x1="-207.9428938678011" y1="255.10049773119192" x2="-195.85785369378763" y2="206.54176808379344" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 29, target: 30</title>
+</line>
+<line x1="-195.85785369378763" y1="206.54176808379344" x2="-224.50578714759533" y2="174.9770052148432" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 30, target: 32</title>
+</line>
+<line x1="-224.50578714759533" y1="174.9770052148432" x2="-249.53160994320635" y2="94.56629923349469" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 32, target: 36</title>
+</line>
+<line x1="-249.53160994320635" y1="94.56629923349469" x2="-272.97286920197587" y2="80.65738339642317" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 36, target: 38</title>
+</line>
+<line x1="-272.97286920197587" y1="80.65738339642317" x2="-321.7219834207148" y2="69.3648069027709" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 38, target: 40</title>
+</line>
+<line x1="-321.7219834207148" y1="69.3648069027709" x2="-326.01272935794043" y2="45.08005489574886" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 40, target: 41</title>
+</line>
+<line x1="-326.01272935794043" y1="45.08005489574886" x2="-284.08477991321445" y2="17.766221837440117" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 41, target: 42</title>
+</line>
+<line x1="-284.08477991321445" y1="17.766221837440117" x2="-284.58980955205755" y2="-5.333021267560086" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 42, target: 43</title>
+</line>
+<line x1="-284.58980955205755" y1="-5.333021267560086" x2="-327.671473844929" y2="-30.78824907508471" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 43, target: 44</title>
+</line>
+<line x1="-327.671473844929" y1="-30.78824907508471" x2="-243.64243222580944" y2="-147.16713639875064" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 44, target: 50</title>
+</line>
+<line x1="-243.64243222580944" y1="-147.16713639875064" x2="-246.43498658373198" y2="-175.30988820720393" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 50, target: 51</title>
+</line>
+<line x1="-246.43498658373198" y1="-175.30988820720393" x2="-253.14120437826978" y2="-210.32365938889635" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 51, target: 52</title>
+</line>
+<line x1="-253.14120437826978" y1="-210.32365938889635" x2="-236.6818584948966" y2="-228.6880165470399" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 52, target: 53</title>
+</line>
+<line x1="-236.6818584948966" y1="-228.6880165470399" x2="-201.14549414388594" y2="-225.84120461368082" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 53, target: 54</title>
+</line>
+<line x1="-201.14549414388594" y1="-225.84120461368082" x2="-150.59037616312315" y2="-230.9929063238869" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 54, target: 56</title>
+</line>
+<line x1="-150.59037616312315" y1="-230.9929063238869" x2="-140.87486802356682" y2="-216.0901381739587" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 56, target: 57</title>
+</line>
+<line x1="-140.87486802356682" y1="-216.0901381739587" x2="-103.33452941110463" y2="-226.61147374235978" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 57, target: 59</title>
+</line>
+<line x1="-103.33452941110463" y1="-226.61147374235978" x2="-126.04005422443645" y2="-342.2223492778663" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 59, target: 60</title>
+</line>
+<line x1="-126.04005422443645" y1="-342.2223492778663" x2="-90.29909741900896" y2="-316.4847295812703" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 60, target: 61</title>
+</line>
+<line x1="-90.29909741900896" y1="-316.4847295812703" x2="-66.34773312387776" y2="-322.35770405271865" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 61, target: 62</title>
+</line>
+<line x1="-66.34773312387776" y1="-322.35770405271865" x2="-52.2458666910805" y2="-405.82039401084336" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 62, target: 63</title>
+</line>
+<line x1="-52.2458666910805" y1="-405.82039401084336" x2="-21.712020031742203" y2="-408.5932096444575" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 63, target: 64</title>
+</line>
+<line x1="-21.712020031742203" y1="-408.5932096444575" x2="240.29710485370487" y2="-331.1753677137627" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 64, target: 73</title>
+</line>
+<line x1="240.29710485370487" y1="-331.1753677137627" x2="230.89531795122096" y2="-234.52902421879895" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 73, target: 75</title>
+</line>
+<line x1="230.89531795122096" y1="-234.52902421879895" x2="247.8082737621617" y2="-216.58155625037645" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 75, target: 76</title>
+</line>
+<line x1="247.8082737621617" y1="-216.58155625037645" x2="220.62773057362725" y2="-165.40431876718893" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 76, target: 77</title>
+</line>
+<line x1="220.62773057362725" y1="-165.40431876718893" x2="209.90386479509624" y2="-134.05652742175826" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 77, target: 78</title>
+</line>
+<line x1="209.90386479509624" y1="-134.05652742175826" x2="266.3566462945624" y2="-143.24069425432106" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 78, target: 79</title>
+</line>
+<line x1="266.3566462945624" y1="-143.24069425432106" x2="276.3345279117053" y2="-122.89421548454372" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 79, target: 80</title>
+</line>
+<line x1="276.3345279117053" y1="-122.89421548454372" x2="234.50896568010253" y2="-83.88283504953301" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 80, target: 81</title>
+</line>
+<line x1="234.50896568010253" y1="-83.88283504953301" x2="291.5884121650563" y2="-80.24934521108409" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 81, target: 82</title>
+</line>
+<line x1="291.5884121650563" y1="-80.24934521108409" x2="277.0732007766512" y2="-65.19388183026197" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 82, target: 117</title>
+</line>
+<line x1="377.288591068018" y1="199.86963473104734" x2="354.1381779321936" y2="204.9535891666314" stroke="rgb(197, 216, 61)" stroke-width="2"  >
+<title  >
+19 - Eyvind, source: 95, target: 6</title>
+</line>
+<line x1="354.1381779321936" y1="204.9535891666314" x2="-52.2458666910805" y2="-405.82039401084336" stroke="rgb(197, 216, 61)" stroke-width="2"  >
+<title  >
+19 - Eyvind, source: 6, target: 63</title>
+</line>
+<line x1="-52.2458666910805" y1="-405.82039401084336" x2="-21.712020031742203" y2="-408.5932096444575" stroke="rgb(197, 216, 61)" stroke-width="2"  >
+<title  >
+19 - Eyvind, source: 63, target: 64</title>
+</line>
+<line x1="-21.712020031742203" y1="-408.5932096444575" x2="8.248913888660727" y2="-293.4188383295352" stroke="rgb(197, 216, 61)" stroke-width="2"  >
+<title  >
+19 - Eyvind, source: 64, target: 65</title>
+</line>
+<line x1="8.248913888660727" y1="-293.4188383295352" x2="58.27445441535593" y2="-323.91449337041104" stroke="rgb(197, 216, 61)" stroke-width="2"  >
+<title  >
+19 - Eyvind, source: 65, target: 67</title>
+</line>
+<line x1="58.27445441535593" y1="-323.91449337041104" x2="154.11332574678767" y2="-249.82342182882093" stroke="rgb(197, 216, 61)" stroke-width="2"  >
+<title  >
+19 - Eyvind, source: 67, target: 72</title>
+</line>
+<line x1="154.11332574678767" y1="-249.82342182882093" x2="212.68596492913707" y2="-251.159692974369" stroke="rgb(197, 216, 61)" stroke-width="2"  >
+<title  >
+19 - Eyvind, source: 72, target: 74</title>
+</line>
+<line x1="212.68596492913707" y1="-251.159692974369" x2="209.94935897613885" y2="-229.87902955353502" stroke="rgb(197, 216, 61)" stroke-width="2"  >
+<title  >
+19 - Eyvind, source: 74, target: 118</title>
+</line>
+<line x1="345.84787514568313" y1="183.21383183679342" x2="354.1381779321936" y2="204.9535891666314" stroke="rgb(175, 240, 91)" stroke-width="2"  >
+<title  >
+21 - king of Greeks, source: 96, target: 6</title>
+</line>
+<line x1="354.1381779321936" y1="204.9535891666314" x2="425.9524155696988" y2="-29.31026284343079" stroke="rgb(175, 240, 91)" stroke-width="2"  >
+<title  >
+21 - king of Greeks, source: 6, target: 86</title>
+</line>
+<line x1="425.9524155696988" y1="-29.31026284343079" x2="399.3303895965927" y2="-27.478371415716367" stroke="rgb(175, 240, 91)" stroke-width="2"  >
+<title  >
+21 - king of Greeks, source: 86, target: 119</title>
+</line>
+<line x1="240.8423355864946" y1="151.70619699260456" x2="220.3026539504674" y2="150.58402961120396" stroke="rgb(152, 243, 87)" stroke-width="2"  >
+<title  >
+22 - Freyfaxi, source: 97, target: 7</title>
+</line>
+<line x1="220.3026539504674" y1="150.58402961120396" x2="115.24520517296834" y2="240.68101710813792" stroke="rgb(152, 243, 87)" stroke-width="2"  >
+<title  >
+22 - Freyfaxi, source: 7, target: 14</title>
+</line>
+<line x1="115.24520517296834" y1="240.68101710813792" x2="15.32015280687725" y2="212.92940350589683" stroke="rgb(152, 243, 87)" stroke-width="2"  >
+<title  >
+22 - Freyfaxi, source: 14, target: 19</title>
+</line>
+<line x1="15.32015280687725" y1="212.92940350589683" x2="-129.6495448192409" y2="-169.60139588920472" stroke="rgb(152, 243, 87)" stroke-width="2"  >
+<title  >
+22 - Freyfaxi, source: 19, target: 55</title>
+</line>
+<line x1="-129.6495448192409" y1="-169.60139588920472" x2="-102.86805998568319" y2="-187.06095315213432" stroke="rgb(152, 243, 87)" stroke-width="2"  >
+<title  >
+22 - Freyfaxi, source: 55, target: 58</title>
+</line>
+<line x1="-102.86805998568319" y1="-187.06095315213432" x2="-87.80521493235919" y2="-174.88498923709383" stroke="rgb(152, 243, 87)" stroke-width="2"  >
+<title  >
+22 - Freyfaxi, source: 58, target: 120</title>
+</line>
+<line x1="307.4589997999242" y1="227.5159469744563" x2="284.82522820953164" y2="227.76483703493173" stroke="rgb(129, 245, 88)" stroke-width="2"  >
+<title  >
+23 - Thorbjorn, source: 98, target: 8</title>
+</line>
+<line x1="284.82522820953164" y1="227.76483703493173" x2="266.97096771480886" y2="248.452679622457" stroke="rgb(129, 245, 88)" stroke-width="2"  >
+<title  >
+23 - Thorbjorn, source: 8, target: 9</title>
+</line>
+<line x1="266.97096771480886" y1="248.452679622457" x2="-110.962427313537" y2="347.40404623269546" stroke="rgb(129, 245, 88)" stroke-width="2"  >
+<title  >
+23 - Thorbjorn, source: 9, target: 24</title>
+</line>
+<line x1="-110.962427313537" y1="347.40404623269546" x2="-123.3309026618926" y2="305.13275717533213" stroke="rgb(129, 245, 88)" stroke-width="2"  >
+<title  >
+23 - Thorbjorn, source: 24, target: 25</title>
+</line>
+<line x1="-123.3309026618926" y1="305.13275717533213" x2="-161.59819826717415" y2="326.93769120577684" stroke="rgb(129, 245, 88)" stroke-width="2"  >
+<title  >
+23 - Thorbjorn, source: 25, target: 26</title>
+</line>
+<line x1="-161.59819826717415" y1="326.93769120577684" x2="-185.62510542066696" y2="313.9196582753732" stroke="rgb(129, 245, 88)" stroke-width="2"  >
+<title  >
+23 - Thorbjorn, source: 26, target: 27</title>
+</line>
+<line x1="-185.62510542066696" y1="313.9196582753732" x2="-303.6274494111281" y2="202.02129486332277" stroke="rgb(129, 245, 88)" stroke-width="2"  >
+<title  >
+23 - Thorbjorn, source: 27, target: 33</title>
+</line>
+<line x1="-303.6274494111281" y1="202.02129486332277" x2="-126.04005422443645" y2="-342.2223492778663" stroke="rgb(129, 245, 88)" stroke-width="2"  >
+<title  >
+23 - Thorbjorn, source: 33, target: 60</title>
+</line>
+<line x1="-126.04005422443645" y1="-342.2223492778663" x2="-118.64857249511132" y2="-363.61663731260376" stroke="rgb(129, 245, 88)" stroke-width="2"  >
+<title  >
+23 - Thorbjorn, source: 60, target: 121</title>
+</line>
+<line x1="278.85816260923355" y1="206.3516728372976" x2="284.82522820953164" y2="227.76483703493173" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 99, target: 8</title>
+</line>
+<line x1="284.82522820953164" y1="227.76483703493173" x2="266.97096771480886" y2="248.452679622457" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 8, target: 9</title>
+</line>
+<line x1="266.97096771480886" y1="248.452679622457" x2="223.45992771187787" y2="241.62402976488028" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 9, target: 10</title>
+</line>
+<line x1="223.45992771187787" y1="241.62402976488028" x2="204.74018570756772" y2="257.67803051336784" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 10, target: 11</title>
+</line>
+<line x1="204.74018570756772" y1="257.67803051336784" x2="184.870898497597" y2="272.28525839918075" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 11, target: 12</title>
+</line>
+<line x1="184.870898497597" y1="272.28525839918075" x2="146.23782792163053" y2="254.5135692880835" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 12, target: 13</title>
+</line>
+<line x1="146.23782792163053" y1="254.5135692880835" x2="115.24520517296834" y2="240.68101710813792" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 13, target: 14</title>
+</line>
+<line x1="115.24520517296834" y1="240.68101710813792" x2="106.5898553715235" y2="273.49819377625545" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 14, target: 15</title>
+</line>
+<line x1="106.5898553715235" y1="273.49819377625545" x2="-2.749959772241783" y2="293.5218850243497" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 15, target: 20</title>
+</line>
+<line x1="-2.749959772241783" y1="293.5218850243497" x2="-27.717130835117768" y2="327.94553162238145" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 20, target: 21</title>
+</line>
+<line x1="-27.717130835117768" y1="327.94553162238145" x2="-52.195351354369706" y2="324.94946737887005" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 21, target: 22</title>
+</line>
+<line x1="-52.195351354369706" y1="324.94946737887005" x2="-76.3805130600828" y2="320.12892446246707" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 22, target: 23</title>
+</line>
+<line x1="-76.3805130600828" y1="320.12892446246707" x2="-83.54658622994833" y2="299.90510081072057" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 23, target: 122</title>
+</line>
+<line x1="146.2360507036372" y1="233.7738258221184" x2="146.23782792163053" y2="254.5135692880835" stroke="rgb(86, 246, 101)" stroke-width="2"  >
+<title  >
+25 - shepherds, source: 100, target: 13</title>
+</line>
+<line x1="146.23782792163053" y1="254.5135692880835" x2="106.5898553715235" y2="273.49819377625545" stroke="rgb(86, 246, 101)" stroke-width="2"  >
+<title  >
+25 - shepherds, source: 13, target: 15</title>
+</line>
+<line x1="106.5898553715235" y1="273.49819377625545" x2="102.10271645109854" y2="294.1056559406385" stroke="rgb(86, 246, 101)" stroke-width="2"  >
+<title  >
+25 - shepherds, source: 15, target: 123</title>
+</line>
+<line x1="113.77159833122411" y1="327.7177309052829" x2="96.21291630247565" y2="314.737328242759" stroke="rgb(68, 244, 112)" stroke-width="2"  >
+<title  >
+26 - mealtime servant, source: 101, target: 16</title>
+</line>
+<line x1="96.21291630247565" y1="314.737328242759" x2="72.3757925743578" y2="321.05802544407914" stroke="rgb(68, 244, 112)" stroke-width="2"  >
+<title  >
+26 - mealtime servant, source: 16, target: 17</title>
+</line>
+<line x1="72.3757925743578" y1="321.05802544407914" x2="48.13230384724281" y2="325.5760930706893" stroke="rgb(68, 244, 112)" stroke-width="2"  >
+<title  >
+26 - mealtime servant, source: 17, target: 18</title>
+</line>
+<line x1="48.13230384724281" y1="325.5760930706893" x2="37.84121664745036" y2="344.8346416170938" stroke="rgb(68, 244, 112)" stroke-width="2"  >
+<title  >
+26 - mealtime servant, source: 18, target: 124</title>
+</line>
+<line x1="-176.2332716375179" y1="200.3762542805513" x2="-195.85785369378763" y2="206.54176808379344" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 102, target: 30</title>
+</line>
+<line x1="-195.85785369378763" y1="206.54176808379344" x2="-184.42683926983142" y2="167.38436592835794" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 30, target: 31</title>
+</line>
+<line x1="-184.42683926983142" y1="167.38436592835794" x2="-224.50578714759533" y2="174.9770052148432" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 31, target: 32</title>
+</line>
+<line x1="-224.50578714759533" y1="174.9770052148432" x2="-248.11870915892982" y2="139.488017342075" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 32, target: 34</title>
+</line>
+<line x1="-248.11870915892982" y1="139.488017342075" x2="-257.8667962409246" y2="120.51770082920633" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 34, target: 35</title>
+</line>
+<line x1="-257.8667962409246" y1="120.51770082920633" x2="-324.4462185991966" y2="-55.237326958314874" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 35, target: 45</title>
+</line>
+<line x1="-324.4462185991966" y1="-55.237326958314874" x2="-319.39931024810807" y2="-79.37626638895439" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 45, target: 46</title>
+</line>
+<line x1="-319.39931024810807" y1="-79.37626638895439" x2="-312.5590854334337" y2="-103.06953558560794" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 46, target: 47</title>
+</line>
+<line x1="-312.5590854334337" y1="-103.06953558560794" x2="-246.43498658373198" y2="-175.30988820720393" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 47, target: 51</title>
+</line>
+<line x1="-246.43498658373198" y1="-175.30988820720393" x2="-201.14549414388594" y2="-225.84120461368082" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 51, target: 54</title>
+</line>
+<line x1="-201.14549414388594" y1="-225.84120461368082" x2="-102.86805998568319" y2="-187.06095315213432" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 54, target: 58</title>
+</line>
+<line x1="-102.86805998568319" y1="-187.06095315213432" x2="-103.33452941110463" y2="-226.61147374235978" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 58, target: 59</title>
+</line>
+<line x1="-103.33452941110463" y1="-226.61147374235978" x2="209.90386479509624" y2="-134.05652742175826" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 59, target: 78</title>
+</line>
+<line x1="209.90386479509624" y1="-134.05652742175826" x2="234.50896568010253" y2="-83.88283504953301" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 78, target: 81</title>
+</line>
+<line x1="234.50896568010253" y1="-83.88283504953301" x2="220.52367449437907" y2="-69.6780946238323" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 81, target: 125</title>
+</line>
+<line x1="-281.4139657978477" y1="202.8523295170076" x2="-303.6274494111281" y2="202.02129486332277" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 103, target: 33</title>
+</line>
+<line x1="-303.6274494111281" y1="202.02129486332277" x2="-248.11870915892982" y2="139.488017342075" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 33, target: 34</title>
+</line>
+<line x1="-248.11870915892982" y1="139.488017342075" x2="-257.8667962409246" y2="120.51770082920633" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 34, target: 35</title>
+</line>
+<line x1="-257.8667962409246" y1="120.51770082920633" x2="-249.53160994320635" y2="94.56629923349469" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 35, target: 36</title>
+</line>
+<line x1="-249.53160994320635" y1="94.56629923349469" x2="-272.97286920197587" y2="80.65738339642317" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 36, target: 38</title>
+</line>
+<line x1="-272.97286920197587" y1="80.65738339642317" x2="-284.08477991321445" y2="17.766221837440117" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 38, target: 42</title>
+</line>
+<line x1="-284.08477991321445" y1="17.766221837440117" x2="-284.58980955205755" y2="-5.333021267560086" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 42, target: 43</title>
+</line>
+<line x1="-284.58980955205755" y1="-5.333021267560086" x2="-262.8877402357191" y2="-109.13219896288047" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 43, target: 48</title>
+</line>
+<line x1="-262.8877402357191" y1="-109.13219896288047" x2="-293.66216159990665" y2="-148.590194485665" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 48, target: 49</title>
+</line>
+<line x1="-293.66216159990665" y1="-148.590194485665" x2="-243.64243222580944" y2="-147.16713639875064" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 49, target: 50</title>
+</line>
+<line x1="-243.64243222580944" y1="-147.16713639875064" x2="-129.6495448192409" y2="-169.60139588920472" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 50, target: 55</title>
+</line>
+<line x1="-129.6495448192409" y1="-169.60139588920472" x2="-140.87486802356682" y2="-216.0901381739587" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 55, target: 57</title>
+</line>
+<line x1="-140.87486802356682" y1="-216.0901381739587" x2="-150.59037616312315" y2="-230.9929063238869" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 57, target: 56</title>
+</line>
+<line x1="-150.59037616312315" y1="-230.9929063238869" x2="220.62773057362725" y2="-165.40431876718893" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 56, target: 77</title>
+</line>
+<line x1="220.62773057362725" y1="-165.40431876718893" x2="266.3566462945624" y2="-143.24069425432106" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 77, target: 79</title>
+</line>
+<line x1="266.3566462945624" y1="-143.24069425432106" x2="276.3345279117053" y2="-122.89421548454372" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 79, target: 80</title>
+</line>
+<line x1="276.3345279117053" y1="-122.89421548454372" x2="291.5884121650563" y2="-80.24934521108409" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 80, target: 82</title>
+</line>
+<line x1="291.5884121650563" y1="-80.24934521108409" x2="425.9524155696988" y2="-29.31026284343079" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 82, target: 86</title>
+</line>
+<line x1="425.9524155696988" y1="-29.31026284343079" x2="452.57444154280495" y2="-31.142154271145216" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 86, target: 126</title>
+</line>
+<line x1="-2.916624000862504" y1="-311.3110901773406" x2="8.248913888660727" y2="-293.4188383295352" stroke="rgb(47, 150, 224)" stroke-width="2"  >
+<title  >
+35 - Eyvind's servant boy, source: 104, target: 65</title>
+</line>
+<line x1="8.248913888660727" y1="-293.4188383295352" x2="154.11332574678767" y2="-249.82342182882093" stroke="rgb(47, 150, 224)" stroke-width="2"  >
+<title  >
+35 - Eyvind's servant boy, source: 65, target: 72</title>
+</line>
+<line x1="154.11332574678767" y1="-249.82342182882093" x2="240.29710485370487" y2="-331.1753677137627" stroke="rgb(47, 150, 224)" stroke-width="2"  >
+<title  >
+35 - Eyvind's servant boy, source: 72, target: 73</title>
+</line>
+<line x1="240.29710485370487" y1="-331.1753677137627" x2="252.53604688227205" y2="-321.940006533039" stroke="rgb(47, 150, 224)" stroke-width="2"  >
+<title  >
+35 - Eyvind's servant boy, source: 73, target: 127</title>
+</line>
+<line x1="24.482442453887177" y1="-372.786636378189" x2="33.856665048981874" y2="-327.3686565396548" stroke="rgb(57, 136, 225)" stroke-width="2"  >
+<title  >
+36 - Servant woman, source: 105, target: 66</title>
+</line>
+<line x1="33.856665048981874" y1="-327.3686565396548" x2="52.32737327695294" y2="-369.90689674106704" stroke="rgb(57, 136, 225)" stroke-width="2"  >
+<title  >
+36 - Servant woman, source: 66, target: 128</title>
+</line>
+<line x1="66.56542002427251" y1="-304.12521503479263" x2="82.36505291075301" y2="-318.64166254874186" stroke="rgb(68, 121, 223)" stroke-width="2"  >
+<title  >
+37 - Sighvat, source: 106, target: 68</title>
+</line>
+<line x1="82.36505291075301" y1="-318.64166254874186" x2="99.33963432433599" y2="-332.3770822256794" stroke="rgb(68, 121, 223)" stroke-width="2"  >
+<title  >
+37 - Sighvat, source: 68, target: 129</title>
+</line>
+<line x1="89.15095388081434" y1="-298.28712507432766" x2="105.99320017138022" y2="-311.57976919281384" stroke="rgb(78, 108, 218)" stroke-width="2"  >
+<title  >
+38 - Snorri, source: 107, target: 69</title>
+</line>
+<line x1="105.99320017138022" y1="-311.57976919281384" x2="123.94861442203532" y2="-324.00559982723513" stroke="rgb(78, 108, 218)" stroke-width="2"  >
+<title  >
+38 - Snorri, source: 69, target: 130</title>
+</line>
+<line x1="111.23593601977528" y1="-290.774256255211" x2="129.02623233689994" y2="-302.7684633870604" stroke="rgb(104, 73, 185)" stroke-width="2"  >
+<title  >
+41 - Thord, source: 108, target: 70</title>
+</line>
+<line x1="129.02623233689994" y1="-302.7684633870604" x2="147.86166599468893" y2="-313.81493824517634" stroke="rgb(104, 73, 185)" stroke-width="2"  >
+<title  >
+41 - Thord, source: 70, target: 131</title>
+</line>
+<line x1="132.6963669183106" y1="-281.6287907328506" x2="151.33482691204273" y2="-292.2572175606952" stroke="rgb(110, 64, 170)" stroke-width="2"  >
+<title  >
+42 - Halli, source: 109, target: 71</title>
+</line>
+<line x1="151.33482691204273" y1="-292.2572175606952" x2="170.94452554295873" y2="-301.8623145134906" stroke="rgb(110, 64, 170)" stroke-width="2"  >
+<title  >
+42 - Halli, source: 71, target: 132</title>
+</line>
+<circle cx="248.36060980831178" cy="18.649195584318665" r="3" fill="rgb(254, 203, 123)"  >
+<title  >
+0 - offer assistance, 10 -> 7, chapter: 1</title>
+</circle>
+<circle cx="246.2669587867162" cy="37.19368239688698" r="3" fill="rgb(77, 102, 172)"  >
+<title  >
+1 - death_neutral, 10 -> 7, chapter: 1</title>
+</circle>
+<circle cx="242.7906041165549" cy="55.52933956942912" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+2 - provide information, 11 -> 7, chapter: 1</title>
+</circle>
+<circle cx="237.95106432483553" cy="73.55321873974407" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+3 - request assistance, 9 -> 7, chapter: 2</title>
+</circle>
+<circle cx="231.77551175071534" cy="91.1641220710904" r="3" fill="rgb(254, 203, 123)"  >
+<title  >
+4 - offer assistance, 7 -> 9, chapter: 2</title>
+</circle>
+<circle cx="224.29861998223157" cy="108.26317044297728" r="3" fill="rgb(254, 203, 123)"  >
+<title  >
+5 - offer assistance, 9 -> 15, chapter: 2</title>
+</circle>
+<circle cx="354.1381779321936" cy="204.9535891666314" r="3" fill="rgb(248, 249, 176)"  >
+<title  >
+6 - giftgiving, 19 -> 21, chapter: 3</title>
+</circle>
+<circle cx="220.3026539504674" cy="150.58402961120396" r="3" fill="rgb(217, 70, 75)"  >
+<title  >
+7 - fostering, 9 -> 22, chapter: 3</title>
+</circle>
+<circle cx="284.82522820953164" cy="227.76483703493173" r="3" fill="rgb(254, 203, 123)"  >
+<title  >
+8 - offer assistance, 23 -> 24, chapter: 4</title>
+</circle>
+<circle cx="266.97096771480886" cy="248.452679622457" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+9 - provide information, 23 -> 24, chapter: 4</title>
+</circle>
+<circle cx="223.45992771187787" cy="241.62402976488028" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+10 - request assistance, 24 -> 9, chapter: 4</title>
+</circle>
+<circle cx="204.74018570756772" cy="257.67803051336784" r="3" fill="rgb(254, 203, 123)"  >
+<title  >
+11 - offer assistance, 24 -> 9, chapter: 4</title>
+</circle>
+<circle cx="184.870898497597" cy="272.28525839918075" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+12 - provide information, 24 -> 9, chapter: 4</title>
+</circle>
+<circle cx="146.23782792163053" cy="254.5135692880835" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+13 - request assistance, 24 -> 25, chapter: 5</title>
+</circle>
+<circle cx="115.24520517296834" cy="240.68101710813792" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+14 - request assistance, 24 -> 22, chapter: 5</title>
+</circle>
+<circle cx="106.5898553715235" cy="273.49819377625545" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+15 - request assistance, 24 -> 25, chapter: 5</title>
+</circle>
+<circle cx="96.21291630247565" cy="314.737328242759" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+16 - request assistance, 9 -> 26, chapter: 5</title>
+</circle>
+<circle cx="72.3757925743578" cy="321.05802544407914" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+17 - request assistance, 9 -> 26, chapter: 5</title>
+</circle>
+<circle cx="48.13230384724281" cy="325.5760930706893" r="3" fill="rgb(254, 235, 159)"  >
+<title  >
+18 - discover information, 26 -> 9, chapter: 5</title>
+</circle>
+<circle cx="15.32015280687725" cy="212.92940350589683" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+19 - provide information, 9 -> 22, chapter: 5</title>
+</circle>
+<circle cx="-2.749959772241783" cy="293.5218850243497" r="3" fill="rgb(238, 248, 168)"  >
+<title  >
+20 - accusation, 9 -> 24, chapter: 5</title>
+</circle>
+<circle cx="-27.717130835117768" cy="327.94553162238145" r="3" fill="rgb(69, 148, 180)"  >
+<title  >
+21 - hostility_lethal, 9 -> 24, chapter: 5</title>
+</circle>
+<circle cx="-52.195351354369706" cy="324.94946737887005" r="3" fill="rgb(69, 148, 180)"  >
+<title  >
+22 - hostility_lethal, 9 -> 24, chapter: 5</title>
+</circle>
+<circle cx="-76.3805130600828" cy="320.12892446246707" r="3" fill="rgb(77, 102, 172)"  >
+<title  >
+23 - death_neutral, 9 -> 24, chapter: 5</title>
+</circle>
+<circle cx="-110.962427313537" cy="347.40404623269546" r="3" fill="rgb(130, 204, 165)"  >
+<title  >
+24 - intervention, 9 -> 23, chapter: 6</title>
+</circle>
+<circle cx="-123.3309026618926" cy="305.13275717533213" r="3" fill="rgb(105, 189, 169)"  >
+<title  >
+25 - challenge, 23 -> 9, chapter: 6</title>
+</circle>
+<circle cx="-161.59819826717415" cy="326.93769120577684" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+26 - request assistance, 23 -> 18, chapter: 6</title>
+</circle>
+<circle cx="-185.62510542066696" cy="313.9196582753732" r="3" fill="rgb(250, 160, 92)"  >
+<title  >
+27 - placed in command, 18 -> 23, chapter: 6</title>
+</circle>
+<circle cx="-188.25761709983425" cy="269.9547752063475" r="3" fill="rgb(238, 248, 168)"  >
+<title  >
+28 - accusation, 18 -> 9, chapter: 7</title>
+</circle>
+<circle cx="-207.9428938678011" cy="255.10049773119192" r="3" fill="rgb(224, 243, 161)"  >
+<title  >
+29 - summons, 18 -> 9, chapter: 7</title>
+</circle>
+<circle cx="-195.85785369378763" cy="206.54176808379344" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+30 - request assistance, 18 -> 29, chapter: 8</title>
+</circle>
+<circle cx="-184.42683926983142" cy="167.38436592835794" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+31 - provide information, 29 -> 15, chapter: 8</title>
+</circle>
+<circle cx="-224.50578714759533" cy="174.9770052148432" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+32 - provide information, 29 -> 18, chapter: 9</title>
+</circle>
+<circle cx="-303.6274494111281" cy="202.02129486332277" r="3" fill="rgb(83, 170, 175)"  >
+<title  >
+33 - hostility_non-lethal, 23 -> 31, chapter: 9</title>
+</circle>
+<circle cx="-248.11870915892982" cy="139.488017342075" r="3" fill="rgb(130, 204, 165)"  >
+<title  >
+34 - intervention, 29 -> 31, chapter: 9</title>
+</circle>
+<circle cx="-257.8667962409246" cy="120.51770082920633" r="3" fill="rgb(254, 203, 123)"  >
+<title  >
+35 - offer assistance, 31 -> 29, chapter: 9</title>
+</circle>
+<circle cx="-249.53160994320635" cy="94.56629923349469" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+36 - provide information, 18 -> 31, chapter: 10</title>
+</circle>
+<circle cx="-272.97286920197587" cy="80.65738339642317" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+38 - provide information, 18 -> 31, chapter: 10</title>
+</circle>
+<circle cx="-321.7219834207148" cy="69.3648069027709" r="3" fill="rgb(238, 248, 168)"  >
+<title  >
+40 - accusation, 18 -> 9, chapter: 10</title>
+</circle>
+<circle cx="-326.01272935794043" cy="45.08005489574886" r="3" fill="rgb(83, 170, 175)"  >
+<title  >
+41 - hostility_non-lethal, 18 -> 9, chapter: 10</title>
+</circle>
+<circle cx="-284.08477991321445" cy="17.766221837440117" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+42 - request assistance, 31 -> 18, chapter: 10</title>
+</circle>
+<circle cx="-284.58980955205755" cy="-5.333021267560086" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+43 - provide information, 31 -> 18, chapter: 10</title>
+</circle>
+<circle cx="-327.671473844929" cy="-30.78824907508471" r="3" fill="rgb(250, 160, 92)"  >
+<title  >
+44 - placed in command, 9 -> 18, chapter: 11</title>
+</circle>
+<circle cx="-324.4462185991966" cy="-55.237326958314874" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+45 - request assistance, 9 -> 29, chapter: 11</title>
+</circle>
+<circle cx="-319.39931024810807" cy="-79.37626638895439" r="3" fill="rgb(156, 215, 163)"  >
+<title  >
+46 - threat, 29 -> 9, chapter: 11</title>
+</circle>
+<circle cx="-312.5590854334337" cy="-103.06953558560794" r="3" fill="rgb(83, 170, 175)"  >
+<title  >
+47 - hostility_non-lethal, 29 -> 9, chapter: 11</title>
+</circle>
+<circle cx="-262.8877402357191" cy="-109.13219896288047" r="3" fill="rgb(182, 226, 161)"  >
+<title  >
+48 - insult, 31 -> 9, chapter: 11</title>
+</circle>
+<circle cx="-293.66216159990665" cy="-148.590194485665" r="3" fill="rgb(83, 170, 175)"  >
+<title  >
+49 - hostility_non-lethal, 31 -> 9, chapter: 11</title>
+</circle>
+<circle cx="-243.64243222580944" cy="-147.16713639875064" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+50 - provide information, 31 -> 18, chapter: 11</title>
+</circle>
+<circle cx="-246.43498658373198" cy="-175.30988820720393" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+51 - provide information, 29 -> 18, chapter: 11</title>
+</circle>
+<circle cx="-253.14120437826978" cy="-210.32365938889635" r="3" fill="rgb(182, 226, 161)"  >
+<title  >
+52 - insult, 18 -> 9, chapter: 11</title>
+</circle>
+<circle cx="-236.6818584948966" cy="-228.6880165470399" r="3" fill="rgb(83, 170, 175)"  >
+<title  >
+53 - hostility_non-lethal, 18 -> 9, chapter: 11</title>
+</circle>
+<circle cx="-201.14549414388594" cy="-225.84120461368082" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+54 - provide information, 29 -> 18, chapter: 12</title>
+</circle>
+<circle cx="-129.6495448192409" cy="-169.60139588920472" r="3" fill="rgb(224, 243, 161)"  >
+<title  >
+55 - summons, 31 -> 22, chapter: 12</title>
+</circle>
+<circle cx="-150.59037616312315" cy="-230.9929063238869" r="3" fill="rgb(248, 249, 176)"  >
+<title  >
+56 - giftgiving, 18 -> 31, chapter: 12</title>
+</circle>
+<circle cx="-140.87486802356682" cy="-216.0901381739587" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+57 - provide information, 31 -> 18, chapter: 12</title>
+</circle>
+<circle cx="-102.86805998568319" cy="-187.06095315213432" r="3" fill="rgb(224, 243, 161)"  >
+<title  >
+58 - summons, 29 -> 22, chapter: 12</title>
+</circle>
+<circle cx="-103.33452941110463" cy="-226.61147374235978" r="3" fill="rgb(248, 249, 176)"  >
+<title  >
+59 - giftgiving, 18 -> 29, chapter: 12</title>
+</circle>
+<circle cx="-126.04005422443645" cy="-342.2223492778663" r="3" fill="rgb(248, 249, 176)"  >
+<title  >
+60 - giftgiving, 18 -> 23, chapter: 12</title>
+</circle>
+<circle cx="-90.29909741900896" cy="-316.4847295812703" r="3" fill="rgb(67, 125, 179)"  >
+<title  >
+61 - conversation_neutral, 9 -> 18, chapter: 13</title>
+</circle>
+<circle cx="-66.34773312387776" cy="-322.35770405271865" r="3" fill="rgb(67, 125, 179)"  >
+<title  >
+62 - conversation_neutral, 18 -> 9, chapter: 13</title>
+</circle>
+<circle cx="-52.2458666910805" cy="-405.82039401084336" r="3" fill="rgb(253, 245, 173)"  >
+<title  >
+63 - invitation, 18 -> 19, chapter: 14</title>
+</circle>
+<circle cx="-21.712020031742203" cy="-408.5932096444575" r="3" fill="rgb(248, 249, 176)"  >
+<title  >
+64 - giftgiving, 18 -> 19, chapter: 14</title>
+</circle>
+<circle cx="8.248913888660727" cy="-293.4188383295352" r="3" fill="rgb(254, 203, 123)"  >
+<title  >
+65 - offer assistance, 19 -> 35, chapter: 14</title>
+</circle>
+<circle cx="33.856665048981874" cy="-327.3686565396548" r="3" fill="rgb(182, 226, 161)"  >
+<title  >
+66 - insult, 36 -> 9, chapter: 14</title>
+</circle>
+<circle cx="58.27445441535593" cy="-323.91449337041104" r="3" fill="rgb(83, 170, 175)"  >
+<title  >
+67 - hostility_non-lethal, 9 -> 19, chapter: 14</title>
+</circle>
+<circle cx="82.36505291075301" cy="-318.64166254874186" r="3" fill="rgb(224, 243, 161)"  >
+<title  >
+68 - summons, 9 -> 37, chapter: 14</title>
+</circle>
+<circle cx="105.99320017138022" cy="-311.57976919281384" r="3" fill="rgb(224, 243, 161)"  >
+<title  >
+69 - summons, 9 -> 38, chapter: 14</title>
+</circle>
+<circle cx="129.02623233689994" cy="-302.7684633870604" r="3" fill="rgb(224, 243, 161)"  >
+<title  >
+70 - summons, 9 -> 41, chapter: 14</title>
+</circle>
+<circle cx="151.33482691204273" cy="-292.2572175606952" r="3" fill="rgb(224, 243, 161)"  >
+<title  >
+71 - summons, 9 -> 42, chapter: 14</title>
+</circle>
+<circle cx="154.11332574678767" cy="-249.82342182882093" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+72 - provide information, 35 -> 19, chapter: 14</title>
+</circle>
+<circle cx="240.29710485370487" cy="-331.1753677137627" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+73 - request assistance, 35 -> 18, chapter: 14</title>
+</circle>
+<circle cx="212.68596492913707" cy="-251.159692974369" r="3" fill="rgb(69, 148, 180)"  >
+<title  >
+74 - hostility_lethal, 9 -> 19, chapter: 14</title>
+</circle>
+<circle cx="230.89531795122096" cy="-234.52902421879895" r="3" fill="rgb(83, 170, 175)"  >
+<title  >
+75 - hostility_non-lethal, 18 -> 9, chapter: 14</title>
+</circle>
+<circle cx="247.8082737621617" cy="-216.58155625037645" r="3" fill="rgb(105, 189, 169)"  >
+<title  >
+76 - challenge, 9 -> 18, chapter: 15</title>
+</circle>
+<circle cx="220.62773057362725" cy="-165.40431876718893" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+77 - request assistance, 18 -> 31, chapter: 16</title>
+</circle>
+<circle cx="209.90386479509624" cy="-134.05652742175826" r="3" fill="rgb(248, 249, 176)"  >
+<title  >
+78 - giftgiving, 18 -> 29, chapter: 16</title>
+</circle>
+<circle cx="266.3566462945624" cy="-143.24069425432106" r="3" fill="rgb(248, 249, 176)"  >
+<title  >
+79 - giftgiving, 18 -> 31, chapter: 16</title>
+</circle>
+<circle cx="276.3345279117053" cy="-122.89421548454372" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+80 - provide information, 31 -> 18, chapter: 16</title>
+</circle>
+<circle cx="234.50896568010253" cy="-83.88283504953301" r="3" fill="rgb(248, 249, 176)"  >
+<title  >
+81 - giftgiving, 29 -> 18, chapter: 16</title>
+</circle>
+<circle cx="291.5884121650563" cy="-80.24934521108409" r="3" fill="rgb(248, 249, 176)"  >
+<title  >
+82 - giftgiving, 31 -> 18, chapter: 16</title>
+</circle>
+<circle cx="322.9651315432736" cy="-63.324836044425695" r="3" fill="rgb(240, 112, 74)"  >
+<title  >
+83 - inheritance, 9 -> 13, chapter: 16</title>
+</circle>
+<circle cx="326.8001242981146" cy="-38.9639552863191" r="3" fill="rgb(240, 112, 74)"  >
+<title  >
+84 - inheritance, 9 -> 14, chapter: 16</title>
+</circle>
+<circle cx="328.88367416555104" cy="-12.330446876942537" r="3" fill="rgb(77, 102, 172)"  >
+<title  >
+85 - death_neutral, 9 -> 9, chapter: 16</title>
+</circle>
+<circle cx="425.9524155696988" cy="-29.31026284343079" r="3" fill="rgb(69, 148, 180)"  >
+<title  >
+86 - hostility_lethal, 31 -> 21, chapter: 12</title>
+</circle>
+<circle cx="231.10744671092777" cy="8.664638345959382" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+87 - origin, -1 -> 7, chapter: 0</title>
+</circle>
+<circle cx="223.35830390348414" cy="59.973293725369096" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+88 - origin, -1 -> 9, chapter: 0</title>
+</circle>
+<circle cx="266.66243851260896" cy="9.997659629953132" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+89 - origin, -1 -> 10, chapter: 0</title>
+</circle>
+<circle cx="227.22196749742218" cy="43.08022016553529" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+90 - origin, -1 -> 11, chapter: 0</title>
+</circle>
+<circle cx="303.04881334946225" cy="-71.30580825184903" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+91 - origin, -1 -> 13, chapter: 0</title>
+</circle>
+<circle cx="307.53732002182045" cy="-48.41382402540692" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+92 - origin, -1 -> 14, chapter: 0</title>
+</circle>
+<circle cx="211.89747260392602" cy="92.65629491286066" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+93 - origin, -1 -> 15, chapter: 0</title>
+</circle>
+<circle cx="-156.51565907699955" cy="348.9948296885583" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+94 - origin, -1 -> 18, chapter: 0</title>
+</circle>
+<circle cx="377.288591068018" cy="199.86963473104734" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+95 - origin, -1 -> 19, chapter: 0</title>
+</circle>
+<circle cx="345.84787514568313" cy="183.21383183679342" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+96 - origin, -1 -> 21, chapter: 0</title>
+</circle>
+<circle cx="240.8423355864946" cy="151.70619699260456" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+97 - origin, -1 -> 22, chapter: 0</title>
+</circle>
+<circle cx="307.4589997999242" cy="227.5159469744563" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+98 - origin, -1 -> 23, chapter: 0</title>
+</circle>
+<circle cx="278.85816260923355" cy="206.3516728372976" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+99 - origin, -1 -> 24, chapter: 0</title>
+</circle>
+<circle cx="146.2360507036372" cy="233.7738258221184" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+100 - origin, -1 -> 25, chapter: 0</title>
+</circle>
+<circle cx="113.77159833122411" cy="327.7177309052829" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+101 - origin, -1 -> 26, chapter: 0</title>
+</circle>
+<circle cx="-176.2332716375179" cy="200.3762542805513" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+102 - origin, -1 -> 29, chapter: 0</title>
+</circle>
+<circle cx="-281.4139657978477" cy="202.8523295170076" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+103 - origin, -1 -> 31, chapter: 0</title>
+</circle>
+<circle cx="-2.916624000862504" cy="-311.3110901773406" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+104 - origin, -1 -> 35, chapter: 0</title>
+</circle>
+<circle cx="24.482442453887177" cy="-372.786636378189" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+105 - origin, -1 -> 36, chapter: 0</title>
+</circle>
+<circle cx="66.56542002427251" cy="-304.12521503479263" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+106 - origin, -1 -> 37, chapter: 0</title>
+</circle>
+<circle cx="89.15095388081434" cy="-298.28712507432766" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+107 - origin, -1 -> 38, chapter: 0</title>
+</circle>
+<circle cx="111.23593601977528" cy="-290.774256255211" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+108 - origin, -1 -> 41, chapter: 0</title>
+</circle>
+<circle cx="132.6963669183106" cy="-281.6287907328506" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+109 - origin, -1 -> 42, chapter: 0</title>
+</circle>
+<circle cx="244.49708377376078" cy="106.91110951483924" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+110 - last_seen, 7 -> -2, chapter: 17</title>
+</circle>
+<circle cx="346.90472429263457" cy="-8.4967152042814e-14" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+111 - last_seen, 9 -> -2, chapter: 17</title>
+</circle>
+<circle cx="262.1791932662564" cy="49.70794634484841" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+112 - last_seen, 10 -> -2, chapter: 17</title>
+</circle>
+<circle cx="257.72111988863554" cy="69.1999542985028" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+113 - last_seen, 11 -> -2, chapter: 17</title>
+</circle>
+<circle cx="342.6844423100285" cy="-53.94683248545342" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+114 - last_seen, 13 -> -2, chapter: 17</title>
+</circle>
+<circle cx="345.7618667610855" cy="-28.135728717027014" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+115 - last_seen, 14 -> -2, chapter: 17</title>
+</circle>
+<circle cx="-176.95646009628024" cy="148.9031198904313" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+116 - last_seen, 15 -> -2, chapter: 17</title>
+</circle>
+<circle cx="277.0732007766512" cy="-65.19388183026197" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+117 - last_seen, 18 -> -2, chapter: 17</title>
+</circle>
+<circle cx="209.94935897613885" cy="-229.87902955353502" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+118 - last_seen, 19 -> -2, chapter: 17</title>
+</circle>
+<circle cx="399.3303895965927" cy="-27.478371415716367" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+119 - last_seen, 21 -> -2, chapter: 17</title>
+</circle>
+<circle cx="-87.80521493235919" cy="-174.88498923709383" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+120 - last_seen, 22 -> -2, chapter: 17</title>
+</circle>
+<circle cx="-118.64857249511132" cy="-363.61663731260376" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+121 - last_seen, 23 -> -2, chapter: 17</title>
+</circle>
+<circle cx="-83.54658622994833" cy="299.90510081072057" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+122 - last_seen, 24 -> -2, chapter: 17</title>
+</circle>
+<circle cx="102.10271645109854" cy="294.1056559406385" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+123 - last_seen, 25 -> -2, chapter: 17</title>
+</circle>
+<circle cx="37.84121664745036" cy="344.8346416170938" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+124 - last_seen, 26 -> -2, chapter: 17</title>
+</circle>
+<circle cx="220.52367449437907" cy="-69.6780946238323" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+125 - last_seen, 29 -> -2, chapter: 17</title>
+</circle>
+<circle cx="452.57444154280495" cy="-31.142154271145216" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+126 - last_seen, 31 -> -2, chapter: 17</title>
+</circle>
+<circle cx="252.53604688227205" cy="-321.940006533039" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+127 - last_seen, 35 -> -2, chapter: 17</title>
+</circle>
+<circle cx="52.32737327695294" cy="-369.90689674106704" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+128 - last_seen, 36 -> -2, chapter: 17</title>
+</circle>
+<circle cx="99.33963432433599" cy="-332.3770822256794" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+129 - last_seen, 37 -> -2, chapter: 17</title>
+</circle>
+<circle cx="123.94861442203532" cy="-324.00559982723513" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+130 - last_seen, 38 -> -2, chapter: 17</title>
+</circle>
+<circle cx="147.86166599468893" cy="-313.81493824517634" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+131 - last_seen, 41 -> -2, chapter: 17</title>
+</circle>
+<circle cx="170.94452554295873" cy="-301.8623145134906" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+132 - last_seen, 42 -> -2, chapter: 17</title>
+</circle>
+</g>
+<g stroke="#fff" stroke-width="1.5"  >
+<circle cx="248.36060980831178" cy="18.649195584318665" r="3" fill="rgb(254, 203, 123)"  >
+<title  >
+0 - offer assistance, 10 -> 7, chapter: 1</title>
+</circle>
+<circle cx="246.2669587867162" cy="37.19368239688698" r="3" fill="rgb(77, 102, 172)"  >
+<title  >
+1 - death_neutral, 10 -> 7, chapter: 1</title>
+</circle>
+<circle cx="242.7906041165549" cy="55.52933956942912" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+2 - provide information, 11 -> 7, chapter: 1</title>
+</circle>
+<circle cx="237.95106432483553" cy="73.55321873974407" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+3 - request assistance, 9 -> 7, chapter: 2</title>
+</circle>
+<circle cx="231.77551175071534" cy="91.1641220710904" r="3" fill="rgb(254, 203, 123)"  >
+<title  >
+4 - offer assistance, 7 -> 9, chapter: 2</title>
+</circle>
+<circle cx="224.29861998223157" cy="108.26317044297728" r="3" fill="rgb(254, 203, 123)"  >
+<title  >
+5 - offer assistance, 9 -> 15, chapter: 2</title>
+</circle>
+<circle cx="354.1381779321936" cy="204.9535891666314" r="3" fill="rgb(248, 249, 176)"  >
+<title  >
+6 - giftgiving, 19 -> 21, chapter: 3</title>
+</circle>
+<circle cx="220.3026539504674" cy="150.58402961120396" r="3" fill="rgb(217, 70, 75)"  >
+<title  >
+7 - fostering, 9 -> 22, chapter: 3</title>
+</circle>
+<circle cx="284.82522820953164" cy="227.76483703493173" r="3" fill="rgb(254, 203, 123)"  >
+<title  >
+8 - offer assistance, 23 -> 24, chapter: 4</title>
+</circle>
+<circle cx="266.97096771480886" cy="248.452679622457" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+9 - provide information, 23 -> 24, chapter: 4</title>
+</circle>
+<circle cx="223.45992771187787" cy="241.62402976488028" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+10 - request assistance, 24 -> 9, chapter: 4</title>
+</circle>
+<circle cx="204.74018570756772" cy="257.67803051336784" r="3" fill="rgb(254, 203, 123)"  >
+<title  >
+11 - offer assistance, 24 -> 9, chapter: 4</title>
+</circle>
+<circle cx="184.870898497597" cy="272.28525839918075" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+12 - provide information, 24 -> 9, chapter: 4</title>
+</circle>
+<circle cx="146.23782792163053" cy="254.5135692880835" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+13 - request assistance, 24 -> 25, chapter: 5</title>
+</circle>
+<circle cx="115.24520517296834" cy="240.68101710813792" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+14 - request assistance, 24 -> 22, chapter: 5</title>
+</circle>
+<circle cx="106.5898553715235" cy="273.49819377625545" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+15 - request assistance, 24 -> 25, chapter: 5</title>
+</circle>
+<circle cx="96.21291630247565" cy="314.737328242759" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+16 - request assistance, 9 -> 26, chapter: 5</title>
+</circle>
+<circle cx="72.3757925743578" cy="321.05802544407914" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+17 - request assistance, 9 -> 26, chapter: 5</title>
+</circle>
+<circle cx="48.13230384724281" cy="325.5760930706893" r="3" fill="rgb(254, 235, 159)"  >
+<title  >
+18 - discover information, 26 -> 9, chapter: 5</title>
+</circle>
+<circle cx="15.32015280687725" cy="212.92940350589683" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+19 - provide information, 9 -> 22, chapter: 5</title>
+</circle>
+<circle cx="-2.749959772241783" cy="293.5218850243497" r="3" fill="rgb(238, 248, 168)"  >
+<title  >
+20 - accusation, 9 -> 24, chapter: 5</title>
+</circle>
+<circle cx="-27.717130835117768" cy="327.94553162238145" r="3" fill="rgb(69, 148, 180)"  >
+<title  >
+21 - hostility_lethal, 9 -> 24, chapter: 5</title>
+</circle>
+<circle cx="-52.195351354369706" cy="324.94946737887005" r="3" fill="rgb(69, 148, 180)"  >
+<title  >
+22 - hostility_lethal, 9 -> 24, chapter: 5</title>
+</circle>
+<circle cx="-76.3805130600828" cy="320.12892446246707" r="3" fill="rgb(77, 102, 172)"  >
+<title  >
+23 - death_neutral, 9 -> 24, chapter: 5</title>
+</circle>
+<circle cx="-110.962427313537" cy="347.40404623269546" r="3" fill="rgb(130, 204, 165)"  >
+<title  >
+24 - intervention, 9 -> 23, chapter: 6</title>
+</circle>
+<circle cx="-123.3309026618926" cy="305.13275717533213" r="3" fill="rgb(105, 189, 169)"  >
+<title  >
+25 - challenge, 23 -> 9, chapter: 6</title>
+</circle>
+<circle cx="-161.59819826717415" cy="326.93769120577684" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+26 - request assistance, 23 -> 18, chapter: 6</title>
+</circle>
+<circle cx="-185.62510542066696" cy="313.9196582753732" r="3" fill="rgb(250, 160, 92)"  >
+<title  >
+27 - placed in command, 18 -> 23, chapter: 6</title>
+</circle>
+<circle cx="-188.25761709983425" cy="269.9547752063475" r="3" fill="rgb(238, 248, 168)"  >
+<title  >
+28 - accusation, 18 -> 9, chapter: 7</title>
+</circle>
+<circle cx="-207.9428938678011" cy="255.10049773119192" r="3" fill="rgb(224, 243, 161)"  >
+<title  >
+29 - summons, 18 -> 9, chapter: 7</title>
+</circle>
+<circle cx="-195.85785369378763" cy="206.54176808379344" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+30 - request assistance, 18 -> 29, chapter: 8</title>
+</circle>
+<circle cx="-184.42683926983142" cy="167.38436592835794" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+31 - provide information, 29 -> 15, chapter: 8</title>
+</circle>
+<circle cx="-224.50578714759533" cy="174.9770052148432" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+32 - provide information, 29 -> 18, chapter: 9</title>
+</circle>
+<circle cx="-303.6274494111281" cy="202.02129486332277" r="3" fill="rgb(83, 170, 175)"  >
+<title  >
+33 - hostility_non-lethal, 23 -> 31, chapter: 9</title>
+</circle>
+<circle cx="-248.11870915892982" cy="139.488017342075" r="3" fill="rgb(130, 204, 165)"  >
+<title  >
+34 - intervention, 29 -> 31, chapter: 9</title>
+</circle>
+<circle cx="-257.8667962409246" cy="120.51770082920633" r="3" fill="rgb(254, 203, 123)"  >
+<title  >
+35 - offer assistance, 31 -> 29, chapter: 9</title>
+</circle>
+<circle cx="-249.53160994320635" cy="94.56629923349469" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+36 - provide information, 18 -> 31, chapter: 10</title>
+</circle>
+<circle cx="-272.97286920197587" cy="80.65738339642317" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+38 - provide information, 18 -> 31, chapter: 10</title>
+</circle>
+<circle cx="-321.7219834207148" cy="69.3648069027709" r="3" fill="rgb(238, 248, 168)"  >
+<title  >
+40 - accusation, 18 -> 9, chapter: 10</title>
+</circle>
+<circle cx="-326.01272935794043" cy="45.08005489574886" r="3" fill="rgb(83, 170, 175)"  >
+<title  >
+41 - hostility_non-lethal, 18 -> 9, chapter: 10</title>
+</circle>
+<circle cx="-284.08477991321445" cy="17.766221837440117" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+42 - request assistance, 31 -> 18, chapter: 10</title>
+</circle>
+<circle cx="-284.58980955205755" cy="-5.333021267560086" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+43 - provide information, 31 -> 18, chapter: 10</title>
+</circle>
+<circle cx="-327.671473844929" cy="-30.78824907508471" r="3" fill="rgb(250, 160, 92)"  >
+<title  >
+44 - placed in command, 9 -> 18, chapter: 11</title>
+</circle>
+<circle cx="-324.4462185991966" cy="-55.237326958314874" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+45 - request assistance, 9 -> 29, chapter: 11</title>
+</circle>
+<circle cx="-319.39931024810807" cy="-79.37626638895439" r="3" fill="rgb(156, 215, 163)"  >
+<title  >
+46 - threat, 29 -> 9, chapter: 11</title>
+</circle>
+<circle cx="-312.5590854334337" cy="-103.06953558560794" r="3" fill="rgb(83, 170, 175)"  >
+<title  >
+47 - hostility_non-lethal, 29 -> 9, chapter: 11</title>
+</circle>
+<circle cx="-262.8877402357191" cy="-109.13219896288047" r="3" fill="rgb(182, 226, 161)"  >
+<title  >
+48 - insult, 31 -> 9, chapter: 11</title>
+</circle>
+<circle cx="-293.66216159990665" cy="-148.590194485665" r="3" fill="rgb(83, 170, 175)"  >
+<title  >
+49 - hostility_non-lethal, 31 -> 9, chapter: 11</title>
+</circle>
+<circle cx="-243.64243222580944" cy="-147.16713639875064" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+50 - provide information, 31 -> 18, chapter: 11</title>
+</circle>
+<circle cx="-246.43498658373198" cy="-175.30988820720393" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+51 - provide information, 29 -> 18, chapter: 11</title>
+</circle>
+<circle cx="-253.14120437826978" cy="-210.32365938889635" r="3" fill="rgb(182, 226, 161)"  >
+<title  >
+52 - insult, 18 -> 9, chapter: 11</title>
+</circle>
+<circle cx="-236.6818584948966" cy="-228.6880165470399" r="3" fill="rgb(83, 170, 175)"  >
+<title  >
+53 - hostility_non-lethal, 18 -> 9, chapter: 11</title>
+</circle>
+<circle cx="-201.14549414388594" cy="-225.84120461368082" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+54 - provide information, 29 -> 18, chapter: 12</title>
+</circle>
+<circle cx="-129.6495448192409" cy="-169.60139588920472" r="3" fill="rgb(224, 243, 161)"  >
+<title  >
+55 - summons, 31 -> 22, chapter: 12</title>
+</circle>
+<circle cx="-150.59037616312315" cy="-230.9929063238869" r="3" fill="rgb(248, 249, 176)"  >
+<title  >
+56 - giftgiving, 18 -> 31, chapter: 12</title>
+</circle>
+<circle cx="-140.87486802356682" cy="-216.0901381739587" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+57 - provide information, 31 -> 18, chapter: 12</title>
+</circle>
+<circle cx="-102.86805998568319" cy="-187.06095315213432" r="3" fill="rgb(224, 243, 161)"  >
+<title  >
+58 - summons, 29 -> 22, chapter: 12</title>
+</circle>
+<circle cx="-103.33452941110463" cy="-226.61147374235978" r="3" fill="rgb(248, 249, 176)"  >
+<title  >
+59 - giftgiving, 18 -> 29, chapter: 12</title>
+</circle>
+<circle cx="-126.04005422443645" cy="-342.2223492778663" r="3" fill="rgb(248, 249, 176)"  >
+<title  >
+60 - giftgiving, 18 -> 23, chapter: 12</title>
+</circle>
+<circle cx="-90.29909741900896" cy="-316.4847295812703" r="3" fill="rgb(67, 125, 179)"  >
+<title  >
+61 - conversation_neutral, 9 -> 18, chapter: 13</title>
+</circle>
+<circle cx="-66.34773312387776" cy="-322.35770405271865" r="3" fill="rgb(67, 125, 179)"  >
+<title  >
+62 - conversation_neutral, 18 -> 9, chapter: 13</title>
+</circle>
+<circle cx="-52.2458666910805" cy="-405.82039401084336" r="3" fill="rgb(253, 245, 173)"  >
+<title  >
+63 - invitation, 18 -> 19, chapter: 14</title>
+</circle>
+<circle cx="-21.712020031742203" cy="-408.5932096444575" r="3" fill="rgb(248, 249, 176)"  >
+<title  >
+64 - giftgiving, 18 -> 19, chapter: 14</title>
+</circle>
+<circle cx="8.248913888660727" cy="-293.4188383295352" r="3" fill="rgb(254, 203, 123)"  >
+<title  >
+65 - offer assistance, 19 -> 35, chapter: 14</title>
+</circle>
+<circle cx="33.856665048981874" cy="-327.3686565396548" r="3" fill="rgb(182, 226, 161)"  >
+<title  >
+66 - insult, 36 -> 9, chapter: 14</title>
+</circle>
+<circle cx="58.27445441535593" cy="-323.91449337041104" r="3" fill="rgb(83, 170, 175)"  >
+<title  >
+67 - hostility_non-lethal, 9 -> 19, chapter: 14</title>
+</circle>
+<circle cx="82.36505291075301" cy="-318.64166254874186" r="3" fill="rgb(224, 243, 161)"  >
+<title  >
+68 - summons, 9 -> 37, chapter: 14</title>
+</circle>
+<circle cx="105.99320017138022" cy="-311.57976919281384" r="3" fill="rgb(224, 243, 161)"  >
+<title  >
+69 - summons, 9 -> 38, chapter: 14</title>
+</circle>
+<circle cx="129.02623233689994" cy="-302.7684633870604" r="3" fill="rgb(224, 243, 161)"  >
+<title  >
+70 - summons, 9 -> 41, chapter: 14</title>
+</circle>
+<circle cx="151.33482691204273" cy="-292.2572175606952" r="3" fill="rgb(224, 243, 161)"  >
+<title  >
+71 - summons, 9 -> 42, chapter: 14</title>
+</circle>
+<circle cx="154.11332574678767" cy="-249.82342182882093" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+72 - provide information, 35 -> 19, chapter: 14</title>
+</circle>
+<circle cx="240.29710485370487" cy="-331.1753677137627" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+73 - request assistance, 35 -> 18, chapter: 14</title>
+</circle>
+<circle cx="212.68596492913707" cy="-251.159692974369" r="3" fill="rgb(69, 148, 180)"  >
+<title  >
+74 - hostility_lethal, 9 -> 19, chapter: 14</title>
+</circle>
+<circle cx="230.89531795122096" cy="-234.52902421879895" r="3" fill="rgb(83, 170, 175)"  >
+<title  >
+75 - hostility_non-lethal, 18 -> 9, chapter: 14</title>
+</circle>
+<circle cx="247.8082737621617" cy="-216.58155625037645" r="3" fill="rgb(105, 189, 169)"  >
+<title  >
+76 - challenge, 9 -> 18, chapter: 15</title>
+</circle>
+<circle cx="220.62773057362725" cy="-165.40431876718893" r="3" fill="rgb(253, 183, 106)"  >
+<title  >
+77 - request assistance, 18 -> 31, chapter: 16</title>
+</circle>
+<circle cx="209.90386479509624" cy="-134.05652742175826" r="3" fill="rgb(248, 249, 176)"  >
+<title  >
+78 - giftgiving, 18 -> 29, chapter: 16</title>
+</circle>
+<circle cx="266.3566462945624" cy="-143.24069425432106" r="3" fill="rgb(248, 249, 176)"  >
+<title  >
+79 - giftgiving, 18 -> 31, chapter: 16</title>
+</circle>
+<circle cx="276.3345279117053" cy="-122.89421548454372" r="3" fill="rgb(254, 221, 141)"  >
+<title  >
+80 - provide information, 31 -> 18, chapter: 16</title>
+</circle>
+<circle cx="234.50896568010253" cy="-83.88283504953301" r="3" fill="rgb(248, 249, 176)"  >
+<title  >
+81 - giftgiving, 29 -> 18, chapter: 16</title>
+</circle>
+<circle cx="291.5884121650563" cy="-80.24934521108409" r="3" fill="rgb(248, 249, 176)"  >
+<title  >
+82 - giftgiving, 31 -> 18, chapter: 16</title>
+</circle>
+<circle cx="322.9651315432736" cy="-63.324836044425695" r="3" fill="rgb(240, 112, 74)"  >
+<title  >
+83 - inheritance, 9 -> 13, chapter: 16</title>
+</circle>
+<circle cx="326.8001242981146" cy="-38.9639552863191" r="3" fill="rgb(240, 112, 74)"  >
+<title  >
+84 - inheritance, 9 -> 14, chapter: 16</title>
+</circle>
+<circle cx="328.88367416555104" cy="-12.330446876942537" r="3" fill="rgb(77, 102, 172)"  >
+<title  >
+85 - death_neutral, 9 -> 9, chapter: 16</title>
+</circle>
+<circle cx="425.9524155696988" cy="-29.31026284343079" r="3" fill="rgb(69, 148, 180)"  >
+<title  >
+86 - hostility_lethal, 31 -> 21, chapter: 12</title>
+</circle>
+<circle cx="231.10744671092777" cy="8.664638345959382" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+87 - origin, -1 -> 7, chapter: 0</title>
+</circle>
+<circle cx="223.35830390348414" cy="59.973293725369096" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+88 - origin, -1 -> 9, chapter: 0</title>
+</circle>
+<circle cx="266.66243851260896" cy="9.997659629953132" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+89 - origin, -1 -> 10, chapter: 0</title>
+</circle>
+<circle cx="227.22196749742218" cy="43.08022016553529" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+90 - origin, -1 -> 11, chapter: 0</title>
+</circle>
+<circle cx="303.04881334946225" cy="-71.30580825184903" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+91 - origin, -1 -> 13, chapter: 0</title>
+</circle>
+<circle cx="307.53732002182045" cy="-48.41382402540692" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+92 - origin, -1 -> 14, chapter: 0</title>
+</circle>
+<circle cx="211.89747260392602" cy="92.65629491286066" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+93 - origin, -1 -> 15, chapter: 0</title>
+</circle>
+<circle cx="-156.51565907699955" cy="348.9948296885583" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+94 - origin, -1 -> 18, chapter: 0</title>
+</circle>
+<circle cx="377.288591068018" cy="199.86963473104734" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+95 - origin, -1 -> 19, chapter: 0</title>
+</circle>
+<circle cx="345.84787514568313" cy="183.21383183679342" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+96 - origin, -1 -> 21, chapter: 0</title>
+</circle>
+<circle cx="240.8423355864946" cy="151.70619699260456" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+97 - origin, -1 -> 22, chapter: 0</title>
+</circle>
+<circle cx="307.4589997999242" cy="227.5159469744563" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+98 - origin, -1 -> 23, chapter: 0</title>
+</circle>
+<circle cx="278.85816260923355" cy="206.3516728372976" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+99 - origin, -1 -> 24, chapter: 0</title>
+</circle>
+<circle cx="146.2360507036372" cy="233.7738258221184" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+100 - origin, -1 -> 25, chapter: 0</title>
+</circle>
+<circle cx="113.77159833122411" cy="327.7177309052829" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+101 - origin, -1 -> 26, chapter: 0</title>
+</circle>
+<circle cx="-176.2332716375179" cy="200.3762542805513" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+102 - origin, -1 -> 29, chapter: 0</title>
+</circle>
+<circle cx="-281.4139657978477" cy="202.8523295170076" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+103 - origin, -1 -> 31, chapter: 0</title>
+</circle>
+<circle cx="-2.916624000862504" cy="-311.3110901773406" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+104 - origin, -1 -> 35, chapter: 0</title>
+</circle>
+<circle cx="24.482442453887177" cy="-372.786636378189" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+105 - origin, -1 -> 36, chapter: 0</title>
+</circle>
+<circle cx="66.56542002427251" cy="-304.12521503479263" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+106 - origin, -1 -> 37, chapter: 0</title>
+</circle>
+<circle cx="89.15095388081434" cy="-298.28712507432766" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+107 - origin, -1 -> 38, chapter: 0</title>
+</circle>
+<circle cx="111.23593601977528" cy="-290.774256255211" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+108 - origin, -1 -> 41, chapter: 0</title>
+</circle>
+<circle cx="132.6963669183106" cy="-281.6287907328506" r="3" fill="rgb(158, 1, 66)"  >
+<title  >
+109 - origin, -1 -> 42, chapter: 0</title>
+</circle>
+<circle cx="244.49708377376078" cy="106.91110951483924" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+110 - last_seen, 7 -> -2, chapter: 17</title>
+</circle>
+<circle cx="346.90472429263457" cy="-8.4967152042814e-14" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+111 - last_seen, 9 -> -2, chapter: 17</title>
+</circle>
+<circle cx="262.1791932662564" cy="49.70794634484841" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+112 - last_seen, 10 -> -2, chapter: 17</title>
+</circle>
+<circle cx="257.72111988863554" cy="69.1999542985028" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+113 - last_seen, 11 -> -2, chapter: 17</title>
+</circle>
+<circle cx="342.6844423100285" cy="-53.94683248545342" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+114 - last_seen, 13 -> -2, chapter: 17</title>
+</circle>
+<circle cx="345.7618667610855" cy="-28.135728717027014" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+115 - last_seen, 14 -> -2, chapter: 17</title>
+</circle>
+<circle cx="-176.95646009628024" cy="148.9031198904313" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+116 - last_seen, 15 -> -2, chapter: 17</title>
+</circle>
+<circle cx="277.0732007766512" cy="-65.19388183026197" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+117 - last_seen, 18 -> -2, chapter: 17</title>
+</circle>
+<circle cx="209.94935897613885" cy="-229.87902955353502" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+118 - last_seen, 19 -> -2, chapter: 17</title>
+</circle>
+<circle cx="399.3303895965927" cy="-27.478371415716367" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+119 - last_seen, 21 -> -2, chapter: 17</title>
+</circle>
+<circle cx="-87.80521493235919" cy="-174.88498923709383" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+120 - last_seen, 22 -> -2, chapter: 17</title>
+</circle>
+<circle cx="-118.64857249511132" cy="-363.61663731260376" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+121 - last_seen, 23 -> -2, chapter: 17</title>
+</circle>
+<circle cx="-83.54658622994833" cy="299.90510081072057" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+122 - last_seen, 24 -> -2, chapter: 17</title>
+</circle>
+<circle cx="102.10271645109854" cy="294.1056559406385" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+123 - last_seen, 25 -> -2, chapter: 17</title>
+</circle>
+<circle cx="37.84121664745036" cy="344.8346416170938" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+124 - last_seen, 26 -> -2, chapter: 17</title>
+</circle>
+<circle cx="220.52367449437907" cy="-69.6780946238323" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+125 - last_seen, 29 -> -2, chapter: 17</title>
+</circle>
+<circle cx="452.57444154280495" cy="-31.142154271145216" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+126 - last_seen, 31 -> -2, chapter: 17</title>
+</circle>
+<circle cx="252.53604688227205" cy="-321.940006533039" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+127 - last_seen, 35 -> -2, chapter: 17</title>
+</circle>
+<circle cx="52.32737327695294" cy="-369.90689674106704" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+128 - last_seen, 36 -> -2, chapter: 17</title>
+</circle>
+<circle cx="99.33963432433599" cy="-332.3770822256794" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+129 - last_seen, 37 -> -2, chapter: 17</title>
+</circle>
+<circle cx="123.94861442203532" cy="-324.00559982723513" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+130 - last_seen, 38 -> -2, chapter: 17</title>
+</circle>
+<circle cx="147.86166599468893" cy="-313.81493824517634" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+131 - last_seen, 41 -> -2, chapter: 17</title>
+</circle>
+<circle cx="170.94452554295873" cy="-301.8623145134906" r="3" fill="rgb(94, 79, 162)"  >
+<title  >
+132 - last_seen, 42 -> -2, chapter: 17</title>
+</circle>
+<line x1="231.10744671092777" y1="8.664638345959382" x2="248.36060980831178" y2="18.649195584318665" stroke="rgb(238, 67, 149)" stroke-width="2"  >
+<title  >
+7 - Hallfred, source: 87, target: 0</title>
+</line>
+<line x1="248.36060980831178" y1="18.649195584318665" x2="246.2669587867162" y2="37.19368239688698" stroke="rgb(238, 67, 149)" stroke-width="2"  >
+<title  >
+7 - Hallfred, source: 0, target: 1</title>
+</line>
+<line x1="246.2669587867162" y1="37.19368239688698" x2="242.7906041165549" y2="55.52933956942912" stroke="rgb(238, 67, 149)" stroke-width="2"  >
+<title  >
+7 - Hallfred, source: 1, target: 2</title>
+</line>
+<line x1="242.7906041165549" y1="55.52933956942912" x2="237.95106432483553" y2="73.55321873974407" stroke="rgb(238, 67, 149)" stroke-width="2"  >
+<title  >
+7 - Hallfred, source: 2, target: 3</title>
+</line>
+<line x1="237.95106432483553" y1="73.55321873974407" x2="231.77551175071534" y2="91.1641220710904" stroke="rgb(238, 67, 149)" stroke-width="2"  >
+<title  >
+7 - Hallfred, source: 3, target: 4</title>
+</line>
+<line x1="231.77551175071534" y1="91.1641220710904" x2="244.49708377376078" y2="106.91110951483924" stroke="rgb(238, 67, 149)" stroke-width="2"  >
+<title  >
+7 - Hallfred, source: 4, target: 110</title>
+</line>
+<line x1="223.35830390348414" y1="59.973293725369096" x2="237.95106432483553" y2="73.55321873974407" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 88, target: 3</title>
+</line>
+<line x1="237.95106432483553" y1="73.55321873974407" x2="231.77551175071534" y2="91.1641220710904" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 3, target: 4</title>
+</line>
+<line x1="231.77551175071534" y1="91.1641220710904" x2="224.29861998223157" y2="108.26317044297728" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 4, target: 5</title>
+</line>
+<line x1="224.29861998223157" y1="108.26317044297728" x2="220.3026539504674" y2="150.58402961120396" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 5, target: 7</title>
+</line>
+<line x1="220.3026539504674" y1="150.58402961120396" x2="223.45992771187787" y2="241.62402976488028" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 7, target: 10</title>
+</line>
+<line x1="223.45992771187787" y1="241.62402976488028" x2="204.74018570756772" y2="257.67803051336784" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 10, target: 11</title>
+</line>
+<line x1="204.74018570756772" y1="257.67803051336784" x2="184.870898497597" y2="272.28525839918075" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 11, target: 12</title>
+</line>
+<line x1="184.870898497597" y1="272.28525839918075" x2="96.21291630247565" y2="314.737328242759" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 12, target: 16</title>
+</line>
+<line x1="96.21291630247565" y1="314.737328242759" x2="72.3757925743578" y2="321.05802544407914" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 16, target: 17</title>
+</line>
+<line x1="72.3757925743578" y1="321.05802544407914" x2="48.13230384724281" y2="325.5760930706893" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 17, target: 18</title>
+</line>
+<line x1="48.13230384724281" y1="325.5760930706893" x2="15.32015280687725" y2="212.92940350589683" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 18, target: 19</title>
+</line>
+<line x1="15.32015280687725" y1="212.92940350589683" x2="-2.749959772241783" y2="293.5218850243497" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 19, target: 20</title>
+</line>
+<line x1="-2.749959772241783" y1="293.5218850243497" x2="-27.717130835117768" y2="327.94553162238145" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 20, target: 21</title>
+</line>
+<line x1="-27.717130835117768" y1="327.94553162238145" x2="-52.195351354369706" y2="324.94946737887005" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 21, target: 22</title>
+</line>
+<line x1="-52.195351354369706" y1="324.94946737887005" x2="-76.3805130600828" y2="320.12892446246707" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 22, target: 23</title>
+</line>
+<line x1="-76.3805130600828" y1="320.12892446246707" x2="-110.962427313537" y2="347.40404623269546" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 23, target: 24</title>
+</line>
+<line x1="-110.962427313537" y1="347.40404623269546" x2="-123.3309026618926" y2="305.13275717533213" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 24, target: 25</title>
+</line>
+<line x1="-123.3309026618926" y1="305.13275717533213" x2="-188.25761709983425" y2="269.9547752063475" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 25, target: 28</title>
+</line>
+<line x1="-188.25761709983425" y1="269.9547752063475" x2="-207.9428938678011" y2="255.10049773119192" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 28, target: 29</title>
+</line>
+<line x1="-207.9428938678011" y1="255.10049773119192" x2="-321.7219834207148" y2="69.3648069027709" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 29, target: 40</title>
+</line>
+<line x1="-321.7219834207148" y1="69.3648069027709" x2="-326.01272935794043" y2="45.08005489574886" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 40, target: 41</title>
+</line>
+<line x1="-326.01272935794043" y1="45.08005489574886" x2="-327.671473844929" y2="-30.78824907508471" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 41, target: 44</title>
+</line>
+<line x1="-327.671473844929" y1="-30.78824907508471" x2="-324.4462185991966" y2="-55.237326958314874" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 44, target: 45</title>
+</line>
+<line x1="-324.4462185991966" y1="-55.237326958314874" x2="-319.39931024810807" y2="-79.37626638895439" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 45, target: 46</title>
+</line>
+<line x1="-319.39931024810807" y1="-79.37626638895439" x2="-312.5590854334337" y2="-103.06953558560794" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 46, target: 47</title>
+</line>
+<line x1="-312.5590854334337" y1="-103.06953558560794" x2="-262.8877402357191" y2="-109.13219896288047" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 47, target: 48</title>
+</line>
+<line x1="-262.8877402357191" y1="-109.13219896288047" x2="-293.66216159990665" y2="-148.590194485665" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 48, target: 49</title>
+</line>
+<line x1="-293.66216159990665" y1="-148.590194485665" x2="-253.14120437826978" y2="-210.32365938889635" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 49, target: 52</title>
+</line>
+<line x1="-253.14120437826978" y1="-210.32365938889635" x2="-236.6818584948966" y2="-228.6880165470399" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 52, target: 53</title>
+</line>
+<line x1="-236.6818584948966" y1="-228.6880165470399" x2="-90.29909741900896" y2="-316.4847295812703" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 53, target: 61</title>
+</line>
+<line x1="-90.29909741900896" y1="-316.4847295812703" x2="-66.34773312387776" y2="-322.35770405271865" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 61, target: 62</title>
+</line>
+<line x1="-66.34773312387776" y1="-322.35770405271865" x2="33.856665048981874" y2="-327.3686565396548" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 62, target: 66</title>
+</line>
+<line x1="33.856665048981874" y1="-327.3686565396548" x2="58.27445441535593" y2="-323.91449337041104" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 66, target: 67</title>
+</line>
+<line x1="58.27445441535593" y1="-323.91449337041104" x2="82.36505291075301" y2="-318.64166254874186" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 67, target: 68</title>
+</line>
+<line x1="82.36505291075301" y1="-318.64166254874186" x2="105.99320017138022" y2="-311.57976919281384" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 68, target: 69</title>
+</line>
+<line x1="105.99320017138022" y1="-311.57976919281384" x2="129.02623233689994" y2="-302.7684633870604" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 69, target: 70</title>
+</line>
+<line x1="129.02623233689994" y1="-302.7684633870604" x2="151.33482691204273" y2="-292.2572175606952" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 70, target: 71</title>
+</line>
+<line x1="151.33482691204273" y1="-292.2572175606952" x2="212.68596492913707" y2="-251.159692974369" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 71, target: 74</title>
+</line>
+<line x1="212.68596492913707" y1="-251.159692974369" x2="230.89531795122096" y2="-234.52902421879895" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 74, target: 75</title>
+</line>
+<line x1="230.89531795122096" y1="-234.52902421879895" x2="247.8082737621617" y2="-216.58155625037645" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 75, target: 76</title>
+</line>
+<line x1="247.8082737621617" y1="-216.58155625037645" x2="322.9651315432736" y2="-63.324836044425695" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 76, target: 83</title>
+</line>
+<line x1="322.9651315432736" y1="-63.324836044425695" x2="326.8001242981146" y2="-38.9639552863191" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 83, target: 84</title>
+</line>
+<line x1="326.8001242981146" y1="-38.9639552863191" x2="328.88367416555104" y2="-12.330446876942537" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 84, target: 85</title>
+</line>
+<line x1="328.88367416555104" y1="-12.330446876942537" x2="328.88367416555104" y2="-12.330446876942537" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 85, target: 85</title>
+</line>
+<line x1="328.88367416555104" y1="-12.330446876942537" x2="346.90472429263457" y2="-8.4967152042814e-14" stroke="rgb(255, 80, 122)" stroke-width="2"  >
+<title  >
+9 - Hrafnkel, source: 85, target: 111</title>
+</line>
+<line x1="266.66243851260896" y1="9.997659629953132" x2="248.36060980831178" y2="18.649195584318665" stroke="rgb(255, 89, 107)" stroke-width="2"  >
+<title  >
+10 - Arnthrud, source: 89, target: 0</title>
+</line>
+<line x1="248.36060980831178" y1="18.649195584318665" x2="246.2669587867162" y2="37.19368239688698" stroke="rgb(255, 89, 107)" stroke-width="2"  >
+<title  >
+10 - Arnthrud, source: 0, target: 1</title>
+</line>
+<line x1="246.2669587867162" y1="37.19368239688698" x2="262.1791932662564" y2="49.70794634484841" stroke="rgb(255, 89, 107)" stroke-width="2"  >
+<title  >
+10 - Arnthrud, source: 1, target: 112</title>
+</line>
+<line x1="227.22196749742218" y1="43.08022016553529" x2="242.7906041165549" y2="55.52933956942912" stroke="rgb(255, 99, 92)" stroke-width="2"  >
+<title  >
+11 - man, source: 90, target: 2</title>
+</line>
+<line x1="242.7906041165549" y1="55.52933956942912" x2="257.72111988863554" y2="69.1999542985028" stroke="rgb(255, 99, 92)" stroke-width="2"  >
+<title  >
+11 - man, source: 2, target: 113</title>
+</line>
+<line x1="303.04881334946225" y1="-71.30580825184903" x2="322.9651315432736" y2="-63.324836044425695" stroke="rgb(255, 125, 66)" stroke-width="2"  >
+<title  >
+13 - Thorir, source: 91, target: 83</title>
+</line>
+<line x1="322.9651315432736" y1="-63.324836044425695" x2="342.6844423100285" y2="-53.94683248545342" stroke="rgb(255, 125, 66)" stroke-width="2"  >
+<title  >
+13 - Thorir, source: 83, target: 114</title>
+</line>
+<line x1="307.53732002182045" y1="-48.41382402540692" x2="326.8001242981146" y2="-38.9639552863191" stroke="rgb(255, 140, 56)" stroke-width="2"  >
+<title  >
+14 - Asbjorn, source: 92, target: 84</title>
+</line>
+<line x1="326.8001242981146" y1="-38.9639552863191" x2="345.7618667610855" y2="-28.135728717027014" stroke="rgb(255, 140, 56)" stroke-width="2"  >
+<title  >
+14 - Asbjorn, source: 84, target: 115</title>
+</line>
+<line x1="211.89747260392602" y1="92.65629491286066" x2="224.29861998223157" y2="108.26317044297728" stroke="rgb(248, 155, 49)" stroke-width="2"  >
+<title  >
+15 - Frey, source: 93, target: 5</title>
+</line>
+<line x1="224.29861998223157" y1="108.26317044297728" x2="-184.42683926983142" y2="167.38436592835794" stroke="rgb(248, 155, 49)" stroke-width="2"  >
+<title  >
+15 - Frey, source: 5, target: 31</title>
+</line>
+<line x1="-184.42683926983142" y1="167.38436592835794" x2="-176.95646009628024" y2="148.9031198904313" stroke="rgb(248, 155, 49)" stroke-width="2"  >
+<title  >
+15 - Frey, source: 31, target: 116</title>
+</line>
+<line x1="-156.51565907699955" y1="348.9948296885583" x2="-161.59819826717415" y2="326.93769120577684" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 94, target: 26</title>
+</line>
+<line x1="-161.59819826717415" y1="326.93769120577684" x2="-185.62510542066696" y2="313.9196582753732" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 26, target: 27</title>
+</line>
+<line x1="-185.62510542066696" y1="313.9196582753732" x2="-188.25761709983425" y2="269.9547752063475" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 27, target: 28</title>
+</line>
+<line x1="-188.25761709983425" y1="269.9547752063475" x2="-207.9428938678011" y2="255.10049773119192" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 28, target: 29</title>
+</line>
+<line x1="-207.9428938678011" y1="255.10049773119192" x2="-195.85785369378763" y2="206.54176808379344" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 29, target: 30</title>
+</line>
+<line x1="-195.85785369378763" y1="206.54176808379344" x2="-224.50578714759533" y2="174.9770052148432" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 30, target: 32</title>
+</line>
+<line x1="-224.50578714759533" y1="174.9770052148432" x2="-249.53160994320635" y2="94.56629923349469" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 32, target: 36</title>
+</line>
+<line x1="-249.53160994320635" y1="94.56629923349469" x2="-272.97286920197587" y2="80.65738339642317" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 36, target: 38</title>
+</line>
+<line x1="-272.97286920197587" y1="80.65738339642317" x2="-321.7219834207148" y2="69.3648069027709" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 38, target: 40</title>
+</line>
+<line x1="-321.7219834207148" y1="69.3648069027709" x2="-326.01272935794043" y2="45.08005489574886" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 40, target: 41</title>
+</line>
+<line x1="-326.01272935794043" y1="45.08005489574886" x2="-284.08477991321445" y2="17.766221837440117" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 41, target: 42</title>
+</line>
+<line x1="-284.08477991321445" y1="17.766221837440117" x2="-284.58980955205755" y2="-5.333021267560086" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 42, target: 43</title>
+</line>
+<line x1="-284.58980955205755" y1="-5.333021267560086" x2="-327.671473844929" y2="-30.78824907508471" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 43, target: 44</title>
+</line>
+<line x1="-327.671473844929" y1="-30.78824907508471" x2="-243.64243222580944" y2="-147.16713639875064" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 44, target: 50</title>
+</line>
+<line x1="-243.64243222580944" y1="-147.16713639875064" x2="-246.43498658373198" y2="-175.30988820720393" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 50, target: 51</title>
+</line>
+<line x1="-246.43498658373198" y1="-175.30988820720393" x2="-253.14120437826978" y2="-210.32365938889635" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 51, target: 52</title>
+</line>
+<line x1="-253.14120437826978" y1="-210.32365938889635" x2="-236.6818584948966" y2="-228.6880165470399" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 52, target: 53</title>
+</line>
+<line x1="-236.6818584948966" y1="-228.6880165470399" x2="-201.14549414388594" y2="-225.84120461368082" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 53, target: 54</title>
+</line>
+<line x1="-201.14549414388594" y1="-225.84120461368082" x2="-150.59037616312315" y2="-230.9929063238869" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 54, target: 56</title>
+</line>
+<line x1="-150.59037616312315" y1="-230.9929063238869" x2="-140.87486802356682" y2="-216.0901381739587" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 56, target: 57</title>
+</line>
+<line x1="-140.87486802356682" y1="-216.0901381739587" x2="-103.33452941110463" y2="-226.61147374235978" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 57, target: 59</title>
+</line>
+<line x1="-103.33452941110463" y1="-226.61147374235978" x2="-126.04005422443645" y2="-342.2223492778663" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 59, target: 60</title>
+</line>
+<line x1="-126.04005422443645" y1="-342.2223492778663" x2="-90.29909741900896" y2="-316.4847295812703" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 60, target: 61</title>
+</line>
+<line x1="-90.29909741900896" y1="-316.4847295812703" x2="-66.34773312387776" y2="-322.35770405271865" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 61, target: 62</title>
+</line>
+<line x1="-66.34773312387776" y1="-322.35770405271865" x2="-52.2458666910805" y2="-405.82039401084336" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 62, target: 63</title>
+</line>
+<line x1="-52.2458666910805" y1="-405.82039401084336" x2="-21.712020031742203" y2="-408.5932096444575" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 63, target: 64</title>
+</line>
+<line x1="-21.712020031742203" y1="-408.5932096444575" x2="240.29710485370487" y2="-331.1753677137627" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 64, target: 73</title>
+</line>
+<line x1="240.29710485370487" y1="-331.1753677137627" x2="230.89531795122096" y2="-234.52902421879895" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 73, target: 75</title>
+</line>
+<line x1="230.89531795122096" y1="-234.52902421879895" x2="247.8082737621617" y2="-216.58155625037645" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 75, target: 76</title>
+</line>
+<line x1="247.8082737621617" y1="-216.58155625037645" x2="220.62773057362725" y2="-165.40431876718893" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 76, target: 77</title>
+</line>
+<line x1="220.62773057362725" y1="-165.40431876718893" x2="209.90386479509624" y2="-134.05652742175826" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 77, target: 78</title>
+</line>
+<line x1="209.90386479509624" y1="-134.05652742175826" x2="266.3566462945624" y2="-143.24069425432106" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 78, target: 79</title>
+</line>
+<line x1="266.3566462945624" y1="-143.24069425432106" x2="276.3345279117053" y2="-122.89421548454372" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 79, target: 80</title>
+</line>
+<line x1="276.3345279117053" y1="-122.89421548454372" x2="234.50896568010253" y2="-83.88283504953301" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 80, target: 81</title>
+</line>
+<line x1="234.50896568010253" y1="-83.88283504953301" x2="291.5884121650563" y2="-80.24934521108409" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 81, target: 82</title>
+</line>
+<line x1="291.5884121650563" y1="-80.24934521108409" x2="277.0732007766512" y2="-65.19388183026197" stroke="rgb(210, 201, 52)" stroke-width="2"  >
+<title  >
+18 - Sam, source: 82, target: 117</title>
+</line>
+<line x1="377.288591068018" y1="199.86963473104734" x2="354.1381779321936" y2="204.9535891666314" stroke="rgb(197, 216, 61)" stroke-width="2"  >
+<title  >
+19 - Eyvind, source: 95, target: 6</title>
+</line>
+<line x1="354.1381779321936" y1="204.9535891666314" x2="-52.2458666910805" y2="-405.82039401084336" stroke="rgb(197, 216, 61)" stroke-width="2"  >
+<title  >
+19 - Eyvind, source: 6, target: 63</title>
+</line>
+<line x1="-52.2458666910805" y1="-405.82039401084336" x2="-21.712020031742203" y2="-408.5932096444575" stroke="rgb(197, 216, 61)" stroke-width="2"  >
+<title  >
+19 - Eyvind, source: 63, target: 64</title>
+</line>
+<line x1="-21.712020031742203" y1="-408.5932096444575" x2="8.248913888660727" y2="-293.4188383295352" stroke="rgb(197, 216, 61)" stroke-width="2"  >
+<title  >
+19 - Eyvind, source: 64, target: 65</title>
+</line>
+<line x1="8.248913888660727" y1="-293.4188383295352" x2="58.27445441535593" y2="-323.91449337041104" stroke="rgb(197, 216, 61)" stroke-width="2"  >
+<title  >
+19 - Eyvind, source: 65, target: 67</title>
+</line>
+<line x1="58.27445441535593" y1="-323.91449337041104" x2="154.11332574678767" y2="-249.82342182882093" stroke="rgb(197, 216, 61)" stroke-width="2"  >
+<title  >
+19 - Eyvind, source: 67, target: 72</title>
+</line>
+<line x1="154.11332574678767" y1="-249.82342182882093" x2="212.68596492913707" y2="-251.159692974369" stroke="rgb(197, 216, 61)" stroke-width="2"  >
+<title  >
+19 - Eyvind, source: 72, target: 74</title>
+</line>
+<line x1="212.68596492913707" y1="-251.159692974369" x2="209.94935897613885" y2="-229.87902955353502" stroke="rgb(197, 216, 61)" stroke-width="2"  >
+<title  >
+19 - Eyvind, source: 74, target: 118</title>
+</line>
+<line x1="345.84787514568313" y1="183.21383183679342" x2="354.1381779321936" y2="204.9535891666314" stroke="rgb(175, 240, 91)" stroke-width="2"  >
+<title  >
+21 - king of Greeks, source: 96, target: 6</title>
+</line>
+<line x1="354.1381779321936" y1="204.9535891666314" x2="425.9524155696988" y2="-29.31026284343079" stroke="rgb(175, 240, 91)" stroke-width="2"  >
+<title  >
+21 - king of Greeks, source: 6, target: 86</title>
+</line>
+<line x1="425.9524155696988" y1="-29.31026284343079" x2="399.3303895965927" y2="-27.478371415716367" stroke="rgb(175, 240, 91)" stroke-width="2"  >
+<title  >
+21 - king of Greeks, source: 86, target: 119</title>
+</line>
+<line x1="240.8423355864946" y1="151.70619699260456" x2="220.3026539504674" y2="150.58402961120396" stroke="rgb(152, 243, 87)" stroke-width="2"  >
+<title  >
+22 - Freyfaxi, source: 97, target: 7</title>
+</line>
+<line x1="220.3026539504674" y1="150.58402961120396" x2="115.24520517296834" y2="240.68101710813792" stroke="rgb(152, 243, 87)" stroke-width="2"  >
+<title  >
+22 - Freyfaxi, source: 7, target: 14</title>
+</line>
+<line x1="115.24520517296834" y1="240.68101710813792" x2="15.32015280687725" y2="212.92940350589683" stroke="rgb(152, 243, 87)" stroke-width="2"  >
+<title  >
+22 - Freyfaxi, source: 14, target: 19</title>
+</line>
+<line x1="15.32015280687725" y1="212.92940350589683" x2="-129.6495448192409" y2="-169.60139588920472" stroke="rgb(152, 243, 87)" stroke-width="2"  >
+<title  >
+22 - Freyfaxi, source: 19, target: 55</title>
+</line>
+<line x1="-129.6495448192409" y1="-169.60139588920472" x2="-102.86805998568319" y2="-187.06095315213432" stroke="rgb(152, 243, 87)" stroke-width="2"  >
+<title  >
+22 - Freyfaxi, source: 55, target: 58</title>
+</line>
+<line x1="-102.86805998568319" y1="-187.06095315213432" x2="-87.80521493235919" y2="-174.88498923709383" stroke="rgb(152, 243, 87)" stroke-width="2"  >
+<title  >
+22 - Freyfaxi, source: 58, target: 120</title>
+</line>
+<line x1="307.4589997999242" y1="227.5159469744563" x2="284.82522820953164" y2="227.76483703493173" stroke="rgb(129, 245, 88)" stroke-width="2"  >
+<title  >
+23 - Thorbjorn, source: 98, target: 8</title>
+</line>
+<line x1="284.82522820953164" y1="227.76483703493173" x2="266.97096771480886" y2="248.452679622457" stroke="rgb(129, 245, 88)" stroke-width="2"  >
+<title  >
+23 - Thorbjorn, source: 8, target: 9</title>
+</line>
+<line x1="266.97096771480886" y1="248.452679622457" x2="-110.962427313537" y2="347.40404623269546" stroke="rgb(129, 245, 88)" stroke-width="2"  >
+<title  >
+23 - Thorbjorn, source: 9, target: 24</title>
+</line>
+<line x1="-110.962427313537" y1="347.40404623269546" x2="-123.3309026618926" y2="305.13275717533213" stroke="rgb(129, 245, 88)" stroke-width="2"  >
+<title  >
+23 - Thorbjorn, source: 24, target: 25</title>
+</line>
+<line x1="-123.3309026618926" y1="305.13275717533213" x2="-161.59819826717415" y2="326.93769120577684" stroke="rgb(129, 245, 88)" stroke-width="2"  >
+<title  >
+23 - Thorbjorn, source: 25, target: 26</title>
+</line>
+<line x1="-161.59819826717415" y1="326.93769120577684" x2="-185.62510542066696" y2="313.9196582753732" stroke="rgb(129, 245, 88)" stroke-width="2"  >
+<title  >
+23 - Thorbjorn, source: 26, target: 27</title>
+</line>
+<line x1="-185.62510542066696" y1="313.9196582753732" x2="-303.6274494111281" y2="202.02129486332277" stroke="rgb(129, 245, 88)" stroke-width="2"  >
+<title  >
+23 - Thorbjorn, source: 27, target: 33</title>
+</line>
+<line x1="-303.6274494111281" y1="202.02129486332277" x2="-126.04005422443645" y2="-342.2223492778663" stroke="rgb(129, 245, 88)" stroke-width="2"  >
+<title  >
+23 - Thorbjorn, source: 33, target: 60</title>
+</line>
+<line x1="-126.04005422443645" y1="-342.2223492778663" x2="-118.64857249511132" y2="-363.61663731260376" stroke="rgb(129, 245, 88)" stroke-width="2"  >
+<title  >
+23 - Thorbjorn, source: 60, target: 121</title>
+</line>
+<line x1="278.85816260923355" y1="206.3516728372976" x2="284.82522820953164" y2="227.76483703493173" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 99, target: 8</title>
+</line>
+<line x1="284.82522820953164" y1="227.76483703493173" x2="266.97096771480886" y2="248.452679622457" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 8, target: 9</title>
+</line>
+<line x1="266.97096771480886" y1="248.452679622457" x2="223.45992771187787" y2="241.62402976488028" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 9, target: 10</title>
+</line>
+<line x1="223.45992771187787" y1="241.62402976488028" x2="204.74018570756772" y2="257.67803051336784" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 10, target: 11</title>
+</line>
+<line x1="204.74018570756772" y1="257.67803051336784" x2="184.870898497597" y2="272.28525839918075" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 11, target: 12</title>
+</line>
+<line x1="184.870898497597" y1="272.28525839918075" x2="146.23782792163053" y2="254.5135692880835" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 12, target: 13</title>
+</line>
+<line x1="146.23782792163053" y1="254.5135692880835" x2="115.24520517296834" y2="240.68101710813792" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 13, target: 14</title>
+</line>
+<line x1="115.24520517296834" y1="240.68101710813792" x2="106.5898553715235" y2="273.49819377625545" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 14, target: 15</title>
+</line>
+<line x1="106.5898553715235" y1="273.49819377625545" x2="-2.749959772241783" y2="293.5218850243497" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 15, target: 20</title>
+</line>
+<line x1="-2.749959772241783" y1="293.5218850243497" x2="-27.717130835117768" y2="327.94553162238145" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 20, target: 21</title>
+</line>
+<line x1="-27.717130835117768" y1="327.94553162238145" x2="-52.195351354369706" y2="324.94946737887005" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 21, target: 22</title>
+</line>
+<line x1="-52.195351354369706" y1="324.94946737887005" x2="-76.3805130600828" y2="320.12892446246707" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 22, target: 23</title>
+</line>
+<line x1="-76.3805130600828" y1="320.12892446246707" x2="-83.54658622994833" y2="299.90510081072057" stroke="rgb(107, 247, 92)" stroke-width="2"  >
+<title  >
+24 - Einar, source: 23, target: 122</title>
+</line>
+<line x1="146.2360507036372" y1="233.7738258221184" x2="146.23782792163053" y2="254.5135692880835" stroke="rgb(86, 246, 101)" stroke-width="2"  >
+<title  >
+25 - shepherds, source: 100, target: 13</title>
+</line>
+<line x1="146.23782792163053" y1="254.5135692880835" x2="106.5898553715235" y2="273.49819377625545" stroke="rgb(86, 246, 101)" stroke-width="2"  >
+<title  >
+25 - shepherds, source: 13, target: 15</title>
+</line>
+<line x1="106.5898553715235" y1="273.49819377625545" x2="102.10271645109854" y2="294.1056559406385" stroke="rgb(86, 246, 101)" stroke-width="2"  >
+<title  >
+25 - shepherds, source: 15, target: 123</title>
+</line>
+<line x1="113.77159833122411" y1="327.7177309052829" x2="96.21291630247565" y2="314.737328242759" stroke="rgb(68, 244, 112)" stroke-width="2"  >
+<title  >
+26 - mealtime servant, source: 101, target: 16</title>
+</line>
+<line x1="96.21291630247565" y1="314.737328242759" x2="72.3757925743578" y2="321.05802544407914" stroke="rgb(68, 244, 112)" stroke-width="2"  >
+<title  >
+26 - mealtime servant, source: 16, target: 17</title>
+</line>
+<line x1="72.3757925743578" y1="321.05802544407914" x2="48.13230384724281" y2="325.5760930706893" stroke="rgb(68, 244, 112)" stroke-width="2"  >
+<title  >
+26 - mealtime servant, source: 17, target: 18</title>
+</line>
+<line x1="48.13230384724281" y1="325.5760930706893" x2="37.84121664745036" y2="344.8346416170938" stroke="rgb(68, 244, 112)" stroke-width="2"  >
+<title  >
+26 - mealtime servant, source: 18, target: 124</title>
+</line>
+<line x1="-176.2332716375179" y1="200.3762542805513" x2="-195.85785369378763" y2="206.54176808379344" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 102, target: 30</title>
+</line>
+<line x1="-195.85785369378763" y1="206.54176808379344" x2="-184.42683926983142" y2="167.38436592835794" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 30, target: 31</title>
+</line>
+<line x1="-184.42683926983142" y1="167.38436592835794" x2="-224.50578714759533" y2="174.9770052148432" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 31, target: 32</title>
+</line>
+<line x1="-224.50578714759533" y1="174.9770052148432" x2="-248.11870915892982" y2="139.488017342075" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 32, target: 34</title>
+</line>
+<line x1="-248.11870915892982" y1="139.488017342075" x2="-257.8667962409246" y2="120.51770082920633" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 34, target: 35</title>
+</line>
+<line x1="-257.8667962409246" y1="120.51770082920633" x2="-324.4462185991966" y2="-55.237326958314874" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 35, target: 45</title>
+</line>
+<line x1="-324.4462185991966" y1="-55.237326958314874" x2="-319.39931024810807" y2="-79.37626638895439" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 45, target: 46</title>
+</line>
+<line x1="-319.39931024810807" y1="-79.37626638895439" x2="-312.5590854334337" y2="-103.06953558560794" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 46, target: 47</title>
+</line>
+<line x1="-312.5590854334337" y1="-103.06953558560794" x2="-246.43498658373198" y2="-175.30988820720393" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 47, target: 51</title>
+</line>
+<line x1="-246.43498658373198" y1="-175.30988820720393" x2="-201.14549414388594" y2="-225.84120461368082" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 51, target: 54</title>
+</line>
+<line x1="-201.14549414388594" y1="-225.84120461368082" x2="-102.86805998568319" y2="-187.06095315213432" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 54, target: 58</title>
+</line>
+<line x1="-102.86805998568319" y1="-187.06095315213432" x2="-103.33452941110463" y2="-226.61147374235978" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 58, target: 59</title>
+</line>
+<line x1="-103.33452941110463" y1="-226.61147374235978" x2="209.90386479509624" y2="-134.05652742175826" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 59, target: 78</title>
+</line>
+<line x1="209.90386479509624" y1="-134.05652742175826" x2="234.50896568010253" y2="-83.88283504953301" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 78, target: 81</title>
+</line>
+<line x1="234.50896568010253" y1="-83.88283504953301" x2="220.52367449437907" y2="-69.6780946238323" stroke="rgb(32, 226, 157)" stroke-width="2"  >
+<title  >
+29 - Thorkel, source: 81, target: 125</title>
+</line>
+<line x1="-281.4139657978477" y1="202.8523295170076" x2="-303.6274494111281" y2="202.02129486332277" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 103, target: 33</title>
+</line>
+<line x1="-303.6274494111281" y1="202.02129486332277" x2="-248.11870915892982" y2="139.488017342075" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 33, target: 34</title>
+</line>
+<line x1="-248.11870915892982" y1="139.488017342075" x2="-257.8667962409246" y2="120.51770082920633" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 34, target: 35</title>
+</line>
+<line x1="-257.8667962409246" y1="120.51770082920633" x2="-249.53160994320635" y2="94.56629923349469" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 35, target: 36</title>
+</line>
+<line x1="-249.53160994320635" y1="94.56629923349469" x2="-272.97286920197587" y2="80.65738339642317" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 36, target: 38</title>
+</line>
+<line x1="-272.97286920197587" y1="80.65738339642317" x2="-284.08477991321445" y2="17.766221837440117" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 38, target: 42</title>
+</line>
+<line x1="-284.08477991321445" y1="17.766221837440117" x2="-284.58980955205755" y2="-5.333021267560086" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 42, target: 43</title>
+</line>
+<line x1="-284.58980955205755" y1="-5.333021267560086" x2="-262.8877402357191" y2="-109.13219896288047" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 43, target: 48</title>
+</line>
+<line x1="-262.8877402357191" y1="-109.13219896288047" x2="-293.66216159990665" y2="-148.590194485665" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 48, target: 49</title>
+</line>
+<line x1="-293.66216159990665" y1="-148.590194485665" x2="-243.64243222580944" y2="-147.16713639875064" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 49, target: 50</title>
+</line>
+<line x1="-243.64243222580944" y1="-147.16713639875064" x2="-129.6495448192409" y2="-169.60139588920472" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 50, target: 55</title>
+</line>
+<line x1="-129.6495448192409" y1="-169.60139588920472" x2="-140.87486802356682" y2="-216.0901381739587" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 55, target: 57</title>
+</line>
+<line x1="-140.87486802356682" y1="-216.0901381739587" x2="-150.59037616312315" y2="-230.9929063238869" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 57, target: 56</title>
+</line>
+<line x1="-150.59037616312315" y1="-230.9929063238869" x2="220.62773057362725" y2="-165.40431876718893" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 56, target: 77</title>
+</line>
+<line x1="220.62773057362725" y1="-165.40431876718893" x2="266.3566462945624" y2="-143.24069425432106" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 77, target: 79</title>
+</line>
+<line x1="266.3566462945624" y1="-143.24069425432106" x2="276.3345279117053" y2="-122.89421548454372" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 79, target: 80</title>
+</line>
+<line x1="276.3345279117053" y1="-122.89421548454372" x2="291.5884121650563" y2="-80.24934521108409" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 80, target: 82</title>
+</line>
+<line x1="291.5884121650563" y1="-80.24934521108409" x2="425.9524155696988" y2="-29.31026284343079" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 82, target: 86</title>
+</line>
+<line x1="425.9524155696988" y1="-29.31026284343079" x2="452.57444154280495" y2="-31.142154271145216" stroke="rgb(25, 205, 187)" stroke-width="2"  >
+<title  >
+31 - Thorgeir, source: 86, target: 126</title>
+</line>
+<line x1="-2.916624000862504" y1="-311.3110901773406" x2="8.248913888660727" y2="-293.4188383295352" stroke="rgb(47, 150, 224)" stroke-width="2"  >
+<title  >
+35 - Eyvind's servant boy, source: 104, target: 65</title>
+</line>
+<line x1="8.248913888660727" y1="-293.4188383295352" x2="154.11332574678767" y2="-249.82342182882093" stroke="rgb(47, 150, 224)" stroke-width="2"  >
+<title  >
+35 - Eyvind's servant boy, source: 65, target: 72</title>
+</line>
+<line x1="154.11332574678767" y1="-249.82342182882093" x2="240.29710485370487" y2="-331.1753677137627" stroke="rgb(47, 150, 224)" stroke-width="2"  >
+<title  >
+35 - Eyvind's servant boy, source: 72, target: 73</title>
+</line>
+<line x1="240.29710485370487" y1="-331.1753677137627" x2="252.53604688227205" y2="-321.940006533039" stroke="rgb(47, 150, 224)" stroke-width="2"  >
+<title  >
+35 - Eyvind's servant boy, source: 73, target: 127</title>
+</line>
+<line x1="24.482442453887177" y1="-372.786636378189" x2="33.856665048981874" y2="-327.3686565396548" stroke="rgb(57, 136, 225)" stroke-width="2"  >
+<title  >
+36 - Servant woman, source: 105, target: 66</title>
+</line>
+<line x1="33.856665048981874" y1="-327.3686565396548" x2="52.32737327695294" y2="-369.90689674106704" stroke="rgb(57, 136, 225)" stroke-width="2"  >
+<title  >
+36 - Servant woman, source: 66, target: 128</title>
+</line>
+<line x1="66.56542002427251" y1="-304.12521503479263" x2="82.36505291075301" y2="-318.64166254874186" stroke="rgb(68, 121, 223)" stroke-width="2"  >
+<title  >
+37 - Sighvat, source: 106, target: 68</title>
+</line>
+<line x1="82.36505291075301" y1="-318.64166254874186" x2="99.33963432433599" y2="-332.3770822256794" stroke="rgb(68, 121, 223)" stroke-width="2"  >
+<title  >
+37 - Sighvat, source: 68, target: 129</title>
+</line>
+<line x1="89.15095388081434" y1="-298.28712507432766" x2="105.99320017138022" y2="-311.57976919281384" stroke="rgb(78, 108, 218)" stroke-width="2"  >
+<title  >
+38 - Snorri, source: 107, target: 69</title>
+</line>
+<line x1="105.99320017138022" y1="-311.57976919281384" x2="123.94861442203532" y2="-324.00559982723513" stroke="rgb(78, 108, 218)" stroke-width="2"  >
+<title  >
+38 - Snorri, source: 69, target: 130</title>
+</line>
+<line x1="111.23593601977528" y1="-290.774256255211" x2="129.02623233689994" y2="-302.7684633870604" stroke="rgb(104, 73, 185)" stroke-width="2"  >
+<title  >
+41 - Thord, source: 108, target: 70</title>
+</line>
+<line x1="129.02623233689994" y1="-302.7684633870604" x2="147.86166599468893" y2="-313.81493824517634" stroke="rgb(104, 73, 185)" stroke-width="2"  >
+<title  >
+41 - Thord, source: 70, target: 131</title>
+</line>
+<line x1="132.6963669183106" y1="-281.6287907328506" x2="151.33482691204273" y2="-292.2572175606952" stroke="rgb(110, 64, 170)" stroke-width="2"  >
+<title  >
+42 - Halli, source: 109, target: 71</title>
+</line>
+<line x1="151.33482691204273" y1="-292.2572175606952" x2="170.94452554295873" y2="-301.8623145134906" stroke="rgb(110, 64, 170)" stroke-width="2"  >
+<title  >
+42 - Halli, source: 71, target: 132</title>
+</line>
+</g>
+</svg>

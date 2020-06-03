@@ -3,7 +3,7 @@ import numpy as np
 from sklearn.preprocessing import minmax_scale
 import matplotlib.pyplot as plt
 import pysvg
-from svg.path import parse_path, Path, Move, Line
+from svg.path import parse_path
 
 
 def tf(x, y, y_scale=(0.2, 1)):
@@ -119,6 +119,6 @@ def read_svg(path, num_samples=1000):
     while type(path) != pysvg.shape.Path:
         path = path.getAllElements()[0]
 
-    # svg.path
+    # parse_path from svg.path
     path_data = parse_path(path.getAttribute('d'))
     return np.array([path_data.point(i) for i in np.linspace(0, 1, num_samples)])

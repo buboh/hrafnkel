@@ -45,15 +45,15 @@ def tf_spiral(x, y, turns=1, x_scale=(0, 1), y_scale=(0.2, 1)):
     return nx, ny
 
 
-def tf_spiral_single(x, y, turns=1, xmax=1):
+def tf_spiral_single(x, y, turns=1, xmax=1, turn_dir=-1, angle_offset=0):
 
     MULTIPI = 2 * turns * np.pi
 
     l = xmax  # x.max()
     r = l / MULTIPI
 
-    nx = r * math.cos(MULTIPI * x / l) * y
-    ny = r * math.sin(MULTIPI * x / l) * y
+    nx = r * math.cos((MULTIPI * x / l) + angle_offset) * y
+    ny = r * math.sin((MULTIPI * x / l) + angle_offset) * y * turn_dir
 
     # x = t .. time
     # t = x

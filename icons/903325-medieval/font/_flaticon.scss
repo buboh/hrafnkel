@@ -1,0 +1,139 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 18/06/2018 08:08
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-001-tent:before { content: "\f100"; }
+.flaticon-002-sack:before { content: "\f101"; }
+.flaticon-003-crossbow:before { content: "\f102"; }
+.flaticon-004-book:before { content: "\f103"; }
+.flaticon-005-ship:before { content: "\f104"; }
+.flaticon-006-christian:before { content: "\f105"; }
+.flaticon-007-armour-1:before { content: "\f106"; }
+.flaticon-008-armour:before { content: "\f107"; }
+.flaticon-009-potion:before { content: "\f108"; }
+.flaticon-010-throne:before { content: "\f109"; }
+.flaticon-011-excalibur:before { content: "\f10a"; }
+.flaticon-012-church:before { content: "\f10b"; }
+.flaticon-013-target:before { content: "\f10c"; }
+.flaticon-014-inkwell:before { content: "\f10d"; }
+.flaticon-015-anvil:before { content: "\f10e"; }
+.flaticon-016-trumpet:before { content: "\f10f"; }
+.flaticon-017-cauldron:before { content: "\f110"; }
+.flaticon-018-punishment:before { content: "\f111"; }
+.flaticon-019-hat:before { content: "\f112"; }
+.flaticon-020-weapons:before { content: "\f113"; }
+.flaticon-021-leather:before { content: "\f114"; }
+.flaticon-022-arrow:before { content: "\f115"; }
+.flaticon-023-keys:before { content: "\f116"; }
+.flaticon-024-beer:before { content: "\f117"; }
+.flaticon-025-catapult:before { content: "\f118"; }
+.flaticon-026-cannon:before { content: "\f119"; }
+.flaticon-027-gallow:before { content: "\f11a"; }
+.flaticon-028-warrior-1:before { content: "\f11b"; }
+.flaticon-029-warrior:before { content: "\f11c"; }
+.flaticon-030-helmet-1:before { content: "\f11d"; }
+.flaticon-031-helmet:before { content: "\f11e"; }
+.flaticon-032-viking-helmet:before { content: "\f11f"; }
+.flaticon-033-crown-1:before { content: "\f120"; }
+.flaticon-034-crown:before { content: "\f121"; }
+.flaticon-035-handcuffs:before { content: "\f122"; }
+.flaticon-036-ax-1:before { content: "\f123"; }
+.flaticon-037-ax:before { content: "\f124"; }
+.flaticon-038-shield-1:before { content: "\f125"; }
+.flaticon-039-shield:before { content: "\f126"; }
+.flaticon-040-arch:before { content: "\f127"; }
+.flaticon-041-cup:before { content: "\f128"; }
+.flaticon-042-chicken:before { content: "\f129"; }
+.flaticon-043-spear:before { content: "\f12a"; }
+.flaticon-044-carriage:before { content: "\f12b"; }
+.flaticon-045-torch:before { content: "\f12c"; }
+.flaticon-046-guillotine:before { content: "\f12d"; }
+.flaticon-047-papyrus:before { content: "\f12e"; }
+.flaticon-048-banner:before { content: "\f12f"; }
+.flaticon-049-sword:before { content: "\f130"; }
+.flaticon-050-castle:before { content: "\f131"; }
+    
+    $font-Flaticon-001-tent: "\f100";
+    $font-Flaticon-002-sack: "\f101";
+    $font-Flaticon-003-crossbow: "\f102";
+    $font-Flaticon-004-book: "\f103";
+    $font-Flaticon-005-ship: "\f104";
+    $font-Flaticon-006-christian: "\f105";
+    $font-Flaticon-007-armour-1: "\f106";
+    $font-Flaticon-008-armour: "\f107";
+    $font-Flaticon-009-potion: "\f108";
+    $font-Flaticon-010-throne: "\f109";
+    $font-Flaticon-011-excalibur: "\f10a";
+    $font-Flaticon-012-church: "\f10b";
+    $font-Flaticon-013-target: "\f10c";
+    $font-Flaticon-014-inkwell: "\f10d";
+    $font-Flaticon-015-anvil: "\f10e";
+    $font-Flaticon-016-trumpet: "\f10f";
+    $font-Flaticon-017-cauldron: "\f110";
+    $font-Flaticon-018-punishment: "\f111";
+    $font-Flaticon-019-hat: "\f112";
+    $font-Flaticon-020-weapons: "\f113";
+    $font-Flaticon-021-leather: "\f114";
+    $font-Flaticon-022-arrow: "\f115";
+    $font-Flaticon-023-keys: "\f116";
+    $font-Flaticon-024-beer: "\f117";
+    $font-Flaticon-025-catapult: "\f118";
+    $font-Flaticon-026-cannon: "\f119";
+    $font-Flaticon-027-gallow: "\f11a";
+    $font-Flaticon-028-warrior-1: "\f11b";
+    $font-Flaticon-029-warrior: "\f11c";
+    $font-Flaticon-030-helmet-1: "\f11d";
+    $font-Flaticon-031-helmet: "\f11e";
+    $font-Flaticon-032-viking-helmet: "\f11f";
+    $font-Flaticon-033-crown-1: "\f120";
+    $font-Flaticon-034-crown: "\f121";
+    $font-Flaticon-035-handcuffs: "\f122";
+    $font-Flaticon-036-ax-1: "\f123";
+    $font-Flaticon-037-ax: "\f124";
+    $font-Flaticon-038-shield-1: "\f125";
+    $font-Flaticon-039-shield: "\f126";
+    $font-Flaticon-040-arch: "\f127";
+    $font-Flaticon-041-cup: "\f128";
+    $font-Flaticon-042-chicken: "\f129";
+    $font-Flaticon-043-spear: "\f12a";
+    $font-Flaticon-044-carriage: "\f12b";
+    $font-Flaticon-045-torch: "\f12c";
+    $font-Flaticon-046-guillotine: "\f12d";
+    $font-Flaticon-047-papyrus: "\f12e";
+    $font-Flaticon-048-banner: "\f12f";
+    $font-Flaticon-049-sword: "\f130";
+    $font-Flaticon-050-castle: "\f131";

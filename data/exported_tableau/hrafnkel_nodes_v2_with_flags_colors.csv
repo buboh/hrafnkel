@@ -1,0 +1,44 @@
+Number of Records	chapter	color_hex	color_name	colour_class	gender	id	is_never	is_one_time	label	page	weight_in	weight_out
+1	1	#4B0082	indigo	0	1	1		1	King Harald Fair-Hair	438	1	0
+1	1	#800080	purple	0	1	2			Halfdan the Black	438	1	1
+1	1	#8B008B	darkmagenta	0	1	3			Gudrod the Hunting King	438	1	1
+1	1	#9370DB	mediumpurple	0	1	4			Halfdan the Mild and Meal-stingy	438	1	1
+1	1	#8A2BE2	blueviolet	0	1	5			Eystein Fart	438	1	1
+1	1	#9932CC	darkorchid	0	1	6		1	Olaf Wood-carver	438	0	1
+1	1	#191970	midnightblue	1	1	7			Hallfred	438	1	6
+1	1	#0000CD	mediumblue	1	0	8			Wife of Hallfred	438	1	1
+1	1	#0000FF	blue	1	1	9			Hrafnkel	438	26	23
+1	1	#CD853F	peru	6	0	10			Arnthrud	438	2	0
+1	1	#CD853F	peru	6	1	11		1	man	438	1	0
+1	2	#4169E1	royalblue	1	0	12			Oddbjorg Skjoldalfsdottir	439	1	2
+1	2	#6495ED	cornflowerblue	1	1	13			Thorir	439	2	1
+1	2	#00BFFF	deepskyblue	1	1	14			Asbjorn	439	2	1
+1	2	#FFD700	gold	7	2	15			Frey	439	0	2
+1	3	#800000	maroon	2	1	16			Bjarni	439	0	3
+1		#B22222	firebrick	2	0	17			Bjarni's wife		1	2
+1	3	#DC143C	crimson	2	1	18			Sam	439	22	16
+1		#FA8072	salmon	2	1	19			Eyvind		4	5
+1	3	#E9967A	darksalmon	2	0	20		1	Sam's wife	439	1	0
+1		#CD853F	peru	6	1	21			king of Greeks		0	5
+1		#FFD700	gold	7	2	22			Freyfaxi		0	3
+1	4	#CD5C5C	indianred	2	1	23			Thorbjorn	440	5	4
+1	4	#8B0000	darkred	2	1	24			Einar	440	7	6
+1		#CD853F	peru	6	1	25			shepherds		0	2
+1		#CD853F	peru	6	1	26			mealtime servant		1	2
+1		#CD853F	peru	6	0	27	1		milking women		0	0
+1		#CD853F	peru	6	1	28	1		new shepherd		0	0
+1	8	#228B22	forestgreen	3	1	29			Thorkel	446	10	4
+1		#006400	darkgreen	3	1	30			Thjostar		0	3
+1	8	#6B8E23	olivedrab	3	1	31			Thorgeir	447	12	7
+1	8	#00FF00	lime	3	1	32			Thormod	447	2	0
+1	8	#3CB371	mediumseagreen	3	1	33			Thordis	447	1	1
+1	8	#32CD32	limegreen	3	1	34		1	Thorolf Skallagrimson	447	0	1
+1	14	#FF4500	orangered	2	1	35			Eyvind's servant boy	456	2	1
+1	14	#CD853F	peru	6	0	36			Servant woman	457	1	0
+1	14	#A9A9A9	darkgray	4	1	37		1	Sighvat	457	0	1
+1	14	#808080	gray	4	1	38		1	Snorri	457	0	1
+1		#696969	dimgray	4	1	39	1		Hallstein		0	0
+1		#DCDCDC	gainsboro	5	1	40	1		Hrolf		0	0
+1	14	#D3D3D3	lightgray	5	1	41		1	Thord	457	0	1
+1	14	#C0C0C0	silver	5	1	42		1	Halli	457	0	1
+1		#CD853F	peru	6	0	43	1		Housekeeper		0	0

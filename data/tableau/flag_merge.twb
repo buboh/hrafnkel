@@ -15,23 +15,23 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='hrafnkel_edges' name='textscan.0q40oii0d9fuhc1ehjnu603mtded'>
-            <connection class='textscan' directory='/Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/data' filename='hrafnkel_edges.csv' password='' server='' />
+            <connection class='textscan' directory='/Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/data/exported_tableau' filename='hrafnkel_edges_v2.csv' password='' server='' />
           </named-connection>
           <named-connection caption='hrafnkel_nodes' name='textscan.0mpmmkc1ykta4d1da5de90spljmc'>
-            <connection class='textscan' directory='/Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/data' filename='hrafnkel_nodes.csv' password='' server='' />
+            <connection class='textscan' directory='/Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/data/exported_tableau' filename='hrafnkel_nodes_v2.csv' password='' server='' />
           </named-connection>
           <named-connection caption='hrafnkel_saga_network_added_flags' name='excel-direct.1eq4oiw0nrx27w1e467vs0fc1dvv'>
-            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='/Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/data/hrafnkel_saga_network_added_flags.xlsx' interpretationMode='0' password='' server='' validate='no' />
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='/Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/data/manual/hrafnkel_saga_network_with_flags_colors.xlsx' interpretationMode='0' password='' server='' validate='no' />
           </named-connection>
         </named-connections>
         <relation join='inner' type='join'>
           <clause type='join'>
             <expression op='='>
-              <expression op='[hrafnkel_nodes.csv].[id]' />
+              <expression op='[hrafnkel_nodes_v2.csv].[id]' />
               <expression op='[hrafnkel_nodes].[id]' />
             </expression>
           </clause>
-          <relation connection='textscan.0mpmmkc1ykta4d1da5de90spljmc' name='hrafnkel_nodes.csv' table='[hrafnkel_nodes#csv]' type='table'>
+          <relation connection='textscan.0mpmmkc1ykta4d1da5de90spljmc' name='hrafnkel_nodes_v2.csv' table='[hrafnkel_nodes_v2#csv]' type='table'>
             <columns character-set='UTF-8' header='yes' locale='de_AT' separator='&#9;'>
               <column datatype='integer' name='Number of Records' ordinal='0' />
               <column datatype='integer' name='chapter' ordinal='1' />
@@ -43,42 +43,48 @@
             </columns>
           </relation>
           <relation connection='excel-direct.1eq4oiw0nrx27w1e467vs0fc1dvv' name='hrafnkel_nodes' table='[hrafnkel_nodes$]' type='table'>
-            <columns gridOrigin='A1:I44:no:A1:I44:0' header='yes' outcome='6'>
+            <columns gridOrigin='A1:L44:no:A1:L44:0' header='yes' outcome='2'>
               <column datatype='integer' name='id' ordinal='0' />
               <column datatype='string' name='label' ordinal='1' />
               <column datatype='integer' name='gender' ordinal='2' />
               <column datatype='integer' name='chapter' ordinal='3' />
               <column datatype='integer' name='page' ordinal='4' />
-              <column datatype='integer' name='weight in' ordinal='5' />
-              <column datatype='integer' name='weight out' ordinal='6' />
-              <column datatype='integer' name='is one time' ordinal='7' />
-              <column datatype='integer' name='never' ordinal='8' />
+              <column datatype='integer' name='weight_in' ordinal='5' />
+              <column datatype='integer' name='weight_out' ordinal='6' />
+              <column datatype='integer' name='is_one_time' ordinal='7' />
+              <column datatype='integer' name='is_never' ordinal='8' />
+              <column datatype='string' name='color_name' ordinal='9' />
+              <column datatype='string' name='color_hex' ordinal='10' />
+              <column datatype='integer' name='colour_class' ordinal='11' />
             </columns>
           </relation>
         </relation>
         <cols>
-          <map key='[Number of Records]' value='[hrafnkel_nodes.csv].[Number of Records]' />
+          <map key='[Number of Records]' value='[hrafnkel_nodes_v2.csv].[Number of Records]' />
           <map key='[chapter (hrafnkel!nodes)]' value='[hrafnkel_nodes].[chapter]' />
-          <map key='[chapter]' value='[hrafnkel_nodes.csv].[chapter]' />
+          <map key='[chapter]' value='[hrafnkel_nodes_v2.csv].[chapter]' />
+          <map key='[color_hex]' value='[hrafnkel_nodes].[color_hex]' />
+          <map key='[color_name]' value='[hrafnkel_nodes].[color_name]' />
+          <map key='[colour_class]' value='[hrafnkel_nodes].[colour_class]' />
           <map key='[gender (hrafnkel!nodes)]' value='[hrafnkel_nodes].[gender]' />
-          <map key='[gender description]' value='[hrafnkel_nodes.csv].[gender description]' />
-          <map key='[gender]' value='[hrafnkel_nodes.csv].[gender]' />
+          <map key='[gender description]' value='[hrafnkel_nodes_v2.csv].[gender description]' />
+          <map key='[gender]' value='[hrafnkel_nodes_v2.csv].[gender]' />
           <map key='[id (hrafnkel!nodes)]' value='[hrafnkel_nodes].[id]' />
-          <map key='[id]' value='[hrafnkel_nodes.csv].[id]' />
-          <map key='[is one time]' value='[hrafnkel_nodes].[is one time]' />
+          <map key='[id]' value='[hrafnkel_nodes_v2.csv].[id]' />
+          <map key='[is_never]' value='[hrafnkel_nodes].[is_never]' />
+          <map key='[is_one_time]' value='[hrafnkel_nodes].[is_one_time]' />
           <map key='[label (hrafnkel!nodes)]' value='[hrafnkel_nodes].[label]' />
-          <map key='[label]' value='[hrafnkel_nodes.csv].[label]' />
-          <map key='[never]' value='[hrafnkel_nodes].[never]' />
+          <map key='[label]' value='[hrafnkel_nodes_v2.csv].[label]' />
           <map key='[page (hrafnkel!nodes)]' value='[hrafnkel_nodes].[page]' />
-          <map key='[page]' value='[hrafnkel_nodes.csv].[page]' />
-          <map key='[weight in]' value='[hrafnkel_nodes].[weight in]' />
-          <map key='[weight out]' value='[hrafnkel_nodes].[weight out]' />
+          <map key='[page]' value='[hrafnkel_nodes_v2.csv].[page]' />
+          <map key='[weight_in]' value='[hrafnkel_nodes].[weight_in]' />
+          <map key='[weight_out]' value='[hrafnkel_nodes].[weight_out]' />
         </cols>
         <metadata-records>
           <metadata-record class='capability'>
             <remote-name />
             <remote-type>0</remote-type>
-            <parent-name>[hrafnkel_nodes.csv]</parent-name>
+            <parent-name>[hrafnkel_nodes_v2.csv]</parent-name>
             <remote-alias />
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
@@ -100,7 +106,7 @@
             <remote-name>Number of Records</remote-name>
             <remote-type>20</remote-type>
             <local-name>[Number of Records]</local-name>
-            <parent-name>[hrafnkel_nodes.csv]</parent-name>
+            <parent-name>[hrafnkel_nodes_v2.csv]</parent-name>
             <remote-alias>Number of Records</remote-alias>
             <ordinal>0</ordinal>
             <local-type>integer</local-type>
@@ -111,7 +117,7 @@
             <remote-name>chapter</remote-name>
             <remote-type>20</remote-type>
             <local-name>[chapter]</local-name>
-            <parent-name>[hrafnkel_nodes.csv]</parent-name>
+            <parent-name>[hrafnkel_nodes_v2.csv]</parent-name>
             <remote-alias>chapter</remote-alias>
             <ordinal>1</ordinal>
             <local-type>integer</local-type>
@@ -122,7 +128,7 @@
             <remote-name>gender description</remote-name>
             <remote-type>129</remote-type>
             <local-name>[gender description]</local-name>
-            <parent-name>[hrafnkel_nodes.csv]</parent-name>
+            <parent-name>[hrafnkel_nodes_v2.csv]</parent-name>
             <remote-alias>gender description</remote-alias>
             <ordinal>2</ordinal>
             <local-type>string</local-type>
@@ -136,7 +142,7 @@
             <remote-name>gender</remote-name>
             <remote-type>20</remote-type>
             <local-name>[gender]</local-name>
-            <parent-name>[hrafnkel_nodes.csv]</parent-name>
+            <parent-name>[hrafnkel_nodes_v2.csv]</parent-name>
             <remote-alias>gender</remote-alias>
             <ordinal>3</ordinal>
             <local-type>integer</local-type>
@@ -147,7 +153,7 @@
             <remote-name>id</remote-name>
             <remote-type>20</remote-type>
             <local-name>[id]</local-name>
-            <parent-name>[hrafnkel_nodes.csv]</parent-name>
+            <parent-name>[hrafnkel_nodes_v2.csv]</parent-name>
             <remote-alias>id</remote-alias>
             <ordinal>4</ordinal>
             <local-type>integer</local-type>
@@ -158,7 +164,7 @@
             <remote-name>label</remote-name>
             <remote-type>129</remote-type>
             <local-name>[label]</local-name>
-            <parent-name>[hrafnkel_nodes.csv]</parent-name>
+            <parent-name>[hrafnkel_nodes_v2.csv]</parent-name>
             <remote-alias>label</remote-alias>
             <ordinal>5</ordinal>
             <local-type>string</local-type>
@@ -172,7 +178,7 @@
             <remote-name>page</remote-name>
             <remote-type>20</remote-type>
             <local-name>[page]</local-name>
-            <parent-name>[hrafnkel_nodes.csv]</parent-name>
+            <parent-name>[hrafnkel_nodes_v2.csv]</parent-name>
             <remote-alias>page</remote-alias>
             <ordinal>6</ordinal>
             <local-type>integer</local-type>
@@ -251,11 +257,11 @@
             </attributes>
           </metadata-record>
           <metadata-record class='column'>
-            <remote-name>weight in</remote-name>
+            <remote-name>weight_in</remote-name>
             <remote-type>20</remote-type>
-            <local-name>[weight in]</local-name>
+            <local-name>[weight_in]</local-name>
             <parent-name>[hrafnkel_nodes]</parent-name>
-            <remote-alias>weight in</remote-alias>
+            <remote-alias>weight_in</remote-alias>
             <ordinal>12</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
@@ -265,11 +271,11 @@
             </attributes>
           </metadata-record>
           <metadata-record class='column'>
-            <remote-name>weight out</remote-name>
+            <remote-name>weight_out</remote-name>
             <remote-type>20</remote-type>
-            <local-name>[weight out]</local-name>
+            <local-name>[weight_out]</local-name>
             <parent-name>[hrafnkel_nodes]</parent-name>
-            <remote-alias>weight out</remote-alias>
+            <remote-alias>weight_out</remote-alias>
             <ordinal>13</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
@@ -279,11 +285,11 @@
             </attributes>
           </metadata-record>
           <metadata-record class='column'>
-            <remote-name>is one time</remote-name>
+            <remote-name>is_one_time</remote-name>
             <remote-type>20</remote-type>
-            <local-name>[is one time]</local-name>
+            <local-name>[is_one_time]</local-name>
             <parent-name>[hrafnkel_nodes]</parent-name>
-            <remote-alias>is one time</remote-alias>
+            <remote-alias>is_one_time</remote-alias>
             <ordinal>14</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
@@ -293,12 +299,56 @@
             </attributes>
           </metadata-record>
           <metadata-record class='column'>
-            <remote-name>never</remote-name>
+            <remote-name>is_never</remote-name>
             <remote-type>20</remote-type>
-            <local-name>[never]</local-name>
+            <local-name>[is_never]</local-name>
             <parent-name>[hrafnkel_nodes]</parent-name>
-            <remote-alias>never</remote-alias>
+            <remote-alias>is_never</remote-alias>
             <ordinal>15</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>color_name</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[color_name]</local-name>
+            <parent-name>[hrafnkel_nodes]</parent-name>
+            <remote-alias>color_name</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LDE_RAT_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>color_hex</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[color_hex]</local-name>
+            <parent-name>[hrafnkel_nodes]</parent-name>
+            <remote-alias>color_hex</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LDE_RAT_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>colour_class</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[colour_class]</local-name>
+            <parent-name>[hrafnkel_nodes]</parent-name>
+            <remote-alias>colour_class</remote-alias>
+            <ordinal>18</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
             <contains-null>true</contains-null>
@@ -315,9 +365,9 @@
             <contains-null>true</contains-null>
             <attributes>
               <attribute datatype='integer' name='context'>0</attribute>
-              <attribute datatype='string' name='gridOrigin'>&quot;A1:I44:no:A1:I44:0&quot;</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:L44:no:A1:L44:0&quot;</attribute>
               <attribute datatype='boolean' name='header'>true</attribute>
-              <attribute datatype='integer' name='outcome'>6</attribute>
+              <attribute datatype='integer' name='outcome'>2</attribute>
             </attributes>
           </metadata-record>
         </metadata-records>
@@ -325,14 +375,12 @@
       <aliases enabled='yes' />
       <column datatype='integer' hidden='true' name='[chapter (hrafnkel!nodes)]' role='measure' type='quantitative' />
       <column datatype='integer' hidden='true' name='[gender (hrafnkel!nodes)]' role='measure' type='quantitative' />
+      <column datatype='string' hidden='true' name='[gender description]' role='dimension' type='nominal' />
       <column datatype='integer' hidden='true' name='[id (hrafnkel!nodes)]' role='dimension' type='ordinal' />
       <column datatype='integer' name='[id]' role='dimension' type='ordinal' />
-      <column caption='is_one_time' datatype='integer' name='[is one time]' role='measure' type='quantitative' />
       <column datatype='string' hidden='true' name='[label (hrafnkel!nodes)]' role='dimension' type='nominal' />
       <column datatype='integer' hidden='true' name='[page (hrafnkel!nodes)]' role='measure' type='quantitative' />
-      <column caption='weight_in' datatype='integer' name='[weight in]' role='measure' type='quantitative' />
-      <column caption='weight_out' datatype='integer' name='[weight out]' role='measure' type='quantitative' />
-      <layout dim-ordering='alphabetic' dim-percentage='0.429051' measure-ordering='alphabetic' measure-percentage='0.570949' show-structure='true' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.460674' measure-ordering='alphabetic' measure-percentage='0.539326' show-structure='true' />
       <semantic-values>
         <semantic-value key='[Country].[Name]' value='&quot;Austria&quot;' />
       </semantic-values>

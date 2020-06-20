@@ -1,0 +1,135 @@
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+.fimanager:before {
+    display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.flaticon-001-superhero:before { content: "\f100"; }
+.flaticon-002-grim-reaper:before { content: "\f101"; }
+.flaticon-003-knight:before { content: "\f102"; }
+.flaticon-004-unicorn:before { content: "\f103"; }
+.flaticon-005-wizard:before { content: "\f104"; }
+.flaticon-006-ghost:before { content: "\f105"; }
+.flaticon-007-dragon:before { content: "\f106"; }
+.flaticon-008-mermaid:before { content: "\f107"; }
+.flaticon-009-zombie:before { content: "\f108"; }
+.flaticon-010-fairy:before { content: "\f109"; }
+.flaticon-011-cthulhu:before { content: "\f10a"; }
+.flaticon-012-dead:before { content: "\f10b"; }
+.flaticon-013-elf:before { content: "\f10c"; }
+.flaticon-014-invisible-man:before { content: "\f10d"; }
+.flaticon-015-yuki-onna:before { content: "\f10e"; }
+.flaticon-016-frankenstein:before { content: "\f10f"; }
+.flaticon-017-demon:before { content: "\f110"; }
+.flaticon-018-ogre:before { content: "\f111"; }
+.flaticon-019-dracula:before { content: "\f112"; }
+.flaticon-020-gnome:before { content: "\f113"; }
+.flaticon-021-robot:before { content: "\f114"; }
+.flaticon-022-pirate:before { content: "\f115"; }
+.flaticon-023-alien:before { content: "\f116"; }
+.flaticon-024-frog-prince:before { content: "\f117"; }
+.flaticon-025-witch:before { content: "\f118"; }
+.flaticon-026-princess:before { content: "\f119"; }
+.flaticon-027-spartan:before { content: "\f11a"; }
+.flaticon-028-ninja:before { content: "\f11b"; }
+.flaticon-029-genie:before { content: "\f11c"; }
+.flaticon-030-king:before { content: "\f11d"; }
+.flaticon-031-cowboy:before { content: "\f11e"; }
+.flaticon-032-medusa:before { content: "\f11f"; }
+.flaticon-033-goblin:before { content: "\f120"; }
+.flaticon-034-leprechaun:before { content: "\f121"; }
+.flaticon-035-faun:before { content: "\f122"; }
+.flaticon-036-cyclops:before { content: "\f123"; }
+.flaticon-037-pegasus:before { content: "\f124"; }
+.flaticon-038-bigfoot:before { content: "\f125"; }
+.flaticon-039-tree:before { content: "\f126"; }
+.flaticon-040-werewolf:before { content: "\f127"; }
+.flaticon-041-minotaur:before { content: "\f128"; }
+.flaticon-042-samurai:before { content: "\f129"; }
+.flaticon-043-wraith:before { content: "\f12a"; }
+.flaticon-044-nymph:before { content: "\f12b"; }
+.flaticon-045-yeti:before { content: "\f12c"; }
+.flaticon-046-golem:before { content: "\f12d"; }
+.flaticon-047-griffin:before { content: "\f12e"; }
+.flaticon-048-mummy:before { content: "\f12f"; }
+.flaticon-049-banshee:before { content: "\f130"; }
+.flaticon-050-spirit:before { content: "\f131"; }
+
+$font-Flaticon-001-superhero: "\f100";
+$font-Flaticon-002-grim-reaper: "\f101";
+$font-Flaticon-003-knight: "\f102";
+$font-Flaticon-004-unicorn: "\f103";
+$font-Flaticon-005-wizard: "\f104";
+$font-Flaticon-006-ghost: "\f105";
+$font-Flaticon-007-dragon: "\f106";
+$font-Flaticon-008-mermaid: "\f107";
+$font-Flaticon-009-zombie: "\f108";
+$font-Flaticon-010-fairy: "\f109";
+$font-Flaticon-011-cthulhu: "\f10a";
+$font-Flaticon-012-dead: "\f10b";
+$font-Flaticon-013-elf: "\f10c";
+$font-Flaticon-014-invisible-man: "\f10d";
+$font-Flaticon-015-yuki-onna: "\f10e";
+$font-Flaticon-016-frankenstein: "\f10f";
+$font-Flaticon-017-demon: "\f110";
+$font-Flaticon-018-ogre: "\f111";
+$font-Flaticon-019-dracula: "\f112";
+$font-Flaticon-020-gnome: "\f113";
+$font-Flaticon-021-robot: "\f114";
+$font-Flaticon-022-pirate: "\f115";
+$font-Flaticon-023-alien: "\f116";
+$font-Flaticon-024-frog-prince: "\f117";
+$font-Flaticon-025-witch: "\f118";
+$font-Flaticon-026-princess: "\f119";
+$font-Flaticon-027-spartan: "\f11a";
+$font-Flaticon-028-ninja: "\f11b";
+$font-Flaticon-029-genie: "\f11c";
+$font-Flaticon-030-king: "\f11d";
+$font-Flaticon-031-cowboy: "\f11e";
+$font-Flaticon-032-medusa: "\f11f";
+$font-Flaticon-033-goblin: "\f120";
+$font-Flaticon-034-leprechaun: "\f121";
+$font-Flaticon-035-faun: "\f122";
+$font-Flaticon-036-cyclops: "\f123";
+$font-Flaticon-037-pegasus: "\f124";
+$font-Flaticon-038-bigfoot: "\f125";
+$font-Flaticon-039-tree: "\f126";
+$font-Flaticon-040-werewolf: "\f127";
+$font-Flaticon-041-minotaur: "\f128";
+$font-Flaticon-042-samurai: "\f129";
+$font-Flaticon-043-wraith: "\f12a";
+$font-Flaticon-044-nymph: "\f12b";
+$font-Flaticon-045-yeti: "\f12c";
+$font-Flaticon-046-golem: "\f12d";
+$font-Flaticon-047-griffin: "\f12e";
+$font-Flaticon-048-mummy: "\f12f";
+$font-Flaticon-049-banshee: "\f130";
+$font-Flaticon-050-spirit: "\f131";

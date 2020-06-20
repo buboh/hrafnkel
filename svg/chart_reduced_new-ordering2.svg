@@ -1,0 +1,1612 @@
+<svg viewBox="-5,-5,1015,165" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <rect x="-5" y="-5" width="1020" height="170" fill="#fffdfa"/>
+    <g stroke="#999" stroke-opacity="1" stroke-linecap="round">
+        <line stroke="#191970" stroke-width="2.1972245773362196" x1="5" y1="60" x2="11" y2="73.90138771133189">
+            <title>
+                7 - Hallfred, source: 84, target: 0
+            </title>
+        </line>
+        <line stroke="#191970" stroke-width="2.1972245773362196" x1="11" y1="73.90138771133189" x2="23" y2="73.90138771133189">
+            <title>
+                7 - Hallfred, source: 0, target: 1
+            </title>
+        </line>
+        <line stroke="#191970" stroke-width="2.1972245773362196" x1="23" y1="73.90138771133189" x2="35" y2="73.90138771133189">
+            <title>
+                7 - Hallfred, source: 1, target: 2
+            </title>
+        </line>
+        <line stroke="#191970" stroke-width="2.1972245773362196" x1="35" y1="73.90138771133189" x2="47" y2="73.90138771133189">
+            <title>
+                7 - Hallfred, source: 2, target: 3
+            </title>
+        </line>
+        <line stroke="#191970" stroke-width="2.1972245773362196" x1="47" y1="73.90138771133189" x2="59" y2="76.09861228866811">
+            <title>
+                7 - Hallfred, source: 3, target: 4
+            </title>
+        </line>
+        <line stroke="#191970" stroke-width="2.1972245773362196" x1="59" y1="76.09861228866811" x2="65" y2="90">
+            <title>
+                7 - Hallfred, source: 4, target: 107
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="41" y1="60" x2="47" y2="76.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 85, target: 3
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="47" y1="76.96591281636216" x2="59" y2="73.03408718363784">
+            <title>
+                9 - Hrafnkel, source: 3, target: 4
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="59" y1="73.03408718363784" x2="71" y2="51.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 4, target: 5
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="71" y1="51.96591281636216" x2="95" y2="106.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 5, target: 7
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="95" y1="106.96591281636216" x2="130" y2="68.03408718363784">
+            <title>
+                9 - Hrafnkel, source: 7, target: 10
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="130" y1="68.03408718363784" x2="142" y2="68.03408718363784">
+            <title>
+                9 - Hrafnkel, source: 10, target: 11
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="142" y1="68.03408718363784" x2="154" y2="68.03408718363784">
+            <title>
+                9 - Hrafnkel, source: 11, target: 12
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="154" y1="68.03408718363784" x2="202" y2="71.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 12, target: 16
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="202" y1="71.96591281636216" x2="214" y2="71.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 16, target: 17
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="214" y1="71.96591281636216" x2="226" y2="68.03408718363784">
+            <title>
+                9 - Hrafnkel, source: 17, target: 18
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="226" y1="68.03408718363784" x2="238" y2="106.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 18, target: 19
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="238" y1="106.96591281636216" x2="250" y2="36.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 19, target: 20
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="250" y1="36.96591281636216" x2="261" y2="71.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 20, target: 21
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="261" y1="71.96591281636216" x2="273" y2="71.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 21, target: 22
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="273" y1="71.96591281636216" x2="285" y2="71.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 22, target: 23
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="285" y1="71.96591281636216" x2="297" y2="16.965912816362163">
+            <title>
+                9 - Hrafnkel, source: 23, target: 24
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="297" y1="16.965912816362163" x2="309" y2="68.03408718363784">
+            <title>
+                9 - Hrafnkel, source: 24, target: 25
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="309" y1="68.03408718363784" x2="345" y2="68.03408718363784">
+            <title>
+                9 - Hrafnkel, source: 25, target: 28
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="345" y1="68.03408718363784" x2="357" y2="68.03408718363784">
+            <title>
+                9 - Hrafnkel, source: 28, target: 29
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="357" y1="68.03408718363784" x2="464" y2="68.03408718363784">
+            <title>
+                9 - Hrafnkel, source: 29, target: 38
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="464" y1="68.03408718363784" x2="476" y2="68.03408718363784">
+            <title>
+                9 - Hrafnkel, source: 38, target: 39
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="476" y1="68.03408718363784" x2="511" y2="71.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 39, target: 42
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="511" y1="71.96591281636216" x2="523" y2="36.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 42, target: 43
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="523" y1="36.96591281636216" x2="535" y2="68.03408718363784">
+            <title>
+                9 - Hrafnkel, source: 43, target: 44
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="535" y1="68.03408718363784" x2="547" y2="68.03408718363784">
+            <title>
+                9 - Hrafnkel, source: 44, target: 45
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="547" y1="68.03408718363784" x2="559" y2="48.03408718363784">
+            <title>
+                9 - Hrafnkel, source: 45, target: 46
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="559" y1="48.03408718363784" x2="571" y2="48.03408718363784">
+            <title>
+                9 - Hrafnkel, source: 46, target: 47
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="571" y1="48.03408718363784" x2="607" y2="48.03408718363784">
+            <title>
+                9 - Hrafnkel, source: 47, target: 50
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="607" y1="48.03408718363784" x2="619" y2="48.03408718363784">
+            <title>
+                9 - Hrafnkel, source: 50, target: 51
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="619" y1="48.03408718363784" x2="702" y2="51.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 51, target: 58
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="702" y1="51.96591281636216" x2="714" y2="48.03408718363784">
+            <title>
+                9 - Hrafnkel, source: 58, target: 59
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="714" y1="48.03408718363784" x2="761" y2="48.03408718363784">
+            <title>
+                9 - Hrafnkel, source: 59, target: 63
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="761" y1="48.03408718363784" x2="773" y2="51.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 63, target: 64
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="773" y1="51.96591281636216" x2="785" y2="51.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 64, target: 65
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="785" y1="51.96591281636216" x2="797" y2="51.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 65, target: 66
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="797" y1="51.96591281636216" x2="809" y2="51.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 66, target: 67
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="809" y1="51.96591281636216" x2="821" y2="51.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 67, target: 68
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="821" y1="51.96591281636216" x2="857" y2="51.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 68, target: 71
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="857" y1="51.96591281636216" x2="869" y2="48.03408718363784">
+            <title>
+                9 - Hrafnkel, source: 71, target: 72
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="869" y1="48.03408718363784" x2="880" y2="51.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 72, target: 73
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="880" y1="51.96591281636216" x2="964" y2="51.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 73, target: 80
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="964" y1="51.96591281636216" x2="976" y2="51.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 80, target: 81
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="976" y1="51.96591281636216" x2="988" y2="51.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 81, target: 82
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="988" y1="51.96591281636216" x2="988" y2="51.96591281636216">
+            <title>
+                9 - Hrafnkel, source: 82, target: 82
+            </title>
+        </line>
+        <line stroke="#0000FF" stroke-width="3.9318256327243257" x1="988" y1="51.96591281636216" x2="994" y2="65">
+            <title>
+                9 - Hrafnkel, source: 82, target: 108
+            </title>
+        </line>
+        <line stroke="#CD853F" stroke-width="1.3862943611198906" x1="5" y1="90" x2="11" y2="75.69314718055995">
+            <title>
+                10 - Arnthrud, source: 86, target: 0
+            </title>
+        </line>
+        <line stroke="#CD853F" stroke-width="1.3862943611198906" x1="11" y1="75.69314718055995" x2="23" y2="75.69314718055995">
+            <title>
+                10 - Arnthrud, source: 0, target: 1
+            </title>
+        </line>
+        <line stroke="#CD853F" stroke-width="1.3862943611198906" x1="23" y1="75.69314718055995" x2="29" y2="90">
+            <title>
+                10 - Arnthrud, source: 1, target: 109
+            </title>
+        </line>
+        <line stroke="#CD853F" stroke-width="1.0986122886681098" x1="29" y1="60" x2="35" y2="75.54930614433405">
+            <title>
+                11 - man, source: 87, target: 2
+            </title>
+        </line>
+        <line stroke="#CD853F" stroke-width="1.0986122886681098" x1="35" y1="75.54930614433405" x2="41" y2="90">
+            <title>
+                11 - man, source: 2, target: 110
+            </title>
+        </line>
+        <line stroke="#6495ED" stroke-width="1.6094379124341003" x1="958" y1="35" x2="964" y2="49.19528104378295">
+            <title>
+                13 - Thorir, source: 88, target: 80
+            </title>
+        </line>
+        <line stroke="#6495ED" stroke-width="1.6094379124341003" x1="964" y1="49.19528104378295" x2="970" y2="65">
+            <title>
+                13 - Thorir, source: 80, target: 111
+            </title>
+        </line>
+        <line stroke="#00BFFF" stroke-width="1.6094379124341003" x1="970" y1="35" x2="976" y2="49.19528104378295">
+            <title>
+                14 - Asbjorn, source: 89, target: 81
+            </title>
+        </line>
+        <line stroke="#00BFFF" stroke-width="1.6094379124341003" x1="976" y1="49.19528104378295" x2="982" y2="65">
+            <title>
+                14 - Asbjorn, source: 81, target: 112
+            </title>
+        </line>
+        <line stroke="#FFD700" stroke-width="1.3862943611198906" x1="65" y1="35" x2="71" y2="49.30685281944005">
+            <title>
+                15 - Frey, source: 90, target: 5
+            </title>
+        </line>
+        <line stroke="#FFD700" stroke-width="1.3862943611198906" x1="71" y1="49.30685281944005" x2="380" y2="49.30685281944005">
+            <title>
+                15 - Frey, source: 5, target: 31
+            </title>
+        </line>
+        <line stroke="#FFD700" stroke-width="1.3862943611198906" x1="380" y1="49.30685281944005" x2="386" y2="35">
+            <title>
+                15 - Frey, source: 31, target: 113
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="315" y1="100" x2="321" y2="83.15556027294303">
+            <title>
+                18 - Sam, source: 91, target: 26
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="321" y1="83.15556027294303" x2="333" y2="86.84443972705697">
+            <title>
+                18 - Sam, source: 26, target: 27
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="333" y1="86.84443972705697" x2="345" y2="71.84443972705697">
+            <title>
+                18 - Sam, source: 27, target: 28
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="345" y1="71.84443972705697" x2="357" y2="71.84443972705697">
+            <title>
+                18 - Sam, source: 28, target: 29
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="357" y1="71.84443972705697" x2="369" y2="116.84443972705697">
+            <title>
+                18 - Sam, source: 29, target: 30
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="369" y1="116.84443972705697" x2="392" y2="48.155560272943035">
+            <title>
+                18 - Sam, source: 30, target: 32
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="392" y1="48.155560272943035" x2="440" y2="51.844439727056965">
+            <title>
+                18 - Sam, source: 32, target: 36
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="440" y1="51.844439727056965" x2="452" y2="51.844439727056965">
+            <title>
+                18 - Sam, source: 36, target: 37
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="452" y1="51.844439727056965" x2="464" y2="71.84443972705697">
+            <title>
+                18 - Sam, source: 37, target: 38
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="464" y1="71.84443972705697" x2="476" y2="71.84443972705697">
+            <title>
+                18 - Sam, source: 38, target: 39
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="476" y1="71.84443972705697" x2="488" y2="48.155560272943035">
+            <title>
+                18 - Sam, source: 39, target: 40
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="488" y1="48.155560272943035" x2="500" y2="48.155560272943035">
+            <title>
+                18 - Sam, source: 40, target: 41
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="500" y1="48.155560272943035" x2="511" y2="68.15556027294303">
+            <title>
+                18 - Sam, source: 41, target: 42
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="511" y1="68.15556027294303" x2="583" y2="98.15556027294303">
+            <title>
+                18 - Sam, source: 42, target: 48
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="583" y1="98.15556027294303" x2="595" y2="68.15556027294303">
+            <title>
+                18 - Sam, source: 48, target: 49
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="595" y1="68.15556027294303" x2="607" y2="51.844439727056965">
+            <title>
+                18 - Sam, source: 49, target: 50
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="607" y1="51.844439727056965" x2="619" y2="51.844439727056965">
+            <title>
+                18 - Sam, source: 50, target: 51
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="619" y1="51.844439727056965" x2="630" y2="68.15556027294303">
+            <title>
+                18 - Sam, source: 51, target: 52
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="630" y1="68.15556027294303" x2="666" y2="71.84443972705697">
+            <title>
+                18 - Sam, source: 52, target: 55
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="666" y1="71.84443972705697" x2="678" y2="116.84443972705697">
+            <title>
+                18 - Sam, source: 55, target: 56
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="678" y1="116.84443972705697" x2="690" y2="86.84443972705697">
+            <title>
+                18 - Sam, source: 56, target: 57
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="690" y1="86.84443972705697" x2="702" y2="48.155560272943035">
+            <title>
+                18 - Sam, source: 57, target: 58
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="702" y1="48.155560272943035" x2="714" y2="51.844439727056965">
+            <title>
+                18 - Sam, source: 58, target: 59
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="714" y1="51.844439727056965" x2="726" y2="131.84443972705697">
+            <title>
+                18 - Sam, source: 59, target: 60
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="726" y1="131.84443972705697" x2="738" y2="131.84443972705697">
+            <title>
+                18 - Sam, source: 60, target: 61
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="738" y1="131.84443972705697" x2="845" y2="128.15556027294303">
+            <title>
+                18 - Sam, source: 61, target: 70
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="845" y1="128.15556027294303" x2="869" y2="51.844439727056965">
+            <title>
+                18 - Sam, source: 70, target: 72
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="869" y1="51.844439727056965" x2="880" y2="48.155560272943035">
+            <title>
+                18 - Sam, source: 72, target: 73
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="880" y1="48.155560272943035" x2="892" y2="81.84443972705697">
+            <title>
+                18 - Sam, source: 73, target: 74
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="892" y1="81.84443972705697" x2="904" y2="116.84443972705697">
+            <title>
+                18 - Sam, source: 74, target: 75
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="904" y1="116.84443972705697" x2="916" y2="81.84443972705697">
+            <title>
+                18 - Sam, source: 75, target: 76
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="916" y1="81.84443972705697" x2="928" y2="78.15556027294303">
+            <title>
+                18 - Sam, source: 76, target: 77
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="928" y1="78.15556027294303" x2="940" y2="113.15556027294303">
+            <title>
+                18 - Sam, source: 77, target: 78
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="940" y1="113.15556027294303" x2="952" y2="78.15556027294303">
+            <title>
+                18 - Sam, source: 78, target: 79
+            </title>
+        </line>
+        <line stroke="#DC143C" stroke-width="3.6888794541139363" x1="952" y1="78.15556027294303" x2="958" y2="65">
+            <title>
+                18 - Sam, source: 79, target: 114
+            </title>
+        </line>
+        <line stroke="#FA8072" stroke-width="2.3978952727983707" x1="77" y1="140" x2="83" y2="131.1989476363992">
+            <title>
+                19 - Eyvind, source: 92, target: 6
+            </title>
+        </line>
+        <line stroke="#FA8072" stroke-width="2.3978952727983707" x1="83" y1="131.1989476363992" x2="726" y2="128.8010523636008">
+            <title>
+                19 - Eyvind, source: 6, target: 60
+            </title>
+        </line>
+        <line stroke="#FA8072" stroke-width="2.3978952727983707" x1="726" y1="128.8010523636008" x2="738" y2="128.8010523636008">
+            <title>
+                19 - Eyvind, source: 60, target: 61
+            </title>
+        </line>
+        <line stroke="#FA8072" stroke-width="2.3978952727983707" x1="738" y1="128.8010523636008" x2="750" y2="146.1989476363992">
+            <title>
+                19 - Eyvind, source: 61, target: 62
+            </title>
+        </line>
+        <line stroke="#FA8072" stroke-width="2.3978952727983707" x1="750" y1="146.1989476363992" x2="773" y2="48.80105236360082">
+            <title>
+                19 - Eyvind, source: 62, target: 64
+            </title>
+        </line>
+        <line stroke="#FA8072" stroke-width="2.3978952727983707" x1="773" y1="48.80105236360082" x2="833" y2="145">
+            <title>
+                19 - Eyvind, source: 64, target: 69
+            </title>
+        </line>
+        <line stroke="#FA8072" stroke-width="2.3978952727983707" x1="833" y1="145" x2="857" y2="48.80105236360082">
+            <title>
+                19 - Eyvind, source: 69, target: 71
+            </title>
+        </line>
+        <line stroke="#FA8072" stroke-width="2.3978952727983707" x1="857" y1="48.80105236360082" x2="863" y2="35">
+            <title>
+                19 - Eyvind, source: 71, target: 115
+            </title>
+        </line>
+        <line stroke="#CD853F" stroke-width="1.9459101490553132" x1="77" y1="120" x2="83" y2="129.02704492547235">
+            <title>
+                21 - king of Greeks, source: 93, target: 6
+            </title>
+        </line>
+        <line stroke="#CD853F" stroke-width="1.9459101490553132" x1="83" y1="129.02704492547235" x2="369" y2="114.02704492547234">
+            <title>
+                21 - king of Greeks, source: 6, target: 30
+            </title>
+        </line>
+        <line stroke="#CD853F" stroke-width="1.9459101490553132" x1="369" y1="114.02704492547234" x2="642" y2="114.02704492547234">
+            <title>
+                21 - king of Greeks, source: 30, target: 53
+            </title>
+        </line>
+        <line stroke="#CD853F" stroke-width="1.9459101490553132" x1="642" y1="114.02704492547234" x2="654" y2="99.02704492547234">
+            <title>
+                21 - king of Greeks, source: 53, target: 54
+            </title>
+        </line>
+        <line stroke="#CD853F" stroke-width="1.9459101490553132" x1="654" y1="99.02704492547234" x2="1000" y2="99.02704492547234">
+            <title>
+                21 - king of Greeks, source: 54, target: 83
+            </title>
+        </line>
+        <line stroke="#CD853F" stroke-width="1.9459101490553132" x1="1000" y1="99.02704492547234" x2="1005" y2="85">
+            <title>
+                21 - king of Greeks, source: 83, target: 116
+            </title>
+        </line>
+        <line stroke="#FFD700" stroke-width="1.6094379124341003" x1="89" y1="120" x2="95" y2="104.19528104378296">
+            <title>
+                22 - Freyfaxi, source: 94, target: 7
+            </title>
+        </line>
+        <line stroke="#FFD700" stroke-width="1.6094379124341003" x1="95" y1="104.19528104378296" x2="178" y2="104.19528104378296">
+            <title>
+                22 - Freyfaxi, source: 7, target: 14
+            </title>
+        </line>
+        <line stroke="#FFD700" stroke-width="1.6094379124341003" x1="178" y1="104.19528104378296" x2="238" y2="104.19528104378296">
+            <title>
+                22 - Freyfaxi, source: 14, target: 19
+            </title>
+        </line>
+        <line stroke="#FFD700" stroke-width="1.6094379124341003" x1="238" y1="104.19528104378296" x2="244" y2="120">
+            <title>
+                22 - Freyfaxi, source: 19, target: 117
+            </title>
+        </line>
+        <line stroke="#CD5C5C" stroke-width="2.3978952727983707" x1="101" y1="30" x2="107" y2="16.198947636399186">
+            <title>
+                23 - Thorbjorn, source: 95, target: 8
+            </title>
+        </line>
+        <line stroke="#CD5C5C" stroke-width="2.3978952727983707" x1="107" y1="16.198947636399186" x2="119" y2="16.198947636399186">
+            <title>
+                23 - Thorbjorn, source: 8, target: 9
+            </title>
+        </line>
+        <line stroke="#CD5C5C" stroke-width="2.3978952727983707" x1="119" y1="16.198947636399186" x2="297" y2="13.801052363600814">
+            <title>
+                23 - Thorbjorn, source: 9, target: 24
+            </title>
+        </line>
+        <line stroke="#CD5C5C" stroke-width="2.3978952727983707" x1="297" y1="13.801052363600814" x2="309" y2="71.19894763639918">
+            <title>
+                23 - Thorbjorn, source: 24, target: 25
+            </title>
+        </line>
+        <line stroke="#CD5C5C" stroke-width="2.3978952727983707" x1="309" y1="71.19894763639918" x2="321" y2="86.19894763639918">
+            <title>
+                23 - Thorbjorn, source: 25, target: 26
+            </title>
+        </line>
+        <line stroke="#CD5C5C" stroke-width="2.3978952727983707" x1="321" y1="86.19894763639918" x2="333" y2="83.80105236360082">
+            <title>
+                23 - Thorbjorn, source: 26, target: 27
+            </title>
+        </line>
+        <line stroke="#CD5C5C" stroke-width="2.3978952727983707" x1="333" y1="83.80105236360082" x2="404" y2="86.19894763639918">
+            <title>
+                23 - Thorbjorn, source: 27, target: 33
+            </title>
+        </line>
+        <line stroke="#CD5C5C" stroke-width="2.3978952727983707" x1="404" y1="86.19894763639918" x2="690" y2="83.80105236360082">
+            <title>
+                23 - Thorbjorn, source: 33, target: 57
+            </title>
+        </line>
+        <line stroke="#CD5C5C" stroke-width="2.3978952727983707" x1="690" y1="83.80105236360082" x2="696" y2="100">
+            <title>
+                23 - Thorbjorn, source: 57, target: 118
+            </title>
+        </line>
+        <line stroke="#8B0000" stroke-width="2.70805020110221" x1="101" y1="0" x2="107" y2="13.645974899448895">
+            <title>
+                24 - Einar, source: 96, target: 8
+            </title>
+        </line>
+        <line stroke="#8B0000" stroke-width="2.70805020110221" x1="107" y1="13.645974899448895" x2="119" y2="13.645974899448895">
+            <title>
+                24 - Einar, source: 8, target: 9
+            </title>
+        </line>
+        <line stroke="#8B0000" stroke-width="2.70805020110221" x1="119" y1="13.645974899448895" x2="130" y2="71.3540251005511">
+            <title>
+                24 - Einar, source: 9, target: 10
+            </title>
+        </line>
+        <line stroke="#8B0000" stroke-width="2.70805020110221" x1="130" y1="71.3540251005511" x2="142" y2="71.3540251005511">
+            <title>
+                24 - Einar, source: 10, target: 11
+            </title>
+        </line>
+        <line stroke="#8B0000" stroke-width="2.70805020110221" x1="142" y1="71.3540251005511" x2="154" y2="71.3540251005511">
+            <title>
+                24 - Einar, source: 11, target: 12
+            </title>
+        </line>
+        <line stroke="#8B0000" stroke-width="2.70805020110221" x1="154" y1="71.3540251005511" x2="166" y2="86.3540251005511">
+            <title>
+                24 - Einar, source: 12, target: 13
+            </title>
+        </line>
+        <line stroke="#8B0000" stroke-width="2.70805020110221" x1="166" y1="86.3540251005511" x2="178" y2="106.3540251005511">
+            <title>
+                24 - Einar, source: 13, target: 14
+            </title>
+        </line>
+        <line stroke="#8B0000" stroke-width="2.70805020110221" x1="178" y1="106.3540251005511" x2="190" y2="36.354025100551105">
+            <title>
+                24 - Einar, source: 14, target: 15
+            </title>
+        </line>
+        <line stroke="#8B0000" stroke-width="2.70805020110221" x1="190" y1="36.354025100551105" x2="250" y2="33.645974899448895">
+            <title>
+                24 - Einar, source: 15, target: 20
+            </title>
+        </line>
+        <line stroke="#8B0000" stroke-width="2.70805020110221" x1="250" y1="33.645974899448895" x2="261" y2="68.6459748994489">
+            <title>
+                24 - Einar, source: 20, target: 21
+            </title>
+        </line>
+        <line stroke="#8B0000" stroke-width="2.70805020110221" x1="261" y1="68.6459748994489" x2="273" y2="68.6459748994489">
+            <title>
+                24 - Einar, source: 21, target: 22
+            </title>
+        </line>
+        <line stroke="#8B0000" stroke-width="2.70805020110221" x1="273" y1="68.6459748994489" x2="285" y2="68.6459748994489">
+            <title>
+                24 - Einar, source: 22, target: 23
+            </title>
+        </line>
+        <line stroke="#8B0000" stroke-width="2.70805020110221" x1="285" y1="68.6459748994489" x2="291" y2="85">
+            <title>
+                24 - Einar, source: 23, target: 119
+            </title>
+        </line>
+        <line stroke="#CD853F" stroke-width="1.3862943611198906" x1="160" y1="100" x2="166" y2="84.30685281944005">
+            <title>
+                25 - shepherds, source: 97, target: 13
+            </title>
+        </line>
+        <line stroke="#CD853F" stroke-width="1.3862943611198906" x1="166" y1="84.30685281944005" x2="190" y2="34.30685281944005">
+            <title>
+                25 - shepherds, source: 13, target: 15
+            </title>
+        </line>
+        <line stroke="#CD853F" stroke-width="1.3862943611198906" x1="190" y1="34.30685281944005" x2="196" y2="20">
+            <title>
+                25 - shepherds, source: 15, target: 120
+            </title>
+        </line>
+        <line stroke="#CD853F" stroke-width="1.6094379124341003" x1="196" y1="85" x2="202" y2="69.19528104378296">
+            <title>
+                26 - mealtime servant, source: 98, target: 16
+            </title>
+        </line>
+        <line stroke="#CD853F" stroke-width="1.6094379124341003" x1="202" y1="69.19528104378296" x2="214" y2="69.19528104378296">
+            <title>
+                26 - mealtime servant, source: 16, target: 17
+            </title>
+        </line>
+        <line stroke="#CD853F" stroke-width="1.6094379124341003" x1="214" y1="69.19528104378296" x2="226" y2="70.80471895621704">
+            <title>
+                26 - mealtime servant, source: 17, target: 18
+            </title>
+        </line>
+        <line stroke="#CD853F" stroke-width="1.6094379124341003" x1="226" y1="70.80471895621704" x2="232" y2="60">
+            <title>
+                26 - mealtime servant, source: 18, target: 121
+            </title>
+        </line>
+        <line stroke="#228B22" stroke-width="2.772588722239781" x1="375" y1="35" x2="380" y2="51.38629436111989">
+            <title>
+                29 - Thorkel, source: 99, target: 31
+            </title>
+        </line>
+        <line stroke="#228B22" stroke-width="2.772588722239781" x1="380" y1="51.38629436111989" x2="392" y2="51.38629436111989">
+            <title>
+                29 - Thorkel, source: 31, target: 32
+            </title>
+        </line>
+        <line stroke="#228B22" stroke-width="2.772588722239781" x1="392" y1="51.38629436111989" x2="416" y2="36.38629436111989">
+            <title>
+                29 - Thorkel, source: 32, target: 34
+            </title>
+        </line>
+        <line stroke="#228B22" stroke-width="2.772588722239781" x1="416" y1="36.38629436111989" x2="428" y2="33.61370563888011">
+            <title>
+                29 - Thorkel, source: 34, target: 35
+            </title>
+        </line>
+        <line stroke="#228B22" stroke-width="2.772588722239781" x1="428" y1="33.61370563888011" x2="523" y2="33.61370563888011">
+            <title>
+                29 - Thorkel, source: 35, target: 43
+            </title>
+        </line>
+        <line stroke="#228B22" stroke-width="2.772588722239781" x1="523" y1="33.61370563888011" x2="535" y2="71.3862943611199">
+            <title>
+                29 - Thorkel, source: 43, target: 44
+            </title>
+        </line>
+        <line stroke="#228B22" stroke-width="2.772588722239781" x1="535" y1="71.3862943611199" x2="547" y2="71.3862943611199">
+            <title>
+                29 - Thorkel, source: 44, target: 45
+            </title>
+        </line>
+        <line stroke="#228B22" stroke-width="2.772588722239781" x1="547" y1="71.3862943611199" x2="595" y2="71.3862943611199">
+            <title>
+                29 - Thorkel, source: 45, target: 49
+            </title>
+        </line>
+        <line stroke="#228B22" stroke-width="2.772588722239781" x1="595" y1="71.3862943611199" x2="630" y2="71.3862943611199">
+            <title>
+                29 - Thorkel, source: 49, target: 52
+            </title>
+        </line>
+        <line stroke="#228B22" stroke-width="2.772588722239781" x1="630" y1="71.3862943611199" x2="642" y2="116.3862943611199">
+            <title>
+                29 - Thorkel, source: 52, target: 53
+            </title>
+        </line>
+        <line stroke="#228B22" stroke-width="2.772588722239781" x1="642" y1="116.3862943611199" x2="678" y2="113.6137056388801">
+            <title>
+                29 - Thorkel, source: 53, target: 56
+            </title>
+        </line>
+        <line stroke="#228B22" stroke-width="2.772588722239781" x1="678" y1="113.6137056388801" x2="904" y2="113.6137056388801">
+            <title>
+                29 - Thorkel, source: 56, target: 75
+            </title>
+        </line>
+        <line stroke="#228B22" stroke-width="2.772588722239781" x1="904" y1="113.6137056388801" x2="940" y2="116.3862943611199">
+            <title>
+                29 - Thorkel, source: 75, target: 78
+            </title>
+        </line>
+        <line stroke="#228B22" stroke-width="2.772588722239781" x1="940" y1="116.3862943611199" x2="946" y2="130">
+            <title>
+                29 - Thorkel, source: 78, target: 122
+            </title>
+        </line>
+        <line stroke="#6B8E23" stroke-width="3.044522437723423" x1="398" y1="100" x2="404" y2="83.47773878113829">
+            <title>
+                31 - Thorgeir, source: 100, target: 33
+            </title>
+        </line>
+        <line stroke="#6B8E23" stroke-width="3.044522437723423" x1="404" y1="83.47773878113829" x2="416" y2="33.477738781138285">
+            <title>
+                31 - Thorgeir, source: 33, target: 34
+            </title>
+        </line>
+        <line stroke="#6B8E23" stroke-width="3.044522437723423" x1="416" y1="33.477738781138285" x2="428" y2="36.522261218861715">
+            <title>
+                31 - Thorgeir, source: 34, target: 35
+            </title>
+        </line>
+        <line stroke="#6B8E23" stroke-width="3.044522437723423" x1="428" y1="36.522261218861715" x2="440" y2="48.477738781138285">
+            <title>
+                31 - Thorgeir, source: 35, target: 36
+            </title>
+        </line>
+        <line stroke="#6B8E23" stroke-width="3.044522437723423" x1="440" y1="48.477738781138285" x2="452" y2="48.477738781138285">
+            <title>
+                31 - Thorgeir, source: 36, target: 37
+            </title>
+        </line>
+        <line stroke="#6B8E23" stroke-width="3.044522437723423" x1="452" y1="48.477738781138285" x2="488" y2="51.522261218861715">
+            <title>
+                31 - Thorgeir, source: 37, target: 40
+            </title>
+        </line>
+        <line stroke="#6B8E23" stroke-width="3.044522437723423" x1="488" y1="51.522261218861715" x2="500" y2="51.522261218861715">
+            <title>
+                31 - Thorgeir, source: 40, target: 41
+            </title>
+        </line>
+        <line stroke="#6B8E23" stroke-width="3.044522437723423" x1="500" y1="51.522261218861715" x2="559" y2="51.522261218861715">
+            <title>
+                31 - Thorgeir, source: 41, target: 46
+            </title>
+        </line>
+        <line stroke="#6B8E23" stroke-width="3.044522437723423" x1="559" y1="51.522261218861715" x2="571" y2="51.522261218861715">
+            <title>
+                31 - Thorgeir, source: 46, target: 47
+            </title>
+        </line>
+        <line stroke="#6B8E23" stroke-width="3.044522437723423" x1="571" y1="51.522261218861715" x2="583" y2="101.52226121886171">
+            <title>
+                31 - Thorgeir, source: 47, target: 48
+            </title>
+        </line>
+        <line stroke="#6B8E23" stroke-width="3.044522437723423" x1="583" y1="101.52226121886171" x2="654" y2="101.52226121886171">
+            <title>
+                31 - Thorgeir, source: 48, target: 54
+            </title>
+        </line>
+        <line stroke="#6B8E23" stroke-width="3.044522437723423" x1="654" y1="101.52226121886171" x2="666" y2="68.47773878113829">
+            <title>
+                31 - Thorgeir, source: 54, target: 55
+            </title>
+        </line>
+        <line stroke="#6B8E23" stroke-width="3.044522437723423" x1="666" y1="68.47773878113829" x2="892" y2="78.47773878113829">
+            <title>
+                31 - Thorgeir, source: 55, target: 74
+            </title>
+        </line>
+        <line stroke="#6B8E23" stroke-width="3.044522437723423" x1="892" y1="78.47773878113829" x2="916" y2="78.47773878113829">
+            <title>
+                31 - Thorgeir, source: 74, target: 76
+            </title>
+        </line>
+        <line stroke="#6B8E23" stroke-width="3.044522437723423" x1="916" y1="78.47773878113829" x2="928" y2="81.52226121886171">
+            <title>
+                31 - Thorgeir, source: 76, target: 77
+            </title>
+        </line>
+        <line stroke="#6B8E23" stroke-width="3.044522437723423" x1="928" y1="81.52226121886171" x2="952" y2="81.52226121886171">
+            <title>
+                31 - Thorgeir, source: 77, target: 79
+            </title>
+        </line>
+        <line stroke="#6B8E23" stroke-width="3.044522437723423" x1="952" y1="81.52226121886171" x2="1000" y2="101.52226121886171">
+            <title>
+                31 - Thorgeir, source: 79, target: 83
+            </title>
+        </line>
+        <line stroke="#6B8E23" stroke-width="3.044522437723423" x1="1000" y1="101.52226121886171" x2="1005" y2="115">
+            <title>
+                31 - Thorgeir, source: 83, target: 123
+            </title>
+        </line>
+        <line stroke="#FF4500" stroke-width="1.6094379124341003" x1="744" y1="155" x2="750" y2="144.19528104378296">
+            <title>
+                35 - Eyvind&apos;s servant boy, source: 101, target: 62
+            </title>
+        </line>
+        <line stroke="#FF4500" stroke-width="1.6094379124341003" x1="750" y1="144.19528104378296" x2="833" y2="145">
+            <title>
+                35 - Eyvind&apos;s servant boy, source: 62, target: 69
+            </title>
+        </line>
+        <line stroke="#FF4500" stroke-width="1.6094379124341003" x1="833" y1="145" x2="845" y2="130.80471895621704">
+            <title>
+                35 - Eyvind&apos;s servant boy, source: 69, target: 70
+            </title>
+        </line>
+        <line stroke="#FF4500" stroke-width="1.6094379124341003" x1="845" y1="130.80471895621704" x2="851" y2="145">
+            <title>
+                35 - Eyvind&apos;s servant boy, source: 70, target: 124
+            </title>
+        </line>
+        <line stroke="#CD853F" stroke-width="1.0986122886681098" x1="755" y1="35" x2="761" y2="50.549306144334054">
+            <title>
+                36 - Servant woman, source: 102, target: 63
+            </title>
+        </line>
+        <line stroke="#CD853F" stroke-width="1.0986122886681098" x1="761" y1="50.549306144334054" x2="767" y2="65">
+            <title>
+                36 - Servant woman, source: 63, target: 125
+            </title>
+        </line>
+        <line stroke="#A9A9A9" stroke-width="1.0986122886681098" x1="779" y1="35" x2="785" y2="49.450693855665946">
+            <title>
+                37 - Sighvat, source: 103, target: 65
+            </title>
+        </line>
+        <line stroke="#A9A9A9" stroke-width="1.0986122886681098" x1="785" y1="49.450693855665946" x2="791" y2="65">
+            <title>
+                37 - Sighvat, source: 65, target: 126
+            </title>
+        </line>
+        <line stroke="#808080" stroke-width="1.0986122886681098" x1="791" y1="35" x2="797" y2="49.450693855665946">
+            <title>
+                38 - Snorri, source: 104, target: 66
+            </title>
+        </line>
+        <line stroke="#808080" stroke-width="1.0986122886681098" x1="797" y1="49.450693855665946" x2="803" y2="65">
+            <title>
+                38 - Snorri, source: 66, target: 127
+            </title>
+        </line>
+        <line stroke="#D3D3D3" stroke-width="1.0986122886681098" x1="803" y1="35" x2="809" y2="49.450693855665946">
+            <title>
+                41 - Thord, source: 105, target: 67
+            </title>
+        </line>
+        <line stroke="#D3D3D3" stroke-width="1.0986122886681098" x1="809" y1="49.450693855665946" x2="815" y2="65">
+            <title>
+                41 - Thord, source: 67, target: 128
+            </title>
+        </line>
+        <line stroke="#C0C0C0" stroke-width="1.0986122886681098" x1="815" y1="35" x2="821" y2="49.450693855665946">
+            <title>
+                42 - Halli, source: 106, target: 68
+            </title>
+        </line>
+        <line stroke="#C0C0C0" stroke-width="1.0986122886681098" x1="821" y1="49.450693855665946" x2="827" y2="65">
+            <title>
+                42 - Halli, source: 68, target: 129
+            </title>
+        </line>
+    </g>
+    <g stroke="#fffdfa" stroke-width="0.5">
+        <circle r="3" fill="#333" cx="11" cy="75">
+            <title>
+                0 - offer assistance, 10 -&gt; 7, chapter: 1
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="23" cy="75">
+            <title>
+                1 - death_neutral, 10 -&gt; 7, chapter: 1
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="35" cy="75">
+            <title>
+                2 - provide information, 11 -&gt; 7, chapter: 1
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="47" cy="75">
+            <title>
+                3 - request assistance, 9 -&gt; 7, chapter: 2
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="59" cy="75">
+            <title>
+                4 - offer assistance, 7 -&gt; 9, chapter: 2
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="71" cy="50">
+            <title>
+                5 - offer assistance, 9 -&gt; 15, chapter: 2
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="83" cy="130">
+            <title>
+                6 - giftgiving, 19 -&gt; 21, chapter: 3
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="95" cy="105">
+            <title>
+                7 - ownership, 9 -&gt; 22, chapter: 3
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="107" cy="15">
+            <title>
+                8 - offer assistance, 23 -&gt; 24, chapter: 4
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="119" cy="15">
+            <title>
+                9 - provide information, 23 -&gt; 24, chapter: 4
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="130" cy="70">
+            <title>
+                10 - request assistance, 24 -&gt; 9, chapter: 4
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="142" cy="70">
+            <title>
+                11 - offer assistance, 24 -&gt; 9, chapter: 4
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="154" cy="70">
+            <title>
+                12 - provide information, 24 -&gt; 9, chapter: 4
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="166" cy="85">
+            <title>
+                13 - request assistance, 24 -&gt; 25, chapter: 5
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="178" cy="105">
+            <title>
+                14 - request assistance, 24 -&gt; 22, chapter: 5
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="190" cy="35">
+            <title>
+                15 - request assistance, 24 -&gt; 25, chapter: 5
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="202" cy="70">
+            <title>
+                16 - request assistance, 9 -&gt; 26, chapter: 5
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="214" cy="70">
+            <title>
+                17 - request assistance, 9 -&gt; 26, chapter: 5
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="226" cy="70">
+            <title>
+                18 - discover information, 26 -&gt; 9, chapter: 5
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="238" cy="105">
+            <title>
+                19 - provide information, 9 -&gt; 22, chapter: 5
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="250" cy="35">
+            <title>
+                20 - accusation, 9 -&gt; 24, chapter: 5
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="261" cy="70">
+            <title>
+                21 - hostility_lethal, 9 -&gt; 24, chapter: 5
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="273" cy="70">
+            <title>
+                22 - hostility_lethal, 9 -&gt; 24, chapter: 5
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="285" cy="70">
+            <title>
+                23 - death_neutral, 9 -&gt; 24, chapter: 5
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="297" cy="15">
+            <title>
+                24 - intervention, 9 -&gt; 23, chapter: 6
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="309" cy="70">
+            <title>
+                25 - challenge, 23 -&gt; 9, chapter: 6
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="321" cy="85">
+            <title>
+                26 - request assistance, 23 -&gt; 18, chapter: 6
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="333" cy="85">
+            <title>
+                27 - placed in command, 18 -&gt; 23, chapter: 6
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="345" cy="70">
+            <title>
+                28 - accusation, 18 -&gt; 9, chapter: 7
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="357" cy="70">
+            <title>
+                29 - summons, 18 -&gt; 9, chapter: 7
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="369" cy="115">
+            <title>
+                30 - request assistance, 18 -&gt; 21, chapter: 8
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="380" cy="50">
+            <title>
+                31 - provide information, 29 -&gt; 15, chapter: 8
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="392" cy="50">
+            <title>
+                32 - provide information, 29 -&gt; 18, chapter: 9
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="404" cy="85">
+            <title>
+                33 - hostility_non-lethal, 23 -&gt; 31, chapter: 9
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="416" cy="35">
+            <title>
+                34 - intervention, 29 -&gt; 31, chapter: 9
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="428" cy="35">
+            <title>
+                35 - offer assistance, 31 -&gt; 29, chapter: 9
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="440" cy="50">
+            <title>
+                36 - provide information, 18 -&gt; 31, chapter: 10
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="452" cy="50">
+            <title>
+                37 - provide information, 18 -&gt; 31, chapter: 10
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="464" cy="70">
+            <title>
+                38 - accusation, 18 -&gt; 9, chapter: 10
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="476" cy="70">
+            <title>
+                39 - hostility_non-lethal, 18 -&gt; 9, chapter: 10
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="488" cy="50">
+            <title>
+                40 - request assistance, 31 -&gt; 18, chapter: 10
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="500" cy="50">
+            <title>
+                41 - provide information, 31 -&gt; 18, chapter: 10
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="511" cy="70">
+            <title>
+                42 - placed in command, 9 -&gt; 18, chapter: 11
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="523" cy="35">
+            <title>
+                43 - request assistance, 9 -&gt; 29, chapter: 11
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="535" cy="70">
+            <title>
+                44 - threat, 29 -&gt; 9, chapter: 11
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="547" cy="70">
+            <title>
+                45 - hostility_non-lethal, 29 -&gt; 9, chapter: 11
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="559" cy="50">
+            <title>
+                46 - insult, 31 -&gt; 9, chapter: 11
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="571" cy="50">
+            <title>
+                47 - hostility_non-lethal, 31 -&gt; 9, chapter: 11
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="583" cy="100">
+            <title>
+                48 - provide information, 31 -&gt; 18, chapter: 11
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="595" cy="70">
+            <title>
+                49 - provide information, 29 -&gt; 18, chapter: 11
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="607" cy="50">
+            <title>
+                50 - insult, 18 -&gt; 9, chapter: 11
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="619" cy="50">
+            <title>
+                51 - hostility_non-lethal, 18 -&gt; 9, chapter: 11
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="630" cy="70">
+            <title>
+                52 - provide information, 29 -&gt; 18, chapter: 12
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="642" cy="115">
+            <title>
+                53 - summons, 29 -&gt; 21, chapter: 12
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="654" cy="100">
+            <title>
+                54 - summons, 31 -&gt; 21, chapter: 12
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="666" cy="70">
+            <title>
+                55 - giftgiving, 18 -&gt; 31, chapter: 12
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="678" cy="115">
+            <title>
+                56 - giftgiving, 18 -&gt; 29, chapter: 12
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="690" cy="85">
+            <title>
+                57 - giftgiving, 18 -&gt; 23, chapter: 12
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="702" cy="50">
+            <title>
+                58 - conversation_neutral, 9 -&gt; 18, chapter: 13
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="714" cy="50">
+            <title>
+                59 - conversation_neutral, 18 -&gt; 9, chapter: 13
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="726" cy="130">
+            <title>
+                60 - invitation, 18 -&gt; 19, chapter: 14
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="738" cy="130">
+            <title>
+                61 - giftgiving, 18 -&gt; 19, chapter: 14
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="750" cy="145">
+            <title>
+                62 - offer assistance, 19 -&gt; 35, chapter: 14
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="761" cy="50">
+            <title>
+                63 - insult, 36 -&gt; 9, chapter: 14
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="773" cy="50">
+            <title>
+                64 - hostility_non-lethal, 9 -&gt; 19, chapter: 14
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="785" cy="50">
+            <title>
+                65 - summons, 9 -&gt; 37, chapter: 14
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="797" cy="50">
+            <title>
+                66 - summons, 9 -&gt; 38, chapter: 14
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="809" cy="50">
+            <title>
+                67 - summons, 9 -&gt; 41, chapter: 14
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="821" cy="50">
+            <title>
+                68 - summons, 9 -&gt; 42, chapter: 14
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="833" cy="145">
+            <title>
+                69 - provide information, 35 -&gt; 19, chapter: 14
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="845" cy="130">
+            <title>
+                70 - request assistance, 35 -&gt; 18, chapter: 14
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="857" cy="50">
+            <title>
+                71 - hostility_lethal, 9 -&gt; 19, chapter: 14
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="869" cy="50">
+            <title>
+                72 - hostility_non-lethal, 18 -&gt; 9, chapter: 14
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="880" cy="50">
+            <title>
+                73 - challenge, 9 -&gt; 18, chapter: 15
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="892" cy="80">
+            <title>
+                74 - request assistance, 18 -&gt; 31, chapter: 16
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="904" cy="115">
+            <title>
+                75 - giftgiving, 18 -&gt; 29, chapter: 16
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="916" cy="80">
+            <title>
+                76 - giftgiving, 18 -&gt; 31, chapter: 16
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="928" cy="80">
+            <title>
+                77 - provide information, 31 -&gt; 18, chapter: 16
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="940" cy="115">
+            <title>
+                78 - giftgiving, 29 -&gt; 18, chapter: 16
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="952" cy="80">
+            <title>
+                79 - giftgiving, 31 -&gt; 18, chapter: 16
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="964" cy="50">
+            <title>
+                80 - inheritance, 9 -&gt; 13, chapter: 16
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="976" cy="50">
+            <title>
+                81 - inheritance, 9 -&gt; 14, chapter: 16
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="988" cy="50">
+            <title>
+                82 - death_neutral, 9 -&gt; 9, chapter: 16
+            </title>
+        </circle>
+        <circle r="3" fill="#333" cx="1000" cy="100">
+            <title>
+                83 - hostility_lethal, 31 -&gt; 21, chapter: 12
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="5" cy="60">
+            <title>
+                84 - origin, -1 -&gt; 7, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="41" cy="60">
+            <title>
+                85 - origin, -1 -&gt; 9, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="5" cy="90">
+            <title>
+                86 - origin, -1 -&gt; 10, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="29" cy="60">
+            <title>
+                87 - origin, -1 -&gt; 11, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="958" cy="35">
+            <title>
+                88 - origin, -1 -&gt; 13, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="970" cy="35">
+            <title>
+                89 - origin, -1 -&gt; 14, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="65" cy="35">
+            <title>
+                90 - origin, -1 -&gt; 15, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="315" cy="100">
+            <title>
+                91 - origin, -1 -&gt; 18, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="77" cy="140">
+            <title>
+                92 - origin, -1 -&gt; 19, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="77" cy="120">
+            <title>
+                93 - origin, -1 -&gt; 21, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="89" cy="120">
+            <title>
+                94 - origin, -1 -&gt; 22, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="101" cy="30">
+            <title>
+                95 - origin, -1 -&gt; 23, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="101" cy="0">
+            <title>
+                96 - origin, -1 -&gt; 24, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="160" cy="100">
+            <title>
+                97 - origin, -1 -&gt; 25, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="196" cy="85">
+            <title>
+                98 - origin, -1 -&gt; 26, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="375" cy="35">
+            <title>
+                99 - origin, -1 -&gt; 29, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="398" cy="100">
+            <title>
+                100 - origin, -1 -&gt; 31, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="744" cy="155">
+            <title>
+                101 - origin, -1 -&gt; 35, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="755" cy="35">
+            <title>
+                102 - origin, -1 -&gt; 36, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="779" cy="35">
+            <title>
+                103 - origin, -1 -&gt; 37, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="791" cy="35">
+            <title>
+                104 - origin, -1 -&gt; 38, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="803" cy="35">
+            <title>
+                105 - origin, -1 -&gt; 41, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="815" cy="35">
+            <title>
+                106 - origin, -1 -&gt; 42, chapter: 0
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="65" cy="90">
+            <title>
+                107 - last_seen, 7 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="994" cy="65">
+            <title>
+                108 - last_seen, 9 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="29" cy="90">
+            <title>
+                109 - last_seen, 10 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="41" cy="90">
+            <title>
+                110 - last_seen, 11 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="970" cy="65">
+            <title>
+                111 - last_seen, 13 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="982" cy="65">
+            <title>
+                112 - last_seen, 14 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="386" cy="35">
+            <title>
+                113 - last_seen, 15 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="958" cy="65">
+            <title>
+                114 - last_seen, 18 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="863" cy="35">
+            <title>
+                115 - last_seen, 19 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="1005" cy="85">
+            <title>
+                116 - last_seen, 21 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="244" cy="120">
+            <title>
+                117 - last_seen, 22 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="696" cy="100">
+            <title>
+                118 - last_seen, 23 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="291" cy="85">
+            <title>
+                119 - last_seen, 24 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="196" cy="20">
+            <title>
+                120 - last_seen, 25 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="232" cy="60">
+            <title>
+                121 - last_seen, 26 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="946" cy="130">
+            <title>
+                122 - last_seen, 29 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="1005" cy="115">
+            <title>
+                123 - last_seen, 31 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="851" cy="145">
+            <title>
+                124 - last_seen, 35 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="767" cy="65">
+            <title>
+                125 - last_seen, 36 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="791" cy="65">
+            <title>
+                126 - last_seen, 37 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="803" cy="65">
+            <title>
+                127 - last_seen, 38 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="815" cy="65">
+            <title>
+                128 - last_seen, 41 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+        <circle r="1.75" fill="#333" cx="827" cy="65">
+            <title>
+                129 - last_seen, 42 -&gt; -2, chapter: 17
+            </title>
+        </circle>
+    </g>
+</svg>

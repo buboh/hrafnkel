@@ -1,0 +1,30 @@
+action	action description	icon name	icon pack
+0	sibling	002-family tree.png	family
+1	descent	002-family tree.png	family
+2	marriage	002-family tree.png	family
+3	fostering	002-family tree.png	family
+4	betrothal	002-family tree.png	family
+5	inheritance	002-family tree.png	family
+6	succession	002-family tree.png	family
+7	placed in command	033-crown-1.png	medieval
+8	request assistance	spell	magic
+9	offer assistance	spell	magic
+10	provide information	047-papyrus.png	medieval
+11	discover information	047-papyrus.png	medieval
+12	invitation	048-banner.png	medieval
+13	giftgiving	magic	magic
+14	accusation	048-banner.png	medieval
+15	summons	pyre	magic
+16	lying	048-banner.png	medieval
+17	insult	048-banner.png	medieval
+18	threat	048-banner.png	medieval
+19	intervention	048-banner.png	medieval
+20	challenge	048-banner.png	medieval
+21	hostility_non-lethal	049-sword.png	medieval
+22	hostility_lethal	049-sword.png	medieval
+23	conversation_neutral	047-papyrus.png	medieval
+24	death_neutral	skull.png	magic
+25	request information	047-papyrus.png	medieval
+26	name giving	048-banner.png	medieval
+27	suicide	skull.png	magic
+28	ownership	048-banner.png	medieval

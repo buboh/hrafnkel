@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1599237784 "/Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/documents/contest.tex" "/Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/documents/contest.pdf" "contest" 1599237784
-  "/Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/documents/contest.aux" 1599237784 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/documents/contest.tex" 1599237781 6302 a1ba0463ab4b7cb9fce32ca46215a702 ""
+["pdflatex"] 1599238257 "/Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/documents/contest.tex" "/Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/documents/contest.pdf" "contest" 1599238257
+  "/Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/documents/contest.aux" 1599238257 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/documents/contest.tex" 1599238256 6334 17730c93c53904591bb926f0450b0753 ""
   "/usr/local/texlive/2019basic/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2019basic/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "/usr/local/texlive/2019basic/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -63,12 +63,12 @@
   "/usr/local/texlive/2019basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1560618702 2678474 410a7b9d27d98d21dd393a157b4835b0 ""
   "/usr/local/texlive/2019basic/texmf.cnf" 1554925189 628 6cfff46d1fd9ae1d47a88551035aa162 ""
   "contest.aux" 0 -1 0 "pdflatex"
-  "contest.tex" 1599237781 6302 a1ba0463ab4b7cb9fce32ca46215a702 ""
+  "contest.tex" 1599238256 6334 17730c93c53904591bb926f0450b0753 ""
   "llncs.cls" 1599236982 43467 a21466011e5ed5d4c3f1d5a9af897395 ""
   "logo.png" 1599236982 4111 fd09e4d56ee909af9fb5d355638e077c ""
   (generated)
-  "contest.pdf"
-  "contest.log"
-  "contest.aux"
   "/Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/documents/contest.pdf"
   "/Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/documents/contest.log"
+  "contest.log"
+  "contest.pdf"
+  "contest.aux"

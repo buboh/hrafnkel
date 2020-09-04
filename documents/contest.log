@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.15)  4 SEP 2020 18:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.15)  4 SEP 2020 18:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -222,30 +222,30 @@ Package grfext Info: Graphics extension search list:
  (/usr/local/texlive/2019basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Font Info:    Try loading font information for U+msa on input line 49.
+LaTeX Font Info:    Try loading font information for U+msa on input line 47.
  (/usr/local/texlive/2019basic/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 49.
+LaTeX Font Info:    Try loading font information for U+msb on input line 47.
  (/usr/local/texlive/2019basic/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <logo.png, id=1, 380.42125pt x 57.21375pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 53.
+Package pdftex.def Info: logo.png  used on input line 51.
 (pdftex.def)             Requested size: 104.1381pt x 15.66179pt.
  [1
 
 {/usr/local/texlive/2019basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/documents/logo.png>]
 
-/Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/documents/contest.tex:83: LaTeX Error: Command \quotedblbase unavailable in encoding OT1.
+/Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/documents/contest.tex:81: LaTeX Error: Command \quotedblbase unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.83 ...ar in the story (with the exception of „
+l.81 ...ar in the story (with the exception of „
                                                   hostility lethal“ toward...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -261,7 +261,7 @@ Here is how much of TeX's memory you used:
  319 hyphenation exceptions out of 8191
  41i,6n,27p,1010b,229s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on "/Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/documents/contest.pdf" (2 pages, 76985 bytes).
+Output written on "/Users/Moritz/Documents/TU/GD_Graph Drawing Algorithms/hrafnkel/documents/contest.pdf" (2 pages, 77749 bytes).
 PDF statistics:
  38 PDF objects out of 1000 (max. 8388607)
  25 compressed objects within 1 object stream
